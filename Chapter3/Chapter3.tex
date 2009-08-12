@@ -1,0 +1,41 @@
+\chapter{Computer Applications}
+
+\section{Spectral Tracking}
+\subsection{PartialTracker}
+
+\begin{verbatim}
+PartialTracker {
+	var <>window, <>time, task, <mags, <freq, <>number, <>audioIn=1;
+	var <>a, <>b, <>c, <f, <j, s, <>y, <>rq2, <>cutfreq, <>rqtime, <>o, <>t, <>z, <>dataArray;
+	var myfreq, <>magnitudes, <>frequencies, <>numBin=0, <>m;
+	var fftbuf, magbuf, freqbuf; //this should go - should fix PartialTrackerFile and FFTFilter
+
+	
+	*new {arg window=256, number=20;
+		^super.new.initPartialTracker(window, number);
+	}
+	
+	initPartialTracker {arg windowSize=256, numberPartials=20;
+		s = Server.local;
+		window = windowSize;
+		number = numberPartials;
+		time = 2048/44100;
+		
+		a = Buffer.alloc(s, windowSize*2, 1, 1);
+		b = Buffer.alloc(s, windowSize, 1, 1);
+		c = Buffer.alloc(s, windowSize, 1, 1);
+		}
+			
+\end{verbatim}
+
+\subsection{FFTFilter}
+\subsection{SpearToSC and SpearToMIDI}
+
+\section{Real-Time Scoring}
+\subsection{AlgorithmicScore}
+
+\section{Pre-compositional Tools}
+\subsection{MIDI Mapping}
+\subsection{MIDI Triggering}
+
+\label{ch:compamp}
