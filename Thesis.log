@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  24 AUG 2009 19:31
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  29 AUG 2009 19:34
 entering extended mode
  %&-line parsing enabled.
 **Thesis.tex
@@ -70,7 +70,7 @@ Overfull \hbox (0.4493pt too wide) in paragraph at lines 49--50
 of art \OT1/cmr/m/n/10.95 that which lib-er-ates art from the []
  []
 
-[5] [6] [7] [8] [9]) [10] (./Thesis.aux (./Chapter2/Chapter2.aux)) ) 
+[5] [6] [7] [8] [9] [10]) [11] (./Thesis.aux (./Chapter2/Chapter2.aux)) ) 
 Here is how much of TeX's memory you used:
  277 strings out of 493876
  3062 string characters out of 1150568
@@ -78,18 +78,18 @@ Here is how much of TeX's memory you used:
  3614 multiletter control sequences out of 10000+50000
  10413 words of font info for 36 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 28i,8n,20p,2716b,212s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local
-/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/local/texlive/
-2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texlive/2008/texm
-f-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist/fon
-ts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
-uesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
-r9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></
-usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on Thesis.pdf (10 pages, 97003 bytes).
+ 28i,8n,20p,2717b,212s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/
+local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/local/tex
+live/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texlive/2008
+/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dis
+t/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/typ
+e1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/
+cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.p
+fb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
+Output written on Thesis.pdf (11 pages, 100025 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
