@@ -1,9 +1,22 @@
 \documentclass[oneside,11pt]{report}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}   
 
 \topmargin = -0.42cm
 \oddsidemargin = -0.45cm
 \textwidth = 16.8cm
 \textheight = 23.55cm
+
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{sectsty}
+\chapterfont{\huge} 
+\usepackage[pdftex,bookmarks,colorlinks,breaklinks]{hyperref}  % PDF hyperlinks, with coloured links
+\hypersetup{linkcolor=red,citecolor=blue,filecolor=red,urlcolor=blue} % coloured links
+%\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black} % black links, for printed output
+
 
 %Possible titles: 
 %Reprogramming the Sensible in the Age of Digital Musics
@@ -17,15 +30,14 @@
 \begin{document}
 
 %\maketitle
-%
+
 %I want to thank my mommy! and my daddy! and my little friends and colleges and my supervisors and my and my and my...
-%
+
 %\pagenumbering{roman}
-%
+
 %\tableofcontents
 %\listoffigures
-%
-%
+
 %\include{Chapter1/Chapter1}
 \include{Chapter2/Chapter2}
 %\include{Chapter3/Chapter3}
@@ -35,11 +47,12 @@
 %\include{Chapter7/Chapter7}
 %\include{Chapter8/Chapter8}
 %\include{Chapter9/Chapter9}
-%
+
 %\bibliographystyle{plain}
 %\bibliography{thesis}
 
 \end{document}
 
 
-
+
+
