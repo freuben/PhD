@@ -1,16 +1,53 @@
-\contentsline {chapter}{\numberline {1}Computer Applications}{v}{chapter.1}
-\contentsline {section}{\numberline {1.1}Spectral Tracking}{v}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}PartialTracker}{v}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}FFTFilter}{v}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}SpearToSC and SpearToMIDI}{v}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Real-Time Scoring}{ix}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}AlgorithmicScore}{ix}{subsection.1.2.1}
-\contentsline {section}{\numberline {1.3}Pre-compositional Tools}{ix}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}MIDI Mapping}{ix}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}MIDI Triggering}{ix}{subsection.1.3.2}
-\contentsline {chapter}{\numberline {2}E-tudes}{x}{chapter.2}
-\contentsline {subsection}{\numberline {2.0.3}Other important aspects about E-tudes}{xiv}{subsection.2.0.3}
-\contentsline {section}{\numberline {2.1}E-tude 1}{xv}{section.2.1}
-\contentsline {section}{\numberline {2.2}E-tude 2}{xv}{section.2.2}
-\contentsline {section}{\numberline {2.3}E-tude 3}{xv}{section.2.3}
-\contentsline {section}{\numberline {2.4}E-tude 4}{xv}{section.2.4}
+\contentsline {chapter}{\numberline {1}Preface}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Reevaluation of the Notion of Modernity}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{4}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{6}{subsection.2.1.2}
+\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{6}{section*.3}
+\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{8}{section*.4}
+\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{12}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{14}{subsection.2.2.2}
+\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{17}{section*.5}
+\contentsline {section}{\numberline {2.3}The Postmodern Label}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}Re-thinking the Avant-garde}{22}{section.2.4}
+\contentsline {chapter}{\numberline {3}Introduction}{24}{chapter.3}
+\contentsline {section}{\numberline {3.1}Radical Music Today?}{24}{section.3.1}
+\contentsline {section}{\numberline {3.2}Technology, Appropiation and Postproduction}{24}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}The postmodern condition and `the society of the spectacle'}{26}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}critisisms}{26}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}The liberal-comunists: Open Source, etc.}{26}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Radical Musics: Resurecting the modernist political project?}{26}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Institutions, Music Industry, etc}{27}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Computer-Mediated Musicking}{27}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Compositional Stratergies based on reshaping relationships in music making}{27}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Reshaping relationships in music making through technology?}{27}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Evaluating Human and Machine Performance}{28}{subsection.3.4.3}
+\contentsline {subsubsection}{Iteration}{28}{section*.6}
+\contentsline {subsubsection}{Generative Music + AI}{28}{section*.7}
+\contentsline {section}{\numberline {3.5}Appropriation as a Compositional Strategy}{28}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Musica Derivata and Plunderphonics}{28}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Redefining the `Real' in Real-Time: A Lacanean reading of Live-Electronic Performance}{28}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}plunderphomes, ideology and the use of references}{29}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}On Appropriation}{29}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Real-Time Plunderphonics}{30}{subsection.3.5.5}
+\contentsline {subsubsection}{Some ideas of how to plunder}{30}{section*.8}
+\contentsline {subsubsection}{Micro and Macro Plundering}{31}{section*.9}
+\contentsline {subsection}{\numberline {3.5.6}Crossing Cultural Borders?}{31}{subsection.3.5.6}
+\contentsline {subsection}{\numberline {3.5.7}Interpassivity}{31}{subsection.3.5.7}
+\contentsline {chapter}{\numberline {4}Computer Applications}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spectral Tracking}{33}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}PartialTracker}{33}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}FFTFilter}{33}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}SpearToSC and SpearToMIDI}{33}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Real-Time Scoring}{36}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}AlgorithmicScore}{36}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Pre-compositional Tools}{36}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}MIDI Mapping}{36}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}MIDI Triggering}{36}{subsection.4.3.2}
+\contentsline {chapter}{\numberline {5}E-tudes}{37}{chapter.5}
+\contentsline {subsection}{\numberline {5.0.3}Other important aspects about E-tudes}{41}{subsection.5.0.3}
+\contentsline {section}{\numberline {5.1}E-tude 1}{42}{section.5.1}
+\contentsline {section}{\numberline {5.2}E-tude 2}{42}{section.5.2}
+\contentsline {section}{\numberline {5.3}E-tude 3}{42}{section.5.3}
+\contentsline {section}{\numberline {5.4}E-tude 4}{42}{section.5.4}
