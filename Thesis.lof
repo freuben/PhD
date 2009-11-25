@@ -4,13 +4,9 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces PartialTracker: Frequency and magnitude arrays.}}{35}{figure.4.1}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces FFTFilter: Spectral mapping of vocal contour.}}{36}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces FFTFilter: Noise filtered by vocal contour.}}{36}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces SPEAR graphical interface.}}{37}{figure.4.4}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces FFTFilter: Noise filtered by vocal contour.}}{37}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces SPEAR graphical interface.}}{38}{figure.4.4}
 \contentsline {figure}{\numberline {4.5}{\ignorespaces SpearToMIDI: Amplitude threshold selection.}}{38}{figure.4.5}
 \contentsline {figure}{\numberline {4.6}{\ignorespaces SPEARToMIDI: Point selection through frequency modulation threshold.}}{39}{figure.4.6}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces SPEARToMIDI: Note representation.}}{39}{figure.4.7}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.7}{\ignorespaces SPEARToMIDI: Note representation.}}{40}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces AlgorithmicScore: PartialTracker to Notes.}}{40}{figure.4.8}
