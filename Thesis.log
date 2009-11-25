@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  24 NOV 2009 20:46
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  25 NOV 2009 23:53
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -198,7 +198,8 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
-(./Thesis.aux (./Chapter4/Chapter4.aux
+(./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
@@ -220,7 +221,14 @@ LaTeX Warning: Label `fig:example' multiply defined.
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
-))
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `ch:compamp' multiply defined.
+
+) (./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux) (./Chapter7/Chapter7.aux)
+(./Chapter8/Chapter8.aux) (./Chapter9/Chapter9.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -360,7 +368,7 @@ Overfull \hbox (22.12946pt too wide) in paragraph at lines 33--33
 system(convert Chapter4/spectovocal.tif `dirname Chapter4/spectovocal.tif`/`bas
 ename Chapter4/spectovocal.tif .tif`.png)...executed.
 
-<Chapter4/spectovocal.png, id=83, 790.152pt x 496.9767pt>
+<Chapter4/spectovocal.png, id=257, 790.152pt x 496.9767pt>
 File: Chapter4/spectovocal.png Graphic file (type png)
 
 <use Chapter4/spectovocal.png>
@@ -368,7 +376,7 @@ system(convert Chapter4/spectonoise.tif `dirname Chapter4/spectonoise.tif`/`bas
 ename Chapter4/spectonoise.tif .tif`.png)...executed.
 
 
-<Chapter4/spectonoise.png, id=84, 794.97pt x 472.8867pt>
+<Chapter4/spectonoise.png, id=258, 794.97pt x 472.8867pt>
 File: Chapter4/spectonoise.png Graphic file (type png)
 
 <use Chapter4/spectonoise.png> [3]
@@ -376,7 +384,7 @@ system(convert Chapter4/Spear1.tif `dirname Chapter4/Spear1.tif`/`basename Chap
 ter4/Spear1.tif .tif`.png)...executed.
 
 
-<Chapter4/Spear1.png, id=99, 1373.13pt x 749.80125pt>
+<Chapter4/Spear1.png, id=274, 1373.13pt x 749.80125pt>
 File: Chapter4/Spear1.png Graphic file (type png)
 
 <use Chapter4/Spear1.png> [4 <./Chapter4/spectovocal.png (PNG copy)>] [5 <./Cha
@@ -385,7 +393,7 @@ system(convert Chapter4/Spear2.tif `dirname Chapter4/Spear2.tif`/`basename Chap
 ter4/Spear2.tif .tif`.png)...executed.
 
 
-<Chapter4/Spear2.png, id=118, 338.4645pt x 211.992pt>
+<Chapter4/Spear2.png, id=294, 338.4645pt x 211.992pt>
 File: Chapter4/Spear2.png Graphic file (type png)
 
 <use Chapter4/Spear2.png>
@@ -393,7 +401,7 @@ system(convert Chapter4/Spear3.tif `dirname Chapter4/Spear3.tif`/`basename Chap
 ter4/Spear3.tif .tif`.png)...executed.
 
 
-<Chapter4/Spear3.png, id=120, 437.7153pt x 278.2395pt>
+<Chapter4/Spear3.png, id=296, 437.7153pt x 278.2395pt>
 File: Chapter4/Spear3.png Graphic file (type png)
 
 <use Chapter4/Spear3.png> [6 <./Chapter4/Spear2.png (PNG copy)>]
@@ -401,55 +409,222 @@ system(convert Chapter4/Spear4.tif `dirname Chapter4/Spear4.tif`/`basename Chap
 ter4/Spear4.tif .tif`.png)...executed.
 
 
-<Chapter4/Spear4.png, id=128, 433.62pt x 278.2395pt>
+<Chapter4/Spear4.png, id=304, 433.62pt x 278.2395pt>
 File: Chapter4/Spear4.png Graphic file (type png)
  <use Chapter4/Spear4.png>
 [7 <./Chapter4/Spear3.png (PNG copy)>] [8 <./Chapter4/Spear4.png (PNG copy)>]
+Overfull \hbox (10.63208pt too wide) in paragraph at lines 114--114
+[]\OT1/cmtt/m/n/10.95 a.text("Improvise with pitch material", "Helvetica", 30, 
+30, 200, color: Color.rand);[] 
+ []
+
 system(convert Chapter4/algoscore1.tif `dirname Chapter4/algoscore1.tif`/`basen
 ame Chapter4/algoscore1.tif .tif`.png)...executed.
 
-
-<Chapter4/algoscore1.png, id=147, 478.78876pt x 487.8225pt>
+<Chapter4/algoscore1.png, id=328, 478.78876pt x 487.8225pt>
 File: Chapter4/algoscore1.png Graphic file (type png)
 
-<use Chapter4/algoscore1.png>
+<use Chapter4/algoscore1.png> [9]
+system(convert Chapter4/algoscore2.tif `dirname Chapter4/algoscore2.tif`/`basen
+ame Chapter4/algoscore2.tif .tif`.png)...executed.
+
+
+<Chapter4/algoscore2.png, id=334, 935.495pt x 360.34625pt>
+File: Chapter4/algoscore2.png Graphic file (type png)
+
+<use Chapter4/algoscore2.png>
 system(convert Chapter4/algoScore_partials.tif `dirname Chapter4/algoScore_part
 ials.tif`/`basename Chapter4/algoScore_partials.tif .tif`.png)...executed.
 
 
-<Chapter4/algoScore_partials.png, id=148, 1133.23375pt x 339.2675pt>
+<Chapter4/algoScore_partials.png, id=335, 1133.23375pt x 339.2675pt>
 File: Chapter4/algoScore_partials.png Graphic file (type png)
 
 <use Chapter4/algoScore_partials.png>
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 128--129
+Overfull \hbox (5.69046pt too wide) in paragraph at lines 143--144
  [][] 
  []
 
-) [9] [10 <./Chapter4/algoscore1.png> <./Chapter4/algoScore_partials.png>]
-(./Thesis.aux (./Chapter4/Chapter4.aux))
+[10 <./Chapter4/algoscore1.png> <./Chapter4/algoscore2.png>]) [11 <./Chapter4/a
+lgoScore_partials.png>] (./Thesis.aux (./Chapter4/Chapter4.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5058 strings out of 493876
- 73822 string characters out of 1150568
- 144442 words of memory out of 3000000
- 8200 multiletter control sequences out of 10000+50000
+ 5209 strings out of 493876
+ 76045 string characters out of 1150568
+ 147101 words of memory out of 3000000
+ 8262 multiletter control sequences out of 10000+50000
  13777 words of font info for 52 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 30i,8n,38p,2396b,283s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/l
-ocal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texli
-ve/2008/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/tex
-mf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fon
-ts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
-uesky/cm/cmti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/
-cmti9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb
->
-Output written on Thesis.pdf (10 pages, 1051316 bytes).
+ 30i,8n,38p,2560b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.8.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.8.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.8.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.8} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.7} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.6} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.0.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.3.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.5.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.4.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.4.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.4.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.1.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.2} has been referenced but does not exist, 
+replaced by a fixed one
+
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/loc
+al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive
+/2008/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf
+-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts
+/type1/bluesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/blue
+sky/cm/cmti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
+ti9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb>
+Output written on Thesis.pdf (11 pages, 1082493 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 131072)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 100 named destinations out of 1000 (max. 131072)
+ 482 words of extra memory for PDF output out of 10000 (max. 10000000)
 

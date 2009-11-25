@@ -97,31 +97,46 @@ Display as score. Score animations...
 
 \subsection{AlgorithmicScore}
 
-\href{http://github.com/freuben/FedeLib/blob/master/AlgorithmicScore/AlgorithmicScore.sc}{AlgorithmicScore} is a class that visualizes different types of notation in real-time. It is programmed as a graphical user interface (GUI) in SuperCollider but receives no input in the GUI window itself. Instead, this class only displays notes, letters, symbols and other visual aids for real-time scoring from code that can be evaluated in the interpreter, or within a compiled class in the SuperCollider language. It displays some traditional musical symbols including notes, accidentals, clefs, dynamics, etc., that are readymade fonts in combination with non-standard notations. Stems and flags are purposely not implemented to not give too much visual information to the performer while following the score. Note-heads can be of different type and color. There are four types of different clefs that are implemented: treble, bass, alto, tenor.  If a clef is selected, a staff is generated in which the notes will appear. The information to be placed in the score can be evaluated in an array consisting of the note position from left to right, staff number, note-head type, note, accidental and color. There are three array types that can be used which respond to different notation modes: free, enharmonic and chromatic. In the free mode, notes are selected by a number that does not correspond to the clef but to the position from top to bottom starting with zero as the first leisure line bellow the bottom line of the staff. Moreover, the note value can not only be negative but also a float number, which results in a position in between notes. This mode can be useful for conveying movement if the score were to be animated. The enharmonic mode, takes a string representing the note and octave---were c4 equals middle C---and positions the note according to the selected clef. It is also possible to select the type of accidental between flat, sharp and natural. Additionally, if the note exceeds four leisure lines, the programme places an \emph{8va} sign and if it is an octave bellow that, it places a \emph{15ma} sign. The chromatic mode, is similar to the enharmonic, but only uses sharps as accidentals and places a natural in front of each note that is diatonic. This mode is useful to receive note information as midi numbers.
+\href{http://github.com/freuben/FedeLib/blob/master/AlgorithmicScore/AlgorithmicScore.sc}{AlgorithmicScore} is a class that visualizes different types of notation in real-time. It is programmed as a graphical user interface (GUI) in SuperCollider but receives no input in the GUI window itself. Instead, this class only displays notes, letters, symbols and other visual aids for real-time scoring from code that can be evaluated in the interpreter, or within a compiled class in the SuperCollider language. It displays some traditional musical symbols including notes, accidentals, clefs, dynamics, etc., that are readymade fonts\footnote{These fonts are MusiSync by Robert Allgeyer and Sonora by Christian Texier.} in combination with non-standard notations. Stems and flags are purposely not implemented to not give too much visual information to the performer while following the score. Note-heads can be of different type and color. There are four types of different clefs that are implemented: treble, bass, alto, tenor.  If a clef is selected, a staff is generated in which the notes will appear. The information to be placed in the score can be evaluated in an array consisting of the note position from left to right, staff number, note-head type, note, accidental and color. There are three array types that can be used which respond to different notation modes: free, enharmonic and chromatic. In the free mode, notes are selected by a number that does not correspond to the clef but to the position from top to bottom starting with zero as the first leisure line bellow the bottom line of the staff. Moreover, the note value can not only be negative but also a float number, which results in a position in between notes. This mode can be useful for conveying movement if the score were to be animated. The enharmonic mode, takes a string representing the note and octave---were c4 equals middle C---and positions the note according to the selected clef. It is also possible to select the type of accidental between flat, sharp and natural. If the note exceeds four leisure lines, the programme places an \emph{8va} sign and if it is an octave bellow that, it places a \emph{15ma} sign. The chromatic mode, is similar to the enharmonic, but only uses sharps as accidentals and places a natural in front of each note that is diatonic. This mode is useful to receive note information as midi numbers. In addition, it is possible to place written directions with different colors in the score.
 
-The following piece of code, generates a new window and 
-
+The following code example produces a score in real-time if evaluated from the interpreter window: 
 \begin{verbatim}
-a = AlgorithmicScore.screenBounds;
-a.score([\bass, \treble, \treble], 1.0, 1, 1.3);
+a = AlgorithmicScore.screenBounds; //start class
+a.score([\bass, \treble, \treble]); //3 staffs
 //[pos, [staff, noteType, note, acc, color]]:
 ~staff1 = [[0, [0, 1, "c3"]], [1, [0, 0, "b3", \flat, \blue]]]; 
 ~staff2 = [[0, [1, 0, "d5", \flat]]];
 ~staff3 = [[0, [2, 1, "a3", \nat, \red]]];
 a.enharmonic(~staff1 ++ ~staff2 ++ ~staff3); //writes notes
 a.expression("p"); //expression for dynamics
-a.text("Improvise with pitch material", "Helvetica", 30, 30, 200, 1, Color.rand);
+a.text("Improvise with pitch material", "Helvetica", 30, 30, 200, color: Color.rand);
+//string, fontType, letterSize, inLeft, inTop, color  
 \end{verbatim}
-
-The result:
-
+The code generates a new window and three staffs with one bass and two treble clefs. The separate arrays correspond to each staff\footnote{Note that the first value is for the position of the note from left to right and that the values are already scaled so that in the entire length of screen can fit 24 notes.} and are concatenated to respond to the enharmonic mode. In addition, an expression to play \emph{piano} and a text description are added. Figure 4.7 shows the GUI that the AlgorithmicScore class creates when the code above is evaluated. 
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
-   \includegraphics[width=10cm]{Chapter4/algoscore1.tif} %change centimeters for resizeing
+   \includegraphics[width=9cm]{Chapter4/algoscore1.tif} %change centimeters for resizeing
    \caption{AlgorithmicScore: Enharmonic mode.}
    \label{fig:example}
 \end{figure}\
 
+Another feature of the application is a piano clef type which instead of creating only one staff that responds to the corresponding clef, it produces two staffs with one treble clef on the top staff and one bass clef on the bottom staff. In this clef type, the note is placed on the treble clef staff if it is higher or equal to middle C and if it is lower than middle C, it is placed on the bass clef staff. Furthermore, it is possible to score in real-time the
+
+\begin{verbatim}
+a = AlgorithmicScore.screenBounds; //start class
+a.score([\piano]); //piano staff
+~notes = Array.fill(16, {rrand("f1".notemidi,"g6".notemidi)}); 
+//random notes between f1 and g6
+~color = Array.fill(~notes.size, \black).insert(rrand(0,15),\red);
+//all notes black, except a random red note
+a.notes(~notes, color: ~color);
+\end{verbatim}
+\begin{figure}[htbp] %  figure placement: here, top, bottom, or page
+   \centering
+   \includegraphics[width=14cm]{Chapter4/algoscore2.tif} %change centimeters for resizeing
+   \caption{AlgorithmicScore: Chromatic mode.}
+   \label{fig:example}
+\end{figure}\
 
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
