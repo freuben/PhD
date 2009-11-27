@@ -120,8 +120,7 @@ The code generates a new window and three staffs with one bass and two treble cl
    \label{fig:example}
 \end{figure}\
 
-Another feature of the application is a piano clef type which instead of creating only one staff that responds to the corresponding clef, it produces two staffs with one treble clef on the top staff and one bass clef on the bottom staff. In this clef type, the note is placed on the treble clef staff if it is higher or equal to middle C and if it is lower than middle C, it is placed on the bass clef staff. Furthermore, it is possible to score in real-time the
-
+Another feature of the application is a piano clef type which instead of creating only one staff that responds to the corresponding clef, it produces two staffs with one treble clef on the top staff and one bass clef on the bottom staff. In this clef type, the note is placed on the treble clef staff if it is higher or equal to middle C and if it is lower than middle C, it is placed on the bass clef staff. Furthermore, it is possible to score in real-time by evaluating an array of MIDI note numbers. The class takes the MIDI numbers and translates them to the correct pitch type and octave in the chromatic mode. This procedure is a very convenient form of sending MIDI values to be scored in real time. The following example of code takes sixteen random notes from f1 to g6 and chooses one of them randomly and changes its color to red:
 \begin{verbatim}
 a = AlgorithmicScore.screenBounds; //start class
 a.score([\piano]); //piano staff
@@ -137,7 +136,7 @@ a.notes(~notes, color: ~color);
    \caption{AlgorithmicScore: Chromatic mode.}
    \label{fig:example}
 \end{figure}\
-
+The \emph{notes} message takes as input one array of notes, one of positions and one of colors. If the array of positions is not specified, then the computer   
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=17cm]{Chapter4/algoScore_partials.tif} %change centimeters for resizeing
