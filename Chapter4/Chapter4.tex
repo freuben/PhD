@@ -19,7 +19,7 @@ Spectrum analysis for dynamics, pitch and rhythm extraction.
 
 
 \subsection{PartialTracker}
-
+\hypertarget{partrack}{}
 \href{http://github.com/freuben/FedeLib/blob/master/PartialTracking/PartialTracker.sc}{PartialTracker} is a SuperCollider class for real-time partial extraction that diminishes the amount of FFT data by selecting the loudest bins and discarding the softer magnitudes with the purpose of having a limited amount of values to be returned as simple arrays for frequency and magnitude. It does so by taking an incoming audio signal, performing an FFT analysis and discarding spectral data in two ways: either by passing only the bins that are above a given magnitude threshold or by selecting a value that returns the strongest number of bins. For this purpose, I used the PV\_MagAbove and PV\_MaxMagN\footnote{PV\_MaxMagN is part of JoshUGens by \href{http://www.realizedsound.net/josh/}{Joshua Parmenter}, which is part of the \href{http://sourceforge.net/projects/sc3-plugins/}{sc3-plugins project}.} phase vocoder unit generators. In order to have access to this data in the language side of SuperCollider, I used PV\_MagBuffer and PV\_FreqBuffer\footnote{PV\_MagBuffer and PV\_FreqBuffer are part of JoshUGens.} to store this information into a buffer. Ones stored in a buffer, the information can be accessed as an array and be manipulated freely. Nevertheless, the buffer stores all of the bins of the FFT and therefore the bins with the magnitudes that were not empty have still to be collected and indexed to access the corresponding frequency values. The resulting arrays therefore only constitute the number of strongest bins, which can be defined by the user. The following code shows an example of the frequency and magnitude arrays for the ten strongest bins:
 
 \begin{verbatim}
@@ -35,7 +35,7 @@ The purpose of this class is to have easy access to relevant FFT information wit
 
 \subsection{FFTFilter}
 
-\href{http://github.com/freuben/FedeLib/blob/master/PartialTracking/PartialTracker.sc}{FFTFilter} inherits functionality from PartialTracker and uses the information of the frequency array to control the bandwidth and center frequency of a two pole resonant filter. This FFT controlled filter is designed to be used to filter a signal with a rich spectral content, such as different types of noise, with the information given by an FFT analysis of another signal that should be more limited in its frequency range. A function is evaluated in a loop in which an argument that can be changed by the user represents the time value between each iteration. This function accesses the highest and lowest frequency values from the array calculated by the PartialTracker functionality every time the loop is evaluated. Since the purpose is to make a smooth line instead of discrete points, the signal must be lagged exponentially to produce a continuous control signal. By following this procedure, it is possible to approximately track the contour of the frequencies that have a stronger presence, given that the settings for the amount of strongest bins and magnitude threshold are appropriate for the specific spectral characteristics of the signal. Figure 4.1 
+\href{http://github.com/freuben/FedeLib/blob/master/PartialTracking/PartialTracker.sc}{FFTFilter} inherits functionality from \hyperlink{partrack}{PartialTracker} and uses the information of the frequency array to control the bandwidth and center frequency of a two pole resonant filter. This FFT controlled filter is designed to be used to filter a signal with a rich spectral content, such as different types of noise, with the information given by an FFT analysis of another signal that should be more limited in its frequency range. A function is evaluated in a loop in which an argument that can be changed by the user represents the time value between each iteration. This function accesses the highest and lowest frequency values from the array calculated by the PartialTracker functionality every time the loop is evaluated. Since the purpose is to make a smooth line instead of discrete points, the signal must be lagged exponentially to produce a continuous control signal. By following this procedure, it is possible to approximately track the contour of the frequencies that have a stronger presence, given that the settings for the amount of strongest bins and magnitude threshold are appropriate for the specific spectral characteristics of the signal. Figure 4.1 
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=10cm]{Chapter4/spectovocal.tif} %change centimeters for resizeing
@@ -51,8 +51,8 @@ shows a spectrogram of speech and how the FFTFilter maps the contour of the voca
 \end{figure}
 Ones the trajectory of the filter is set by the frequency data extracted from the FFT, an envelope follower maps the amplitude of the sound that was used as the FFT input to control the amplitude of the resonant filter. By combining the amplitude envelope and frequency contour of one sound to control a resonant filter that is applied to another sound, it is possible to incorporate characteristics of the analyzed sound to the filtered sound source.
 
-\subsection{SpearToSC and SpearToMIDI}
-
+\subsection{SpearToSC}
+\hypertarget{spearsc}{}
 \href{http://github.com/freuben/FedeLib/blob/master/SpearToSC/SpearToSC.sc}{SpearToSC} is a class that takes data from the open source software application called SPEAR\footnote{Michael Klingbeil, SPEAR, 2005, URL: \href{http://www.klingbeil.com/spear/}{http://www.klingbeil.com/spear/}.} and transfers it to an array in SuperCollider. SPEAR uses a variation of the traditional McAulay-Quartieri procedure and ``attempts to represent a sound with many individual sinusoidal tracks (partials), each corresponding to a single sinusoidal wave with time varying frequency and amplitude.''\footnote{Michael Klingbeil, M. 2005. ``Software for spectral analysis, editing, and synthesis.'' in \emph{Proceedings of ICMC}, vol. 2005, 2005. URL: \href{http://www.klingbeil.com/papers/spearfinal05.pdf}{http://www.klingbeil.com/papers/spearfinal05.pdf}.} SPEAR provides a graphical representation of a sound\footnote{Spectral analysis, where the y-axis represents frequency in hertz and the x-axis represents time in seconds.} (as seen in Figure 4.3) in which it is possible to select the individual sinusoidal tracks and allows to isolate and access the information for each individual partial. 
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
@@ -62,7 +62,9 @@ Ones the trajectory of the filter is set by the frequency data extracted from th
 \end{figure}
 The amplitude and frequency information of each partial is given by frame and can be stored in a text file. SpearToSC reads the text file produced by SPEAR\footnote{SpearToSC reads SPEAR text files in the \emph{Text - Partials} format only.} as a string and strips it into a multidimensional array in SuperCollider. It is therefore possible to access and manipulate this data within the SuperCollider language and server and re-synthesize this information not only with sinusoidal waves, but with any type of unit generator. 
 
-\href{http://github.com/freuben/FedeLib/blob/master/SpearToSC/SpearToMIDI.sc}{SpearToMIDI} is a class that inherits functionality from SpearToSC and reduces the information given by SPEAR to be used as data to produce a MIDI file or to control SuperCollider synthesis definitions. The purpose of this class is to reduce the spectral information to an amount of data that can later produce notated material for a written score, a MIDI file or a control system to be used for triggering synthesis algorithms. The data in the text file generated by SPEAR is available by frame and gives too much information for this purpose. Therefore, SpearToMIDI reduces this data in four stages: First, it takes a magnitude threshold argument which gets rid of all of the partial information that lies bellow this value (as seen in Figure 4.4).
+\subsection{SpearToMIDI}
+
+\href{http://github.com/freuben/FedeLib/blob/master/SpearToSC/SpearToMIDI.sc}{SpearToMIDI} is a class that inherits functionality from \hyperlink{spearsc}{SpearToSC} and reduces the information given by SPEAR to be used as data to produce a MIDI file or to control SuperCollider synthesis definitions. The purpose of this class is to reduce the spectral information to an amount of data that can later produce notated material for a written score, a MIDI file or a control system to be used for triggering synthesis algorithms. The data in the text file generated by SPEAR is available by frame and gives too much information for this purpose. Therefore, SpearToMIDI reduces this data in four stages: First, it takes a magnitude threshold argument which gets rid of all of the partial information that lies bellow this value (as seen in Figure 4.4).
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=9cm]{Chapter4/Spear2.tif} %change centimeters for resizeing
@@ -94,6 +96,8 @@ The results of this stage can be used to generate a MIDI file\footnote{Using the
 
 \emph{Interpassivity.} Improvisation, etc.
 Display as score. Score animations...
+Computer conductor.
+Computer-aided conducting... Human decides in real-time sections, etc.
 
 \subsection{AlgorithmicScore}
 
@@ -136,13 +140,18 @@ a.notes(~notes, color: ~color);
    \caption{AlgorithmicScore: Chromatic mode.}
    \label{fig:example}
 \end{figure}\
-The \emph{notes} message takes as input one array of notes, one of positions and one of colors. If the array of positions is not specified, then the computer   
+The \emph{notes} message\footnote{A message is the type of operation that the class performs depending on the type of message it receives.} takes as input one array of notes, one of positions and one of colors. If the array of positions is not specified, the computer arranges the positions equally from left to right. Figure 1.8 shows the resulting score generated by the code. Note that the notes are spread between the treble and bass clefs because the piano clef type is selected. 
+
+This method for generating scores can be very useful to notate pre-composed and aleatoric material in real-time. Moreover, this application is ideal to to visualize pitch or rhythmic information derived from machine listening techniques such as partial tracking. Real-time scoring is specially relevant when using machine listening applications because the material that is notated is extracted from sound characteristics that are specific to the moment and space of the performance. \mbox{Figure 1.9} shows an example that uses the \hyperlink{partrack}{PartialTracker} class to extract MIDI note numbers from the strongest twenty partials of a spectrum. The resulting score is therefore generated in real-time and is specific to the space and time in which the partials are extracted.
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=17cm]{Chapter4/algoScore_partials.tif} %change centimeters for resizeing
    \caption{AlgorithmicScore: PartialTracker to Notes.}
    \label{fig:example}
 \end{figure}\
+
+A sense of movement can be generated using the AlgorithmicScore class if the notes and other graphics are imbedded within a \emph{routine}.\footnote{Routines in SuperCollider are functions used for scheduling timed events using a clock that can be specified.} Therefore, it is possible to animate the graphical user interface including the notation elements for different purposes. One purpose for using score animations is to convey a sense of gesture by animating the notes such that they appear to be moving in specific directions.\footnote{See pp for a discussion about the score animations used in the work \emph{Zizek!?}.} It is possible then to make notes appear as if they are skipping or jumping by changing note values every time an element of the \emph{routine} is evaluated. It is also possible to achieve the sense of a note gradually moving from left to right by gradually changing the numbers for the position of a note. In addition, one can animate the direction from top to bottom by gradually changing the note values in free mode. Furthermore, generating movement in real-time scoring can express a sense of timing and rhythm. The AlgorithmicScore class gives the possibility of scheduling a mixture of written directions, notation, chronometers, arrows and other graphics.  Visual cues can be given through the computer display to signal the beginning and end of sections and other important timing indications. The use of colors to announce silence and new sections is also possible when using this class. 
+Rythm: Given that the AlgorithmicScore class does not use note stems and flags as an element of notation, rhythm may be expressed by animation.
 
 \section{Pre-compositional Tools}
 
