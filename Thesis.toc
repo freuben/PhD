@@ -9,54 +9,53 @@
 \contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{12}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{14}{subsection.2.2.2}
 \contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{16}{section*.5}
-\contentsline {section}{\numberline {2.3}The Postmodern Label}{19}{section.2.3}
+\contentsline {section}{\numberline {2.3}The Postmodern Label}{18}{section.2.3}
 \contentsline {section}{\numberline {2.4}Re-thinking the Avant-garde}{22}{section.2.4}
 \contentsline {chapter}{\numberline {3}Introduction}{24}{chapter.3}
-\contentsline {section}{\numberline {3.1}Radical Music Today?}{24}{section.3.1}
-\contentsline {section}{\numberline {3.2}The definition of music in the \emph {ethical regime}.}{25}{section.3.2}
-\contentsline {section}{\numberline {3.3}Free improvisation as a political model?}{25}{section.3.3}
-\contentsline {section}{\numberline {3.4}Technology, Appropiation and Postproduction}{26}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}The postmodern condition in the digital age}{27}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}The liberal-comunists: Open Source, etc.}{27}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}Computer-Mediated Musicking}{28}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Compositional Stratergies based on reshaping relationships in music making}{28}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Reshaping relationships in music making through technology?}{28}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Evaluating Human and Machine Performance}{29}{subsection.3.5.3}
-\contentsline {section}{\numberline {3.6}Appropriation as a Compositional Strategy}{29}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Musica Derivata and Plunderphonics}{29}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Redefining the `Real' in Real-Time}{29}{subsection.3.6.2}
-\contentsline {subsection}{\numberline {3.6.3}plunderphomes, ideology and the use of references}{30}{subsection.3.6.3}
-\contentsline {subsection}{\numberline {3.6.4}On Appropriation}{30}{subsection.3.6.4}
-\contentsline {subsection}{\numberline {3.6.5}Real-Time Plunderphonics}{31}{subsection.3.6.5}
-\contentsline {subsubsection}{Some ideas of how to plunder}{31}{section*.6}
-\contentsline {subsubsection}{Micro and Macro Plundering}{32}{section*.7}
-\contentsline {subsection}{\numberline {3.6.6}Crossing Cultural Borders?}{32}{subsection.3.6.6}
-\contentsline {subsection}{\numberline {3.6.7}Interpassivity}{32}{subsection.3.6.7}
-\contentsline {chapter}{\numberline {4}Computer Applications}{34}{chapter.4}
-\contentsline {section}{\numberline {4.1}Spectral Tracking}{35}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}PartialTracker}{35}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}FFTFilter}{36}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}SpearToSC}{37}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}SpearToMIDI}{39}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Real-Time Scoring}{41}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}AlgorithmicScore}{41}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Computer-Aided-Composition Tools}{46}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Score Visualization}{46}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}MIDI Triggering}{49}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Voice Leading}{50}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Live-electronics}{50}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Envelope Taxonomies}{50}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Spectrum Driven Sampler}{50}{subsection.4.4.2}
-\contentsline {chapter}{\numberline {5}E-tudes}{51}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.3}Other important aspects about E-tudes}{55}{subsection.5.0.3}
-\contentsline {section}{\numberline {5.1}E-tude 1}{56}{section.5.1}
-\contentsline {section}{\numberline {5.2}E-tude 2}{56}{section.5.2}
-\contentsline {section}{\numberline {5.3}E-tude 3}{56}{section.5.3}
-\contentsline {section}{\numberline {5.4}E-tude 4}{56}{section.5.4}
-\contentsline {chapter}{\numberline {6}On Violence}{57}{chapter.6}
-\contentsline {chapter}{\numberline {7}Zizek?}{58}{chapter.7}
-\contentsline {chapter}{\numberline {8}FreuPinta}{59}{chapter.8}
-\contentsline {section}{\numberline {8.1}Simulation Series}{59}{section.8.1}
-\contentsline {section}{\numberline {8.2}Occupation Series}{59}{section.8.2}
-\contentsline {section}{\numberline {8.3}Transgression Series}{59}{section.8.3}
-\contentsline {chapter}{\numberline {9}Conclusion}{60}{chapter.9}
+\contentsline {section}{\numberline {3.1}The emancipatory potential of music}{24}{section.3.1}
+\contentsline {section}{\numberline {3.2}Radical Music Today?}{25}{section.3.2}
+\contentsline {section}{\numberline {3.3}The definition of music in the \emph {ethical regime}.}{26}{section.3.3}
+\contentsline {section}{\numberline {3.4}Free improvisation as a political model?}{27}{section.3.4}
+\contentsline {section}{\numberline {3.5}Technology, Appropiation and Postproduction}{28}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}The postmodern condition in the digital age}{29}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}The liberal-comunists: Open Source, etc.}{29}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Computer-Mediated Musicking}{30}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Compositional Stratergies based on reshaping relationships in music making}{30}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Reshaping relationships in music making through technology?}{30}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Musica Derivata and Plunderphonics}{30}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Redefining the `Real' in Real-Time}{31}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}plunderphomes, ideology and the use of references}{32}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}On Appropriation}{32}{subsection.3.6.6}
+\contentsline {subsection}{\numberline {3.6.7}Real-Time Plunderphonics}{32}{subsection.3.6.7}
+\contentsline {subsubsection}{Some ideas of how to plunder}{33}{section*.6}
+\contentsline {subsubsection}{Micro and Macro Plundering}{33}{section*.7}
+\contentsline {subsection}{\numberline {3.6.8}Crossing Cultural Borders?}{34}{subsection.3.6.8}
+\contentsline {subsection}{\numberline {3.6.9}Interpassivity}{34}{subsection.3.6.9}
+\contentsline {chapter}{\numberline {4}Computer Applications}{35}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spectral Tracking}{36}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}PartialTracker}{36}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}FFTFilter}{37}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}SpearToSC}{38}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}SpearToMIDI}{40}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Real-Time Scoring}{42}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}AlgorithmicScore}{42}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Computer-Aided-Composition Tools}{47}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Score Visualization}{47}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}MIDI Triggering}{50}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Voice Leading}{51}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Live-electronics}{51}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Envelope Taxonomies}{51}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Spectrum Driven Sampler}{51}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}E-tudes}{52}{chapter.5}
+\contentsline {subsection}{\numberline {5.0.3}Other important aspects about E-tudes}{56}{subsection.5.0.3}
+\contentsline {section}{\numberline {5.1}E-tude 1}{57}{section.5.1}
+\contentsline {section}{\numberline {5.2}E-tude 2}{57}{section.5.2}
+\contentsline {section}{\numberline {5.3}E-tude 3}{57}{section.5.3}
+\contentsline {section}{\numberline {5.4}E-tude 4}{57}{section.5.4}
+\contentsline {chapter}{\numberline {6}On Violence}{58}{chapter.6}
+\contentsline {chapter}{\numberline {7}Zizek?}{59}{chapter.7}
+\contentsline {chapter}{\numberline {8}FreuPinta}{60}{chapter.8}
+\contentsline {section}{\numberline {8.1}Simulation Series}{60}{section.8.1}
+\contentsline {section}{\numberline {8.2}Occupation Series}{60}{section.8.2}
+\contentsline {section}{\numberline {8.3}Transgression Series}{60}{section.8.3}
+\contentsline {chapter}{\numberline {9}Conclusion}{61}{chapter.9}
