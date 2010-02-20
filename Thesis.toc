@@ -1,18 +1,19 @@
 \contentsline {chapter}{\numberline {1}Preface}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Background}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{6}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{6}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{8}{subsection.2.1.2}
-\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{8}{section*.2}
-\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{10}{section*.3}
-\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{12}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{14}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{16}{subsection.2.2.2}
-\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{19}{section*.4}
-\contentsline {section}{\numberline {2.3}The Postmodern Label}{21}{section.2.3}
-\contentsline {section}{\numberline {2.4}Re-thinking the Avant-garde}{24}{section.2.4}
-\contentsline {chapter}{\numberline {3}Introduction}{26}{chapter.3}
-\contentsline {section}{\numberline {3.1}The \emph {strategic} and \emph {aesthetic} types of avant-garde in music}{26}{section.3.1}
+\contentsline {chapter}{\numberline {2}Background}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{7}{subsection.2.1.2}
+\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{7}{section*.2}
+\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{9}{section*.3}
+\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{11}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{15}{subsection.2.2.2}
+\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{18}{section*.4}
+\contentsline {section}{\numberline {2.3}The Postmodern Label}{20}{section.2.3}
+\contentsline {section}{\numberline {2.4}Re-thinking the Avant-garde}{23}{section.2.4}
+\contentsline {chapter}{\numberline {3}Introduction}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Redefining the Musical Subject?}{25}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}The \emph {strategic} and \emph {aesthetic} types of avant-garde in music}{26}{subsection.3.1.1}
 \contentsline {section}{\numberline {3.2}The definition of music in the \emph {ethical regime}.}{28}{section.3.2}
 \contentsline {section}{\numberline {3.3}Technology, Appropiation and Postproduction}{29}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}The postmodern condition in the digital age}{30}{subsection.3.3.1}
@@ -20,7 +21,7 @@
 \contentsline {section}{\numberline {3.4}Computer-Mediated Musicking}{31}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Compositional Stratergies based on reshaping relationships in music making}{31}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Reshaping relationships in music making through technology?}{31}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Musica Derivata and Plunderphonics}{32}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.3}Musica Derivata and Plunderphonics}{31}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}plunderphomes, ideology and the use of references}{32}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}On Appropriation}{32}{subsection.3.4.5}
 \contentsline {subsection}{\numberline {3.4.6}Real-Time Plunderphonics}{33}{subsection.3.4.6}
