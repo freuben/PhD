@@ -11,24 +11,23 @@
 \contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{18}{section*.4}
 \contentsline {section}{\numberline {2.3}The Postmodern Label}{20}{section.2.3}
 \contentsline {section}{\numberline {2.4}Re-thinking the Avant-garde}{23}{section.2.4}
-\contentsline {chapter}{\numberline {3}Introduction}{25}{chapter.3}
+\contentsline {chapter}{\numberline {3}Conceptual Framework}{25}{chapter.3}
 \contentsline {section}{\numberline {3.1}Redefining the Musical Subject?}{25}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}The \emph {strategic} and \emph {aesthetic} types of avant-garde in music}{26}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}The definition of music in the \emph {ethical regime}.}{28}{section.3.2}
-\contentsline {section}{\numberline {3.3}Technology, Appropiation and Postproduction}{29}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}The postmodern condition in the digital age}{30}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}The liberal-comunists: Open Source, etc.}{30}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Computer-Mediated Musicking}{31}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Compositional Stratergies based on reshaping relationships in music making}{31}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Reshaping relationships in music making through technology?}{31}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Musica Derivata and Plunderphonics}{31}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}plunderphomes, ideology and the use of references}{32}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}On Appropriation}{32}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {3.4.6}Real-Time Plunderphonics}{33}{subsection.3.4.6}
-\contentsline {subsubsection}{Some ideas of how to plunder}{33}{section*.5}
+\contentsline {section}{\numberline {3.2}The definition of music in the \emph {ethical regime}.}{29}{section.3.2}
+\contentsline {section}{\numberline {3.3}Technology, Appropiation and Postproduction}{30}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}The postmodern condition in the digital age}{31}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}The liberal-comunists: Open Source, etc.}{31}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Compositional Stratergies based on reshaping relationships in music making}{32}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Reshaping relationships in music making through technology?}{32}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Musica Derivata and Plunderphonics}{32}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}plunderphomes, ideology and the use of references}{33}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}On Appropriation}{33}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Real-Time Plunderphonics}{33}{subsection.3.3.8}
+\contentsline {subsubsection}{Some ideas of how to plunder}{34}{section*.5}
 \contentsline {subsubsection}{Micro and Macro Plundering}{34}{section*.6}
-\contentsline {subsection}{\numberline {3.4.7}Crossing Cultural Borders?}{34}{subsection.3.4.7}
-\contentsline {subsection}{\numberline {3.4.8}Interpassivity}{34}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {3.3.9}Crossing Cultural Borders?}{35}{subsection.3.3.9}
+\contentsline {subsection}{\numberline {3.3.10}Interpassivity}{35}{subsection.3.3.10}
 \contentsline {chapter}{\numberline {4}Computer Applications}{36}{chapter.4}
 \contentsline {section}{\numberline {4.1}Spectral Tracking}{37}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}PartialTracker}{37}{subsection.4.1.1}
@@ -46,11 +45,10 @@
 \contentsline {subsection}{\numberline {4.4.2}Spectrum Driven Sampler}{52}{subsection.4.4.2}
 \contentsline {chapter}{\numberline {5}Compositions}{53}{chapter.5}
 \contentsline {section}{\numberline {5.1}E-tudes}{53}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Other important aspects about E-tudes}{57}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}E-tude 1}{58}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}E-tude 2}{58}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}E-tude 3}{58}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}E-tude 4}{58}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.1}E-tude 1}{58}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}E-tude 2}{58}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}E-tude 3}{58}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}E-tude 4}{58}{subsection.5.1.4}
 \contentsline {section}{\numberline {5.2}On Violence}{58}{section.5.2}
 \contentsline {section}{\numberline {5.3}Zizek?}{58}{section.5.3}
 \contentsline {section}{\numberline {5.4}FreuPinta}{58}{section.5.4}
