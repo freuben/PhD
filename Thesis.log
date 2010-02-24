@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  22 FEB 2010 18:36
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  24 FEB 2010 11:42
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -198,7 +198,38 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
-(./Thesis.aux (./Chapter3/Chapter3.aux))
+(./Thesis.aux (./Chapter4/Chapter4.aux
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -295,15 +326,15 @@ LaTeX Info: Redefining \pageref on input line 27.
 \openout3 = `Thesis.out'.
 
 \AtBeginShipoutBox=\box27
-\openout2 = `Chapter3/Chapter3.aux'.
+\openout2 = `Chapter4/Chapter4.aux'.
 
- (./Chapter3/Chapter3.tex
+ (./Chapter4/Chapter4.tex
 Chapter 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 10.
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
@@ -311,58 +342,157 @@ File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 
 
 
-{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4] [5]
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 34--34
+[]\OT1/cmtt/m/n/10.95 [ 128.37791442871, 154.57292175293, 140.25003051758, 246.
+26268005371, 253.09353637695,[] 
+ []
 
-[6]
-Missing character: There is no Ò in font cmr10!
-Missing character: There is no Ó in font cmr10!
-Missing character: There is no Ò in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no É in font cmr10!
-Missing character: There is no Ó in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
- [7]
-Missing character: There is no Õ in font cmr10!
- [8]
-Missing character: There is no É in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
- [9]
-Missing character: There is no É in font cmr10!
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Õ in font cmr10!
- [10]
-Missing character: There is no Õ in font cmr10!
-) [11] (./Thesis.aux (./Chapter3/Chapter3.aux)) ) 
+
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 34--34
+[] \OT1/cmtt/m/n/10.95 364.92492675781, 396.52267456055, 1035.068359375, 1037.1
+043701172, 1241.3063964844 ];[] 
+ []
+
+
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 34--34
+[]\OT1/cmtt/m/n/10.95 [ 1.8754153251648, 4.5471153259277, 5.3137745857239, 2.61
+46886348724, 1.2295168638229,[] 
+ []
+
+
+Overfull \hbox (22.12946pt too wide) in paragraph at lines 34--34
+[]  \OT1/cmtt/m/n/10.95 2.5435922145844, 3.215939283371, 2.0944044589996, 2.601
+4709472656, 2.0559096336365 ];[] 
+ []
+
+
+LaTeX Warning: File `Chapter4/spectovocal.tif' not found on input line 42.
+
+system(convert Chapter4/spectovocal.tif `dirname Chapter4/spectovocal.tif`/`bas
+ename Chapter4/spectovocal.tif .tif`.png)...executed.
+
+<Chapter4/spectovocal.png, id=106, 790.152pt x 496.9767pt>
+File: Chapter4/spectovocal.png Graphic file (type png)
+
+<use Chapter4/spectovocal.png>
+
+LaTeX Warning: File `Chapter4/spectonoise.tif' not found on input line 49.
+
+system(convert Chapter4/spectonoise.tif `dirname Chapter4/spectonoise.tif`/`bas
+ename Chapter4/spectonoise.tif .tif`.png)...executed.
+
+<Chapter4/spectonoise.png, id=107, 794.97pt x 472.8867pt>
+File: Chapter4/spectonoise.png Graphic file (type png)
+
+<use Chapter4/spectonoise.png> [3]
+system(convert Chapter4/Spear1.tif `dirname Chapter4/Spear1.tif`/`basename Chap
+ter4/Spear1.tif .tif`.png)...executed.
+
+
+<Chapter4/Spear1.png, id=122, 1373.13pt x 749.80125pt>
+File: Chapter4/Spear1.png Graphic file (type png)
+
+<use Chapter4/Spear1.png> [4 <./Chapter4/spectovocal.png (PNG copy)>] [5 <./Cha
+pter4/spectonoise.png (PNG copy)> <./Chapter4/Spear1.png>]
+system(convert Chapter4/Spear2.tif `dirname Chapter4/Spear2.tif`/`basename Chap
+ter4/Spear2.tif .tif`.png)...executed.
+
+
+<Chapter4/Spear2.png, id=143, 338.4645pt x 211.992pt>
+File: Chapter4/Spear2.png Graphic file (type png)
+
+<use Chapter4/Spear2.png>
+system(convert Chapter4/Spear3.tif `dirname Chapter4/Spear3.tif`/`basename Chap
+ter4/Spear3.tif .tif`.png)...executed.
+
+
+<Chapter4/Spear3.png, id=145, 437.7153pt x 278.2395pt>
+File: Chapter4/Spear3.png Graphic file (type png)
+
+<use Chapter4/Spear3.png> [6 <./Chapter4/Spear2.png (PNG copy)>]
+system(convert Chapter4/Spear4.tif `dirname Chapter4/Spear4.tif`/`basename Chap
+ter4/Spear4.tif .tif`.png)...executed.
+
+
+<Chapter4/Spear4.png, id=153, 433.62pt x 278.2395pt>
+File: Chapter4/Spear4.png Graphic file (type png)
+ <use Chapter4/Spear4.png>
+[7 <./Chapter4/Spear3.png (PNG copy)>] [8 <./Chapter4/Spear4.png (PNG copy)>]
+Overfull \hbox (10.63208pt too wide) in paragraph at lines 120--120
+[]\OT1/cmtt/m/n/10.95 a.text("Improvise with pitch material", "Helvetica", 30, 
+30, 200, color: Color.rand);[] 
+ []
+
+system(convert Chapter4/algoscore1.tif `dirname Chapter4/algoscore1.tif`/`basen
+ame Chapter4/algoscore1.tif .tif`.png)...executed.
+
+<Chapter4/algoscore1.png, id=176, 478.78876pt x 487.8225pt>
+File: Chapter4/algoscore1.png Graphic file (type png)
+
+<use Chapter4/algoscore1.png> [9]
+system(convert Chapter4/algoscore2.tif `dirname Chapter4/algoscore2.tif`/`basen
+ame Chapter4/algoscore2.tif .tif`.png)...executed.
+
+
+<Chapter4/algoscore2.png, id=182, 935.495pt x 360.34625pt>
+File: Chapter4/algoscore2.png Graphic file (type png)
+
+<use Chapter4/algoscore2.png> [10 <./Chapter4/algoscore1.png>]
+system(convert Chapter4/algoScore_partials.tif `dirname Chapter4/algoScore_part
+ials.tif`/`basename Chapter4/algoScore_partials.tif .tif`.png)...executed.
+
+
+<Chapter4/algoScore_partials.png, id=191, 1133.23375pt x 339.2675pt>
+File: Chapter4/algoScore_partials.png Graphic file (type png)
+
+<use Chapter4/algoScore_partials.png>
+Overfull \hbox (5.69046pt too wide) in paragraph at lines 150--151
+ [][] 
+ []
+
+[11 <./Chapter4/algoscore2.png> <./Chapter4/algoScore_partials.png>] [12]
+[13]
+system(convert Chapter4/midi_phrase.tif `dirname Chapter4/midi_phrase.tif`/`bas
+ename Chapter4/midi_phrase.tif .tif`.png)...executed.
+
+ <Chapter4/midi_phrase.png, id=237, 373.395pt x 372.39125pt>
+File: Chapter4/midi_phrase.png Graphic file (type png)
+
+<use Chapter4/midi_phrase.png>
+system(convert Chapter4/midi_gesualdo.tif `dirname Chapter4/midi_gesualdo.tif`/
+`basename Chapter4/midi_gesualdo.tif .tif`.png)...executed.
+
+
+<Chapter4/midi_gesualdo.png, id=238, 1417.295pt x 836.12375pt>
+File: Chapter4/midi_gesualdo.png Graphic file (type png)
+
+<use Chapter4/midi_gesualdo.png> [14] [15 <./Chapter4/midi_phrase.png>]
+[16 <./Chapter4/midi_gesualdo.png>]) [17] (./Thesis.aux
+(./Chapter4/Chapter4.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5025 strings out of 493876
- 72998 string characters out of 1150568
- 144338 words of memory out of 3000000
- 8175 multiletter control sequences out of 10000+50000
- 14635 words of font info for 54 fonts, out of 3000000 for 5000
+ 5112 strings out of 493876
+ 74665 string characters out of 1150568
+ 145465 words of memory out of 3000000
+ 8217 multiletter control sequences out of 10000+50000
+ 13777 words of font info for 52 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 30i,8n,38p,2467b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{ar
-tregimes} has been referenced but does not exist, replaced by a fixed one
-
-</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
-al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
-e/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/2008/
-texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist
-/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type
-1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/c
-m/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pf
-b></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on Thesis.pdf (11 pages, 121767 bytes).
+ 30i,8n,38p,2609b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/l
+ocal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texli
+ve/2008/texmf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/tex
+mf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fon
+ts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
+uesky/cm/cmti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/
+cmti9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb
+>
+Output written on Thesis.pdf (17 pages, 1568763 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 131072)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 131072)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
