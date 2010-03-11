@@ -11,10 +11,10 @@ In this chapter, I will explain in detail a number of important computer applica
 
 In previous chapter, I briefly explained how spectralism and C. Barlow: \emph{Synthrumentation} influenced my work.
 
-Fast Fourier Transform (FFT)\footnote{See Curtis Roads, \emph{The Computer Music Tutorial}, Cambridge, MA: MIT Press, 1996, pp. 533-609 for more information about spectrum analysis, including FFT.}
+Fast Fourier Transform (FFT)
 
 
-MIDI\footnote{See Ibid. pp. 969-1016 for more information about MIDI}
+MIDI
 
 Spectrum analysis for dynamics, pitch and rhythm extraction. 
 
@@ -92,7 +92,7 @@ The third stage, takes the points of the lines that were obtained in the previou
    \label{fig:example}
 \end{figure}\
 shows the note representation derived from Figure 4.5, where the notes are seen as green lines, the note-on messages as blue points and the note off messages as green points. 
-The results of this stage can be used to generate a MIDI file\hypertarget{wlib}{}\footnote{Using the SimpleMIDIFile class that is part of wslib by \href{http://www.woutersnoei.nl/}{Wouter Snoei}, which is can be obtained as a Quark.} with the intention of either using it to trigger a sampler or to import it into a notation software to create a written score. The user can input the time signature and tempo for the MIDI file as well as an interval value that divides the MIDI note range into different MIDI tracks. By doing this, the notes are separated into different tracks depending on their value in relationship to each other with the purpose of not having too many notes in the same track. Furthermore, these results can be used to create a list of Open Sound Control (OSC)\footnote{See \href{http://opensoundcontrol.org/introduction-osc}{http://opensoundcontrol.org/introduction-osc} for more information on OSC.} commands that can be sent to the SuperCollider server for Real-Time-Synthesis and Non-Real-Time-Synthesis. Extra arguments can also be added to control other values in the synthesis definition, which can be set individually by using a function to be evaluated for each instance of the definition.
+The results of this stage can be used to generate a MIDI file\hypertarget{wlib}{}\footnote{Using the SimpleMIDIFile class that is part of wslib by \href{http://www.woutersnoei.nl/}{Wouter Snoei}, which is can be obtained as a Quark.} with the intention of either using it to trigger a sampler or to import it into a notation software to create a written score. The user can input the time signature and tempo for the MIDI file as well as an interval value that divides the MIDI note range into different MIDI tracks. By doing this, the notes are separated into different tracks depending on their value in relationship to each other with the purpose of not having too many notes in the same track. Furthermore, these results can be used to create a list of Open Sound Control (OSC)\footnote{See \href{http://opensoundcontrol.org/introduction-osc}{http://opensoundcontrol.org/introduction-osc}.} commands that can be sent to the SuperCollider server for Real-Time-Synthesis and Non-Real-Time-Synthesis. Extra arguments can also be added to control other values in the synthesis definition, which can be set individually by using a function to be evaluated for each instance of the definition.
 
 \section{Real-Time Scoring}
 
