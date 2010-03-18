@@ -1,62 +1,25 @@
-\contentsline {chapter}{\numberline {1}Preface}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Background}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{7}{subsection.2.1.2}
-\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{7}{section*.3}
-\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{9}{section*.4}
-\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{11}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{13}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{15}{subsection.2.2.2}
-\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{18}{section*.5}
-\contentsline {section}{\numberline {2.3}The Postmodern Label}{20}{section.2.3}
-\contentsline {section}{\numberline {2.4}Re-thinking the Avant-garde}{23}{section.2.4}
-\contentsline {chapter}{\numberline {3}Conceptual Framework}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}Redefining the Musical Subject?}{25}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}The \emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{26}{subsection.3.1.1}
-\contentsline {subsubsection}{\emph {Musicking}}{28}{section*.6}
-\contentsline {subsubsection}{The Definition of Music and the \emph {Ethical Regime}.}{29}{section*.7}
-\contentsline {subsubsection}{Potential for an Analogy between Musical and Political Action?}{31}{section*.8}
-\contentsline {subsection}{\numberline {3.1.2}Strategic Views on Aesthetic Forms}{31}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Appropriation and Ideology}{31}{subsection.3.1.3}
-\contentsline {section}{\numberline {3.2}Technology, Appropiation and Postproduction}{32}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}The postmodern condition in the digital age}{33}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}The liberal-comunists: Open Source, etc.}{34}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Compositional Stratergies based on reshaping relationships in music making}{34}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Reshaping relationships in music making through technology?}{34}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Musica Derivata and Plunderphonics}{35}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}plunderphomes, ideology and the use of references}{35}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}On Appropriation}{35}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Real-Time Plunderphonics}{36}{subsection.3.2.8}
-\contentsline {subsubsection}{Some ideas of how to plunder}{36}{section*.9}
-\contentsline {subsubsection}{Micro and Macro Plundering}{37}{section*.10}
-\contentsline {subsection}{\numberline {3.2.9}Crossing Cultural Borders?}{37}{subsection.3.2.9}
-\contentsline {subsection}{\numberline {3.2.10}Interpassivity}{37}{subsection.3.2.10}
-\contentsline {chapter}{\numberline {4}Computer Applications}{39}{chapter.4}
-\contentsline {section}{\numberline {4.1}Spectral Tracking}{40}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}PartialTracker}{40}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}FFTFilter}{41}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}SpearToSC}{43}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}SpearToMIDI}{44}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Real-Time Scoring}{46}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}AlgorithmicScore}{46}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Computer-Aided-Composition Tools}{51}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Score Visualization}{51}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}MIDI Triggering}{53}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Voice Leading}{55}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Live-electronics}{55}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Envelope Taxonomies}{55}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Spectrum Driven Sampler}{55}{subsection.4.4.2}
-\contentsline {chapter}{\numberline {5}Compositions}{56}{chapter.5}
-\contentsline {section}{\numberline {5.1}E-tudes}{56}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}E-tude 1}{61}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}E-tude 2}{61}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}E-tude 3}{61}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}E-tude 4}{61}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}On Violence}{61}{section.5.2}
-\contentsline {section}{\numberline {5.3}Zizek?}{61}{section.5.3}
-\contentsline {section}{\numberline {5.4}FreuPinta}{61}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Simulation Series}{61}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Occupation Series}{61}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Transgression Series}{61}{subsection.5.4.3}
-\contentsline {chapter}{\numberline {6}Conclusion}{62}{chapter.6}
+\contentsline {chapter}{\numberline {1}Motivation}{v}{chapter.1}
+\contentsline {section}{\numberline {1.1}Redefining the Musical Subject?}{v}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}The \emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{vi}{subsection.1.1.1}
+\contentsline {subsubsection}{\emph {Musicking}}{viii}{section*.3}
+\contentsline {subsubsection}{The Definition of Music and the \emph {Ethical Regime}.}{ix}{section*.4}
+\contentsline {subsection}{\numberline {1.1.2}The Emancipatory Potential of Music}{xii}{subsection.1.1.2}
+\contentsline {subsubsection}{Innovation, innovation, innovation...}{xiii}{section*.5}
+\contentsline {subsection}{\numberline {1.1.3}Strategic Views on Aesthetic Forms}{xiii}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Technology and Innovation}{xiii}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}Appropriation and Ideology in Music}{xiv}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Appropriation and Postproduction in the Digital Age}{xv}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}The liberal-comunists: Open Source, etc.}{xv}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Strategies and Practices}{xvi}{chapter.2}
+\contentsline {section}{\numberline {2.1}Technology, Appropiation and Postproduction}{xvi}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Musical postmodernism in the digital age}{xvii}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Compositional Stratergies based on reshaping relationships in music making}{xvii}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Reshaping relationships in music making through technology?}{xvii}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Musica Derivata and Plunderphonics}{xvii}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}plunderphomes, ideology and the use of references}{xviii}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}On Musical Appropriation}{xviii}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Real-Time Plunderphonics}{xix}{subsection.2.1.7}
+\contentsline {subsubsection}{Some ideas of how to plunder}{xix}{section*.6}
+\contentsline {subsubsection}{Micro and Macro Plundering}{xx}{section*.7}
+\contentsline {subsection}{\numberline {2.1.8}Crossing Cultural Borders?}{xx}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Interpassivity}{xx}{subsection.2.1.9}
