@@ -16,62 +16,61 @@
 \contentsline {subsection}{\numberline {3.1.1}The \emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{26}{subsection.3.1.1}
 \contentsline {subsubsection}{\emph {Musicking}}{28}{section*.6}
 \contentsline {subsection}{\numberline {3.1.2}The Definition of Music and the \emph {Ethical Regime}.}{29}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}An Ethical Function within the \emph {Aesthetic Regime}?}{31}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}The Musical Avant-garde as Vehicle for Radical Change}{32}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Strategic Views on Aesthetic Forms}{34}{subsection.3.1.5}
-\contentsline {subsubsection}{Innovation, innovation, innovation...}{34}{section*.7}
-\contentsline {subsection}{\numberline {3.1.6}Technology and Innovation}{35}{subsection.3.1.6}
-\contentsline {section}{\numberline {3.2}Appropriation and Ideology in Music}{35}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Appropriation and Postproduction in the Digital Age}{36}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}The liberal-comunists: Open Source, etc.}{37}{subsection.3.2.2}
-\contentsline {chapter}{\numberline {4}Strategies and Practices}{38}{chapter.4}
-\contentsline {section}{\numberline {4.1}Musical Appropriation through Technology}{38}{section.4.1}
-\contentsline {subsubsection}{Copyrights Violation}{39}{section*.8}
-\contentsline {subsection}{\numberline {4.1.1}Scores}{39}{subsection.4.1.1}
-\contentsline {subsubsection}{me}{39}{section*.9}
-\contentsline {subsection}{\numberline {4.1.2}Recordings}{39}{subsection.4.1.2}
-\contentsline {subsubsection}{Plunderphonics}{39}{section*.10}
-\contentsline {subsubsection}{Sound Transformations}{40}{section*.11}
-\contentsline {subsection}{\numberline {4.1.3}Spectral Information}{40}{subsection.4.1.3}
-\contentsline {subsubsection}{To generate sc}{40}{section*.12}
-\contentsline {subsection}{\numberline {4.1.4}Computer Code}{40}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Real Performances}{41}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Real-Time Plunderphonics}{41}{subsection.4.1.6}
-\contentsline {subsubsection}{Some ideas of how to plunder}{41}{section*.13}
-\contentsline {subsubsection}{Micro and Macro Plundering}{41}{section*.14}
-\contentsline {subsection}{\numberline {4.1.7}Musical postmodernism in the digital age}{42}{subsection.4.1.7}
-\contentsline {subsection}{\numberline {4.1.8}Stratergies based on reshaping relationships in music making}{42}{subsection.4.1.8}
-\contentsline {subsubsection}{Reshaping relationships in music making through technology?}{42}{section*.15}
-\contentsline {subsubsection}{Crossing Cultural Borders?}{43}{section*.16}
-\contentsline {subsection}{\numberline {4.1.9}Musica Derivata and Plunderphonics}{43}{subsection.4.1.9}
-\contentsline {subsection}{\numberline {4.1.10}plunderphomes, ideology and the use of references}{43}{subsection.4.1.10}
-\contentsline {subsection}{\numberline {4.1.11}On Musical Appropriation}{43}{subsection.4.1.11}
-\contentsline {subsection}{\numberline {4.1.12}Interpassivity}{44}{subsection.4.1.12}
-\contentsline {chapter}{\numberline {5}Computer Applications}{45}{chapter.5}
-\contentsline {section}{\numberline {5.1}Spectral Tracking}{46}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}PartialTracker}{46}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}FFTFilter}{47}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}SpearToSC}{49}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}SpearToMIDI}{50}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Real-Time Scoring}{52}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}AlgorithmicScore}{52}{subsection.5.2.1}
-\contentsline {section}{\numberline {5.3}Computer-Aided-Composition Tools}{57}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Score Visualization}{57}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}MIDI Triggering}{59}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Voice Leading}{61}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Live-electronics}{61}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Envelope Taxonomies}{61}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Spectrum Driven Sampler}{61}{subsection.5.4.2}
-\contentsline {chapter}{\numberline {6}Compositions}{62}{chapter.6}
-\contentsline {section}{\numberline {6.1}E-tudes}{62}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}E-tude 1}{67}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}E-tude 2}{67}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}E-tude 3}{67}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}E-tude 4}{67}{subsection.6.1.4}
-\contentsline {section}{\numberline {6.2}On Violence}{67}{section.6.2}
-\contentsline {section}{\numberline {6.3}Zizek?}{67}{section.6.3}
-\contentsline {section}{\numberline {6.4}FreuPinta}{67}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Simulation Series}{67}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Occupation Series}{67}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Transgression Series}{67}{subsection.6.4.3}
-\contentsline {chapter}{\numberline {7}Conclusion}{68}{chapter.7}
+\contentsline {subsection}{\numberline {3.1.3}An Ethical Function within the \emph {Aesthetic Regime}?}{32}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Strategic Views on Aesthetic Forms}{33}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Appropriation and Ideology in Music}{33}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Appropriation and Postproduction in the Digital Age}{34}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}The liberal-comunists: Open Source, etc.}{35}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}Strategies and Practices}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Technology and Innovation}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}Musical Appropriation through Technology}{37}{section.4.2}
+\contentsline {subsubsection}{Copyrights Violation}{38}{section*.7}
+\contentsline {subsection}{\numberline {4.2.1}Scores}{38}{subsection.4.2.1}
+\contentsline {subsubsection}{me}{38}{section*.8}
+\contentsline {subsection}{\numberline {4.2.2}Recordings}{38}{subsection.4.2.2}
+\contentsline {subsubsection}{Plunderphonics}{38}{section*.9}
+\contentsline {subsubsection}{Sound Transformations}{39}{section*.10}
+\contentsline {subsection}{\numberline {4.2.3}Spectral Information}{39}{subsection.4.2.3}
+\contentsline {subsubsection}{To generate sc}{39}{section*.11}
+\contentsline {subsection}{\numberline {4.2.4}Computer Code}{39}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Real Performances}{39}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Real-Time Plunderphonics}{39}{subsection.4.2.6}
+\contentsline {subsubsection}{Some ideas of how to plunder}{40}{section*.12}
+\contentsline {subsubsection}{Micro and Macro Plundering}{40}{section*.13}
+\contentsline {subsection}{\numberline {4.2.7}Musical postmodernism in the digital age}{41}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Stratergies based on reshaping relationships in music making}{41}{subsection.4.2.8}
+\contentsline {subsubsection}{Reshaping relationships in music making through technology?}{41}{section*.14}
+\contentsline {subsubsection}{Crossing Cultural Borders?}{41}{section*.15}
+\contentsline {subsection}{\numberline {4.2.9}Musica Derivata and Plunderphonics}{42}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}plunderphomes, ideology and the use of references}{42}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}On Musical Appropriation}{42}{subsection.4.2.11}
+\contentsline {subsection}{\numberline {4.2.12}Interpassivity}{43}{subsection.4.2.12}
+\contentsline {chapter}{\numberline {5}Computer Applications}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Spectral Tracking}{45}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}PartialTracker}{45}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}FFTFilter}{46}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}SpearToSC}{48}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}SpearToMIDI}{49}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Real-Time Scoring}{51}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}AlgorithmicScore}{51}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Computer-Aided-Composition Tools}{56}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Score Visualization}{56}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}MIDI Triggering}{58}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Voice Leading}{60}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Live-electronics}{60}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Envelope Taxonomies}{60}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Spectrum Driven Sampler}{60}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Improvisation Environment}{60}{subsection.5.4.3}
+\contentsline {chapter}{\numberline {6}Compositions}{61}{chapter.6}
+\contentsline {section}{\numberline {6.1}E-tudes}{61}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}E-tude 1}{66}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}E-tude 2}{66}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}E-tude 3}{66}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}E-tude 4}{66}{subsection.6.1.4}
+\contentsline {section}{\numberline {6.2}On Violence}{66}{section.6.2}
+\contentsline {section}{\numberline {6.3}Zizek?}{66}{section.6.3}
+\contentsline {section}{\numberline {6.4}FreuPinta}{66}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Simulation Series}{66}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Occupation Series}{66}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Transgression Series}{66}{subsection.6.4.3}
+\contentsline {chapter}{\numberline {7}Conclusion}{67}{chapter.7}
