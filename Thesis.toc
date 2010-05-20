@@ -24,29 +24,29 @@
 \contentsline {subsection}{\numberline {4.1.2}Reshaping Musical Strategies Through Technology}{38}{subsection.4.1.2}
 \contentsline {subsubsection}{The Score in the Digital Age}{39}{section*.6}
 \contentsline {subsubsection}{Crossing Cultural Borders?}{41}{section*.7}
-\contentsline {subsubsection}{New Collaborative Possibilities: Real-time Appropriation and Exchange}{42}{section*.8}
-\contentsline {subsubsection}{Interactivity and Interpassivity}{42}{section*.9}
+\contentsline {subsubsection}{New Collaborative Possibilities: Real-time Appropriation and Exchange}{43}{section*.8}
+\contentsline {subsubsection}{Interactivity and Interpassivity}{43}{section*.9}
 \contentsline {section}{\numberline {4.2}Appropriation and Ideology in Music}{43}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Appropriation and Postproduction in the Digital Age}{44}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}critisisms}{44}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}The liberal-comunists: Open Source, etc.}{44}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.2}critisisms}{45}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}The liberal-comunists: Open Source, etc.}{45}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Musical Appropriation through Technology}{45}{subsection.4.2.4}
 \contentsline {subsubsection}{Copyrights Violation}{46}{section*.10}
 \contentsline {subsection}{\numberline {4.2.5}Scores}{46}{subsection.4.2.5}
-\contentsline {subsubsection}{me}{46}{section*.11}
-\contentsline {subsection}{\numberline {4.2.6}Recordings}{46}{subsection.4.2.6}
-\contentsline {subsubsection}{Plunderphonics}{46}{section*.12}
+\contentsline {subsubsection}{me}{47}{section*.11}
+\contentsline {subsection}{\numberline {4.2.6}Recordings}{47}{subsection.4.2.6}
+\contentsline {subsubsection}{Plunderphonics}{47}{section*.12}
 \contentsline {subsubsection}{Sound Transformations}{47}{section*.13}
-\contentsline {subsection}{\numberline {4.2.7}Spectral Information}{47}{subsection.4.2.7}
-\contentsline {subsubsection}{To generate sc}{47}{section*.14}
-\contentsline {subsection}{\numberline {4.2.8}Computer Code}{47}{subsection.4.2.8}
-\contentsline {subsection}{\numberline {4.2.9}Real Performances}{47}{subsection.4.2.9}
-\contentsline {subsection}{\numberline {4.2.10}Real-Time Plunderphonics}{47}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.7}Spectral Information}{48}{subsection.4.2.7}
+\contentsline {subsubsection}{To generate sc}{48}{section*.14}
+\contentsline {subsection}{\numberline {4.2.8}Computer Code}{48}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Real Performances}{48}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Real-Time Plunderphonics}{48}{subsection.4.2.10}
 \contentsline {subsubsection}{Some ideas of how to plunder}{48}{section*.15}
-\contentsline {subsubsection}{Micro and Macro Plundering}{48}{section*.16}
+\contentsline {subsubsection}{Micro and Macro Plundering}{49}{section*.16}
 \contentsline {subsection}{\numberline {4.2.11}Musical postmodernism in the digital age}{49}{subsection.4.2.11}
 \contentsline {subsection}{\numberline {4.2.12}Musica Derivata and Plunderphonics}{49}{subsection.4.2.12}
-\contentsline {subsection}{\numberline {4.2.13}plunderphomes, ideology and the use of references}{49}{subsection.4.2.13}
+\contentsline {subsection}{\numberline {4.2.13}plunderphomes, ideology and the use of references}{50}{subsection.4.2.13}
 \contentsline {subsection}{\numberline {4.2.14}On Musical Appropriation}{50}{subsection.4.2.14}
 \contentsline {chapter}{\numberline {5}Computer Applications}{51}{chapter.5}
 \contentsline {section}{\numberline {5.1}Spectral Tracking}{52}{section.5.1}
