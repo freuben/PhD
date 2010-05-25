@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  24 MAY 2010 20:32
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  25 MAY 2010 20:02
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -199,38 +199,7 @@ File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
 (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
-(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-) (./Chapter6/Chapter6.aux) (./Chapter7/Chapter7.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
 (./Bibliography/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
@@ -346,15 +315,15 @@ LaTeX Warning: No \author given.
 {/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Thesis.toc [1
 
-] [2])
+])
 \tf@toc=\write4
 \openout4 = `Thesis.toc'.
 
- [3] (./Thesis.lof)
+ [2] (./Thesis.lof)
 \tf@lof=\write5
 \openout5 = `Thesis.lof'.
 
- [4
+ [3
 
 ]
 \openout2 = `Chapter1/Chapter1.aux'.
@@ -411,7 +380,7 @@ Chapter 4.
 
 
 
-] [38] [39] [40] [41] [42] [43] [44] [45]
+] [38] [39] [40] [41] [42] [43] [44] [45] [46]
 Missing character: There is no “ in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no “ in font cmr10!
@@ -420,287 +389,77 @@ Missing character: There is no … in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no ’ in font cmr10!
 Missing character: There is no ’ in font cmr10!
- [46] [47]
+ [47] [48]
 Missing character: There is no … in font cmr10!
 Missing character: There is no ’ in font cmr10!
 Missing character: There is no ’ in font cmr10!
-Missing character: There is no ’ in font cmr10!
- [48]
-Missing character: There is no … in font cmr10!
 Missing character: There is no ’ in font cmr10!
  [49]
-Missing character: There is no – in font cmr10!
-Missing character: There is no – in font cmr10!
-Missing character: There is no – in font cmr10!
-Missing character: There is no – in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ’ in font cmr10!
  [50]
+Missing character: There is no – in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no – in font cmr10!
+ [51]
 Missing character: There is no ‘ in font cmr10!
 Missing character: There is no ’ in font cmr10!
 Missing character: There is no ’ in font cmr10!
-) [51]
-\openout2 = `Chapter5/Chapter5.aux'.
-
-
-(./Chapter5/Chapter5.tex
-Chapter 5.
-[52
-
-
-
-] [53]
-Overfull \hbox (16.38077pt too wide) in paragraph at lines 34--34
-[]\OT1/cmtt/m/n/10.95 [ 128.37791442871, 154.57292175293, 140.25003051758, 246.
-26268005371, 253.09353637695,[] 
- []
-
-
-Overfull \hbox (16.38077pt too wide) in paragraph at lines 34--34
-[] \OT1/cmtt/m/n/10.95 364.92492675781, 396.52267456055, 1035.068359375, 1037.1
-043701172, 1241.3063964844 ];[] 
- []
-
-
-Overfull \hbox (16.38077pt too wide) in paragraph at lines 34--34
-[]\OT1/cmtt/m/n/10.95 [ 1.8754153251648, 4.5471153259277, 5.3137745857239, 2.61
-46886348724, 1.2295168638229,[] 
- []
-
-
-Overfull \hbox (22.12946pt too wide) in paragraph at lines 34--34
-[]  \OT1/cmtt/m/n/10.95 2.5435922145844, 3.215939283371, 2.0944044589996, 2.601
-4709472656, 2.0559096336365 ];[] 
- []
-
-system(convert Chapter5/spectovocal.tif `dirname Chapter5/spectovocal.tif`/`bas
-ename Chapter5/spectovocal.tif .tif`.png)...executed.
-
-<Chapter5/spectovocal.png, id=943, 790.152pt x 496.9767pt>
-File: Chapter5/spectovocal.png Graphic file (type png)
-
-<use Chapter5/spectovocal.png>
-system(convert Chapter5/spectonoise.tif `dirname Chapter5/spectonoise.tif`/`bas
-ename Chapter5/spectonoise.tif .tif`.png)...executed.
-
-
-<Chapter5/spectonoise.png, id=944, 794.97pt x 472.8867pt>
-File: Chapter5/spectonoise.png Graphic file (type png)
-
-<use Chapter5/spectonoise.png> [54] [55 <./Chapter5/spectovocal.png (PNG copy)>
- <./Chapter5/spectonoise.png (PNG copy)>]
-system(convert Chapter5/Spear1.tif `dirname Chapter5/Spear1.tif`/`basename Chap
-ter5/Spear1.tif .tif`.png)...executed.
-
-
-<Chapter5/Spear1.png, id=961, 1373.13pt x 749.80125pt>
-File: Chapter5/Spear1.png Graphic file (type png)
-
-<use Chapter5/Spear1.png>
-system(convert Chapter5/Spear2.tif `dirname Chapter5/Spear2.tif`/`basename Chap
-ter5/Spear2.tif .tif`.png)...executed.
-
-
-<Chapter5/Spear2.png, id=966, 338.4645pt x 211.992pt>
-File: Chapter5/Spear2.png Graphic file (type png)
-
-<use Chapter5/Spear2.png> [56 <./Chapter5/Spear1.png>]
-system(convert Chapter5/Spear3.tif `dirname Chapter5/Spear3.tif`/`basename Chap
-ter5/Spear3.tif .tif`.png)...executed.
-
-
-<Chapter5/Spear3.png, id=980, 437.7153pt x 278.2395pt>
-File: Chapter5/Spear3.png Graphic file (type png)
-
-<use Chapter5/Spear3.png>
-system(convert Chapter5/Spear4.tif `dirname Chapter5/Spear4.tif`/`basename Chap
-ter5/Spear4.tif .tif`.png)...executed.
-
- <Chapter5/Spear4.png, id=981, 433.62pt x 278.2395pt>
-File: Chapter5/Spear4.png Graphic file (type png)
-
-<use Chapter5/Spear4.png> [57 <./Chapter5/Spear2.png (PNG copy)>] [58 <./Chapte
-r5/Spear3.png (PNG copy)> <./Chapter5/Spear4.png (PNG copy)>] [59]
-Overfull \hbox (10.63208pt too wide) in paragraph at lines 120--120
-[]\OT1/cmtt/m/n/10.95 a.text("Improvise with pitch material", "Helvetica", 30, 
-30, 200, color: Color.rand);[] 
- []
-
-system(convert Chapter5/algoscore1.tif `dirname Chapter5/algoscore1.tif`/`basen
-ame Chapter5/algoscore1.tif .tif`.png)...executed.
-
-<Chapter5/algoscore1.png, id=1006, 478.78876pt x 487.8225pt>
-File: Chapter5/algoscore1.png Graphic file (type png)
-
-<use Chapter5/algoscore1.png> [60]
-system(convert Chapter5/algoscore2.tif `dirname Chapter5/algoscore2.tif`/`basen
-ame Chapter5/algoscore2.tif .tif`.png)...executed.
-
-
-<Chapter5/algoscore2.png, id=1012, 935.495pt x 360.34625pt>
-File: Chapter5/algoscore2.png Graphic file (type png)
-
-<use Chapter5/algoscore2.png> [61 <./Chapter5/algoscore1.png> <./Chapter5/algos
-core2.png>]
-system(convert Chapter5/algoScore_partials.tif `dirname Chapter5/algoScore_part
-ials.tif`/`basename Chapter5/algoScore_partials.tif .tif`.png)...executed.
-
-
-<Chapter5/algoScore_partials.png, id=1021, 1133.23375pt x 339.2675pt>
-File: Chapter5/algoScore_partials.png Graphic file (type png)
-
-<use Chapter5/algoScore_partials.png>
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 150--151
- [][] 
- []
-
-[62 <./Chapter5/algoScore_partials.png>] [63] [64]
-system(convert Chapter5/midi_phrase.tif `dirname Chapter5/midi_phrase.tif`/`bas
-ename Chapter5/midi_phrase.tif .tif`.png)...executed.
-
-
-<Chapter5/midi_phrase.png, id=1065, 373.395pt x 372.39125pt>
-File: Chapter5/midi_phrase.png Graphic file (type png)
-
-<use Chapter5/midi_phrase.png>
-system(convert Chapter5/midi_gesualdo.tif `dirname Chapter5/midi_gesualdo.tif`/
-`basename Chapter5/midi_gesualdo.tif .tif`.png)...executed.
-
-
-<Chapter5/midi_gesualdo.png, id=1066, 1417.295pt x 836.12375pt>
-File: Chapter5/midi_gesualdo.png Graphic file (type png)
-
-<use Chapter5/midi_gesualdo.png> [65] [66 <./Chapter5/midi_phrase.png>])
-[67 <./Chapter5/midi_gesualdo.png>] [68]
-\openout2 = `Chapter6/Chapter6.aux'.
-
- (./Chapter6/Chapter6.tex
-Chapter 6.
-Missing character: There is no √ in font cmr9!
-Missing character: There is no ß in font cmr9!
-[69
-
-
-
-] [70] [71]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ò in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
- [72] [73]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-) [74]
-\openout2 = `Chapter7/Chapter7.aux'.
-
- (./Chapter7/Chapter7.tex
-Chapter 7.
-) [75
-
-
-
-]
+)
+[52]
 No file Thesis.bbl.
 \openout2 = `Bibliography/Bibliography.aux'.
 
-(./Bibliography/Bibliography.tex [76
+(./Bibliography/Bibliography.tex [53
 
 
 ]
-Overfull \hbox (4.79317pt too wide) in paragraph at lines 97--98
+Overfull \hbox (4.79317pt too wide) in paragraph at lines 98--99
 []\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
  Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
 ][] 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 121--47
+Underfull \hbox (badness 10000) in paragraph at lines 124--47
 
  []
 
-[77] [78] (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
-(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)
-(./Chapter6/Chapter6.aux) (./Chapter7/Chapter7.aux)
-(./Bibliography/Bibliography.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[54] [55] (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
+(./Bibliography/Bibliography.aux)) ) 
 Here is how much of TeX's memory you used:
- 5536 strings out of 493876
- 79999 string characters out of 1150568
- 148892 words of memory out of 3000000
- 8302 multiletter control sequences out of 10000+50000
- 16516 words of font info for 62 fonts, out of 3000000 for 5000
+ 5320 strings out of 493876
+ 76472 string characters out of 1150568
+ 147721 words of memory out of 3000000
+ 8219 multiletter control sequences out of 10000+50000
+ 16349 words of font info for 61 fonts, out of 3000000 for 5000
  716 hyphenation exceptions out of 8191
- 30i,8n,38p,3901b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/l
-ocal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texl
-ive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/200
-8/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-di
-st/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fonts/t
-ype1/bluesky/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/blues
-ky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.
-pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/l
-ocal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texl
-ive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/t
-exmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist
-/fonts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (83 pages, 1595195 bytes).
+ 30i,8n,38p,3901b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter7} has b
+een referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter6} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{chapter5} has been referenced but does not exist, r
+eplaced by a fixed one
+
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
+al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/2008/
+texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist
+/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fonts/typ
+e1/bluesky/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
+/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.pf
+b></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/loc
+al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texliv
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/tex
+mf-dist/fonts/type1/bluesky/cm/cmtt10.pfb>
+Output written on Thesis.pdf (59 pages, 361063 bytes).
 PDF statistics:
- 1268 PDF objects out of 1440 (max. 8388607)
- 348 named destinations out of 1000 (max. 131072)
- 628 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 868 PDF objects out of 1000 (max. 8388607)
+ 252 named destinations out of 1000 (max. 131072)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
 
