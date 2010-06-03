@@ -24,7 +24,7 @@
 \contentsline {section}{\numberline {4.2}Reshaping Musical Strategies Through Technology}{39}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}The Score in the Digital Age}{40}{subsection.4.2.1}
 \contentsline {subsubsection}{Crossing Cultural Borders?}{42}{section*.6}
-\contentsline {subsection}{\numberline {4.2.2}Live Electronic Music Performance: New Possibilities and Implications}{44}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}Live Electronic Music Performance}{44}{subsection.4.2.2}
 \contentsline {subsubsection}{Interactivity and Interpassivity}{45}{section*.7}
 \contentsline {subsection}{\numberline {4.2.3}Digital Practices in Composition}{46}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}New Relationships with the Audience}{46}{subsection.4.2.4}
