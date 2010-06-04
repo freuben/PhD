@@ -1,54 +1,10 @@
-\contentsline {chapter}{\numberline {1}Preface}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Background}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{7}{subsection.2.1.2}
-\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{7}{section*.3}
-\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{9}{section*.4}
-\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{11}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{13}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{15}{subsection.2.2.2}
-\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{18}{section*.5}
-\contentsline {section}{\numberline {2.3}Postmodern Music}{20}{section.2.3}
-\contentsline {chapter}{\numberline {3}Motivation}{24}{chapter.3}
-\contentsline {section}{\numberline {3.1}Redefining the Musical Subject?}{25}{section.3.1}
-\contentsline {section}{\numberline {3.2}Re-thinking the Avant-garde}{27}{section.3.2}
-\contentsline {section}{\numberline {3.3}The \emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{28}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}\emph {Musicking}}{30}{subsection.3.3.1}
-\contentsline {section}{\numberline {3.4}The Definition of Music and the \emph {Ethical Regime}}{31}{section.3.4}
-\contentsline {section}{\numberline {3.5}An Ethical Function within the \emph {Aesthetic Regime}?}{33}{section.3.5}
-\contentsline {section}{\numberline {3.6}Strategic Views on Aesthetic Forms}{34}{section.3.6}
-\contentsline {chapter}{\numberline {4}Musical Strategies}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}Technology and Strategy}{37}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Technological vs. Musical Innovation}{38}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Reshaping Musical Strategies Through Technology}{39}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}The Score in the Digital Age}{40}{subsection.4.2.1}
-\contentsline {subsubsection}{Crossing Cultural Borders?}{42}{section*.6}
-\contentsline {subsection}{\numberline {4.2.2}Live Electronic Music Performance}{44}{subsection.4.2.2}
-\contentsline {subsubsection}{Interactivity and Interpassivity}{45}{section*.7}
-\contentsline {subsection}{\numberline {4.2.3}Digital Practices in Composition}{46}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}New Relationships with the Audience}{46}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Appropriation and Ideology in Music}{46}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Appropriation and Postproduction in the Digital Age}{46}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}critisisms}{47}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}The liberal-comunists: Open Source, etc.}{47}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Musical Appropriation through Technology}{48}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Musica Derivata and Plunderphonics}{49}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}plunderphomes, ideology and the use of references}{49}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}On Musical Appropriation}{49}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Typologies of Musical Appropriation}{50}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Copyrights Violation}{50}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Scores}{50}{subsection.4.5.2}
-\contentsline {subsubsection}{me}{50}{section*.8}
-\contentsline {subsection}{\numberline {4.5.3}Recordings}{50}{subsection.4.5.3}
-\contentsline {subsubsection}{Plunderphonics}{50}{section*.9}
-\contentsline {subsubsection}{Sound Transformations}{51}{section*.10}
-\contentsline {subsection}{\numberline {4.5.4}Spectral Information}{51}{subsection.4.5.4}
-\contentsline {subsubsection}{To generate sc}{51}{section*.11}
-\contentsline {subsection}{\numberline {4.5.5}Computer Code}{51}{subsection.4.5.5}
-\contentsline {subsection}{\numberline {4.5.6}Real Performances}{51}{subsection.4.5.6}
-\contentsline {subsection}{\numberline {4.5.7}Real-Time Plunderphonics}{51}{subsection.4.5.7}
-\contentsline {subsubsection}{Some ideas of how to plunder}{52}{section*.12}
-\contentsline {subsubsection}{Micro and Macro Plundering}{52}{section*.13}
-\contentsline {paragraph}{}{53}{section*.14}
-\contentsline {paragraph}{}{53}{section*.15}
+\contentsline {chapter}{\numberline {1}Motivation}{iv}{chapter.1}
+\contentsline {section}{\numberline {1.1}Redefining the Musical Subject?}{v}{section.1.1}
+\contentsline {section}{\numberline {1.2}Re-thinking the Avant-garde}{vii}{section.1.2}
+\contentsline {section}{\numberline {1.3}The \emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{viii}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}\emph {Musicking}}{x}{subsection.1.3.1}
+\contentsline {section}{\numberline {1.4}The Definition of Music and the \emph {Ethical Regime}}{xi}{section.1.4}
+\contentsline {section}{\numberline {1.5}An Ethical Function within the \emph {Aesthetic Regime}?}{xiii}{section.1.5}
+\contentsline {section}{\numberline {1.6}Strategic Views on Aesthetic Forms}{xiv}{section.1.6}
+\contentsline {paragraph}{}{xvii}{section*.3}
+\contentsline {paragraph}{}{xvii}{section*.4}
