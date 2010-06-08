@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  4 JUN 2010 19:38
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  7 JUN 2010 19:10
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -313,7 +313,7 @@ File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 
 {/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4] [5]
-[6] [7] [8] [9] [10] [11] [12]
+[6] [7] [8] [9] [10] [11] [12] [13]
 Missing character: There is no Ò in font cmr10!
 Missing character: There is no Ó in font cmr10!
 Missing character: There is no Ò in font cmr10!
@@ -322,15 +322,14 @@ Missing character: There is no É in font cmr10!
 Missing character: There is no Ó in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
- [13] [14]
+ [14] [15]
 Missing character: There is no É in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no É in font cmr10!
- [15]
-Missing character: There is no Õ in font cmr10!
  [16]
+Missing character: There is no Õ in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
@@ -338,19 +337,20 @@ Missing character: There is no Ð in font cmr10!
  [17]
 Missing character: There is no Ô in font cmr10!
 Missing character: There is no Õ in font cmr10!
+ [18]
 Missing character: There is no Õ in font cmr10!
-) [18] (./Thesis.aux
-(./Chapter4/Chapter4.aux)) ) 
+) [19]
+(./Thesis.aux (./Chapter4/Chapter4.aux)) ) 
 Here is how much of TeX's memory you used:
- 5083 strings out of 493876
- 73649 string characters out of 1150568
- 145338 words of memory out of 3000000
+ 5088 strings out of 493876
+ 73704 string characters out of 1150568
+ 144338 words of memory out of 3000000
  8182 multiletter control sequences out of 10000+50000
  13917 words of font info for 52 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 30i,8n,38p,2714b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{oswald} has been refere
-nced but does not exist, replaced by a fixed one
+ 30i,8n,38p,3347b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{oswald} h
+as been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{barlow} has been referenced but does not exist, rep
 laced by a fixed one
@@ -401,9 +401,9 @@ mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
 ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
 uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
 ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on Thesis.pdf (18 pages, 150670 bytes).
+Output written on Thesis.pdf (19 pages, 156095 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 96 named destinations out of 1000 (max. 131072)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 131072)
  205 words of extra memory for PDF output out of 10000 (max. 10000000)
 
