@@ -1,23 +1,69 @@
-\BOOKMARK [0][-]{chapter.1}{Musical Strategies}{}
-\BOOKMARK [1][-]{section.1.1}{Technology and Strategy}{chapter.1}
-\BOOKMARK [2][-]{subsection.1.1.1}{Technological vs. Musical Innovation}{section.1.1}
-\BOOKMARK [1][-]{section.1.2}{Reshaping Musical Strategies Through Technology}{chapter.1}
-\BOOKMARK [2][-]{subsection.1.2.1}{The Score in the Digital Age}{section.1.2}
-\BOOKMARK [2][-]{subsection.1.2.2}{Live Electronic Music Performance}{section.1.2}
-\BOOKMARK [2][-]{subsection.1.2.3}{Technology and New Practices in Composition}{section.1.2}
-\BOOKMARK [1][-]{section.1.3}{Appropriation and Ideology in Music}{chapter.1}
-\BOOKMARK [2][-]{subsection.1.3.1}{Appropriation and Postproduction in the Digital Age}{section.1.3}
-\BOOKMARK [2][-]{subsection.1.3.2}{critisisms}{section.1.3}
-\BOOKMARK [2][-]{subsection.1.3.3}{The liberal-comunists: Open Source, etc.}{section.1.3}
-\BOOKMARK [1][-]{section.1.4}{Musical Appropriation through Technology}{chapter.1}
-\BOOKMARK [2][-]{subsection.1.4.1}{Musica Derivata and Plunderphonics}{section.1.4}
-\BOOKMARK [2][-]{subsection.1.4.2}{plunderphomes, ideology and the use of references}{section.1.4}
-\BOOKMARK [2][-]{subsection.1.4.3}{On Musical Appropriation}{section.1.4}
-\BOOKMARK [1][-]{section.1.5}{Typologies of Musical Appropriation}{chapter.1}
-\BOOKMARK [2][-]{subsection.1.5.1}{Copyrights Violation}{section.1.5}
-\BOOKMARK [2][-]{subsection.1.5.2}{Scores}{section.1.5}
-\BOOKMARK [2][-]{subsection.1.5.3}{Recordings}{section.1.5}
-\BOOKMARK [2][-]{subsection.1.5.4}{Spectral Information}{section.1.5}
-\BOOKMARK [2][-]{subsection.1.5.5}{Computer Code}{section.1.5}
-\BOOKMARK [2][-]{subsection.1.5.6}{Real Performances}{section.1.5}
-\BOOKMARK [2][-]{subsection.1.5.7}{Real-Time Plunderphonics}{section.1.5}
+\BOOKMARK [0][-]{chapter.1}{Preface}{}
+\BOOKMARK [0][-]{chapter.2}{Background}{}
+\BOOKMARK [1][-]{section.2.1}{Ranci\350re and the Re-evaluation of the Notion of Modernity}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.1.1}{The Distribution of the Sensible}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.2}{The Regimes of Art}{section.2.1}
+\BOOKMARK [1][-]{section.2.2}{Modernity and Music: Misconceptions and Misunderstandings}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{Anti-mimetic Tendencies and the Influence of Serialism}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.2}{The Political Revolution and the Crisis of Modernism in Music}{section.2.2}
+\BOOKMARK [1][-]{section.2.3}{Postmodern Music}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Motivation}{}
+\BOOKMARK [1][-]{section.3.1}{Redefining the Musical Subject?}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Re-thinking the Avant-garde}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{The Strategic and Aesthetic Types of Avant-garde in Music}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.3.1}{Musicking}{section.3.3}
+\BOOKMARK [1][-]{section.3.4}{The Definition of Music and the Ethical Regime}{chapter.3}
+\BOOKMARK [1][-]{section.3.5}{An Ethical Function within the Aesthetic Regime?}{chapter.3}
+\BOOKMARK [1][-]{section.3.6}{Strategic Views on Aesthetic Forms}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Musical Strategies}{}
+\BOOKMARK [1][-]{section.4.1}{Technology and Strategy}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{Technological vs. Musical Innovation}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{Reshaping Musical Strategies Through Technology}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{The Score in the Digital Age}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{Live Electronic Music Performance}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{Technology and New Practices in Composition}{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{Appropriation and Ideology in Music}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.3.1}{Appropriation and Postproduction in the Digital Age}{section.4.3}
+\BOOKMARK [2][-]{subsection.4.3.2}{critisisms}{section.4.3}
+\BOOKMARK [2][-]{subsection.4.3.3}{The liberal-comunists: Open Source, etc.}{section.4.3}
+\BOOKMARK [1][-]{section.4.4}{Musical Appropriation through Technology}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.4.1}{Musica Derivata and Plunderphonics}{section.4.4}
+\BOOKMARK [2][-]{subsection.4.4.2}{plunderphomes, ideology and the use of references}{section.4.4}
+\BOOKMARK [2][-]{subsection.4.4.3}{On Musical Appropriation}{section.4.4}
+\BOOKMARK [1][-]{section.4.5}{Typologies of Musical Appropriation}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.5.1}{Copyrights Violation}{section.4.5}
+\BOOKMARK [2][-]{subsection.4.5.2}{Scores}{section.4.5}
+\BOOKMARK [2][-]{subsection.4.5.3}{Recordings}{section.4.5}
+\BOOKMARK [2][-]{subsection.4.5.4}{Spectral Information}{section.4.5}
+\BOOKMARK [2][-]{subsection.4.5.5}{Computer Code}{section.4.5}
+\BOOKMARK [2][-]{subsection.4.5.6}{Real Performances}{section.4.5}
+\BOOKMARK [2][-]{subsection.4.5.7}{Real-Time Plunderphonics}{section.4.5}
+\BOOKMARK [0][-]{chapter.5}{Computer Applications}{}
+\BOOKMARK [1][-]{section.5.1}{Spectral Tracking}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.1.1}{PartialTracker}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.2}{FFTFilter}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.3}{SpearToSC}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.4}{SpearToMIDI}{section.5.1}
+\BOOKMARK [1][-]{section.5.2}{Real-Time Scoring}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.2.1}{AlgorithmicScore}{section.5.2}
+\BOOKMARK [1][-]{section.5.3}{Computer-Aided-Composition Tools}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.3.1}{Score Visualization}{section.5.3}
+\BOOKMARK [2][-]{subsection.5.3.2}{Midi Triggering}{section.5.3}
+\BOOKMARK [2][-]{subsection.5.3.3}{Voice Leading}{section.5.3}
+\BOOKMARK [1][-]{section.5.4}{Live-electronics}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.4.1}{Envelope Taxonomies}{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.2}{Spectrum Driven Sampler}{section.5.4}
+\BOOKMARK [2][-]{subsection.5.4.3}{Improvisation Environment}{section.5.4}
+\BOOKMARK [0][-]{chapter.6}{Compositions}{}
+\BOOKMARK [1][-]{section.6.1}{E-tudes}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.1.1}{E-tude 1}{section.6.1}
+\BOOKMARK [2][-]{subsection.6.1.2}{E-tude 2}{section.6.1}
+\BOOKMARK [2][-]{subsection.6.1.3}{E-tude 3}{section.6.1}
+\BOOKMARK [2][-]{subsection.6.1.4}{E-tude 4}{section.6.1}
+\BOOKMARK [1][-]{section.6.2}{On Violence}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Zizek?}{chapter.6}
+\BOOKMARK [1][-]{section.6.4}{FreuPinta}{chapter.6}
+\BOOKMARK [2][-]{subsection.6.4.1}{Simulation Series}{section.6.4}
+\BOOKMARK [2][-]{subsection.6.4.2}{Occupation Series}{section.6.4}
+\BOOKMARK [2][-]{subsection.6.4.3}{Transgression Series}{section.6.4}
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}
