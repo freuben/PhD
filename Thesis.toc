@@ -1,68 +1,34 @@
-\contentsline {chapter}{\numberline {1}Preface}{1}{chapter.1}
-\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{4}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{4}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{6}{subsection.2.1.2}
-\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{6}{section*.3}
-\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{8}{section*.4}
-\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{10}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{12}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{14}{subsection.2.2.2}
-\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{17}{section*.5}
-\contentsline {section}{\numberline {2.3}Postmodern Music}{19}{section.2.3}
-\contentsline {chapter}{\numberline {3}Motivation}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}Redefining the Musical Subject?}{24}{section.3.1}
-\contentsline {section}{\numberline {3.2}Rethinking the Avant-garde}{26}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}\emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{27}{subsection.3.2.1}
-\contentsline {subsubsection}{\emph {Musicking}}{29}{section*.6}
-\contentsline {section}{\numberline {3.3}The Definition of Music and the \emph {Ethical Regime}}{30}{section.3.3}
-\contentsline {section}{\numberline {3.4}An Ethical Function within the \emph {Aesthetic Regime}?}{32}{section.3.4}
-\contentsline {section}{\numberline {3.5}Reworking Musical Strategies}{35}{section.3.5}
-\contentsline {chapter}{\numberline {4}Technology and Strategy}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}Technological vs. Musical Innovation}{38}{section.4.1}
-\contentsline {section}{\numberline {4.2}Reshaping Relationships in Music Through Technology}{40}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}The Score in the Digital Age}{40}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Crossing Cultural Borders?}{42}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Live Electronic Music Performance}{45}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Interactivity or Interpassivity?}{47}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}New Relationships with the Audience}{49}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}New Ensemble Dynamics}{51}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Technology and New Practices in Composition}{52}{section.4.4}
-\contentsline {chapter}{\numberline {5}Appropiation and (Post)-postproduction}{56}{chapter.5}
-\contentsline {section}{\numberline {5.1}Appropriation Art}{56}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Postproduction}{56}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}D\'etournement}{57}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Appropriation of Social Forms}{57}{subsection.5.1.3}
-\contentsline {chapter}{\numberline {6}Computer Applications}{58}{chapter.6}
-\contentsline {section}{\numberline {6.1}Spectral Tracking}{59}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{59}{subsection.6.1.1}
-\contentsline {subsubsection}{PartialTracker}{59}{section*.7}
-\contentsline {subsubsection}{FFTFilter}{60}{section*.8}
-\contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{62}{subsection.6.1.2}
-\contentsline {subsubsection}{SpearToSC}{62}{section*.9}
-\contentsline {subsubsection}{SpearToMIDI}{63}{section*.10}
-\contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{65}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{65}{subsection.6.2.1}
-\contentsline {subsubsection}{AlgorithmicScore}{65}{section*.11}
-\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{70}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{70}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{72}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Voice Leading}{74}{subsection.6.3.3}
-\contentsline {section}{\numberline {6.4}Live-electronics}{74}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{74}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{74}{subsection.6.4.2}
-\contentsline {chapter}{\numberline {7}Compositions}{75}{chapter.7}
-\contentsline {section}{\numberline {7.1}E-tudes}{75}{section.7.1}
-\contentsline {section}{\numberline {7.2}On Violence}{80}{section.7.2}
-\contentsline {section}{\numberline {7.3}Zizek?}{80}{section.7.3}
-\contentsline {section}{\numberline {7.4}FreuPinta}{80}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Simulation Series}{80}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Occupation Series}{80}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Transgression Series}{80}{subsection.7.4.3}
-\contentsline {section}{\numberline {7.5}Improvisations}{80}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}Horatio Oratorio}{80}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}Perro-chimp}{80}{subsection.7.5.2}
-\contentsline {subsection}{\numberline {7.5.3}Too Hot to Handel}{80}{subsection.7.5.3}
-\contentsline {subsection}{\numberline {7.5.4}Mowgli}{80}{subsection.7.5.4}
-\contentsline {paragraph}{}{81}{section*.12}
-\contentsline {paragraph}{}{81}{section*.13}
+\contentsline {chapter}{\numberline {1}Appropriation and Music}{iv}{chapter.1}
+\contentsline {section}{\numberline {1.1}Ideology, Appropriation and the Past}{iv}{section.1.1}
+\contentsline {section}{\numberline {1.2}Appropriation Art}{v}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Readymades and D\'etournement}{v}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Postproduction and Digitalization}{v}{subsection.1.2.2}
+\contentsline {subsubsection}{Digital Technologies}{vi}{section*.3}
+\contentsline {subsubsection}{The liberal-comunists}{vi}{section*.4}
+\contentsline {subsection}{\numberline {1.2.3}Appropriation of Social Forms}{vi}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Postmodernism and Appropriation}{vi}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Musical Appropriation}{vi}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Postmodern Music}{vi}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Musica Derivata}{vi}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Plunderphonics}{vi}{subsection.1.3.3}
+\contentsline {subsubsection}{Copyrights}{vi}{section*.5}
+\contentsline {subsubsection}{Sampling Culture}{vi}{section*.6}
+\contentsline {subsection}{\numberline {1.3.4}Other Ideas on Musical Appropriation}{vi}{subsection.1.3.4}
+\contentsline {chapter}{\numberline {2}Computer Applications}{vii}{chapter.2}
+\contentsline {section}{\numberline {2.1}Spectral Tracking}{viii}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Partial Tracking}{viii}{subsection.2.1.1}
+\contentsline {subsubsection}{PartialTracker}{viii}{section*.7}
+\contentsline {subsubsection}{FFTFilter}{ix}{section*.8}
+\contentsline {subsection}{\numberline {2.1.2}Spectral Data Extraction and Reduction}{xi}{subsection.2.1.2}
+\contentsline {subsubsection}{SpearToSC}{xi}{section*.9}
+\contentsline {subsubsection}{SpearToMIDI}{xii}{section*.10}
+\contentsline {section}{\numberline {2.2}Computer-Mediated-Performance}{xiv}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Real-Time Scoring}{xiv}{subsection.2.2.1}
+\contentsline {subsubsection}{AlgorithmicScore}{xiv}{section*.11}
+\contentsline {section}{\numberline {2.3}Computer-Aided-Composition Tools}{xix}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Score Visualization}{xix}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Midi Triggering}{xxi}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Voice Leading}{xxiii}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Live-electronics}{xxiii}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Spectrum Driven Sampler}{xxiii}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Improvisation Environment}{xxiii}{subsection.2.4.2}
