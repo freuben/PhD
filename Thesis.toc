@@ -25,8 +25,8 @@
 \contentsline {subsection}{\numberline {4.2.2}Crossing Cultural Borders?}{43}{subsection.4.2.2}
 \contentsline {section}{\numberline {4.3}Live Electronic Music Performance}{45}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Interactivity or Interpassivity?}{47}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}New Relationships with the Audience}{50}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}New Ensemble Dynamics}{52}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Technology and New Practices in Composition}{53}{section.4.4}
-\contentsline {paragraph}{}{57}{section*.7}
-\contentsline {paragraph}{}{57}{section*.8}
+\contentsline {subsection}{\numberline {4.3.2}New Relationships with the Audience}{51}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}New Ensemble Dynamics}{53}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Technology and New Practices in Composition}{54}{section.4.4}
+\contentsline {paragraph}{}{58}{section*.7}
+\contentsline {paragraph}{}{58}{section*.8}
