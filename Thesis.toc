@@ -1,25 +1,25 @@
 \contentsline {chapter}{\numberline {1}Appropriation as Strategy}{iii}{chapter.1}
-\contentsline {section}{\numberline {1.1}Ideology, Appropriation and the Past}{iii}{section.1.1}
-\contentsline {section}{\numberline {1.2}Appropriation Art}{v}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Readymades and D\'etournement}{v}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Postproduction}{v}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Appropriation in the Digital Age}{vi}{subsection.1.2.3}
-\contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{vi}{section*.3}
-\contentsline {subsubsection}{Liberal-communists}{vi}{section*.4}
-\contentsline {subsection}{\numberline {1.2.4}Postmodernism and Appropriation}{vi}{subsection.1.2.4}
-\contentsline {subsubsection}{Considerations}{vi}{section*.5}
-\contentsline {section}{\numberline {1.3}Musical Appropriation}{vii}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Postmodern Music}{vii}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Musica Derivata}{vii}{subsection.1.3.2}
-\contentsline {subsubsection}{Spectral Information}{viii}{section*.6}
-\contentsline {subsection}{\numberline {1.3.3}Plunderphonics}{viii}{subsection.1.3.3}
-\contentsline {subsubsection}{Copyrights}{viii}{section*.7}
-\contentsline {subsubsection}{Sampling Culture}{viii}{section*.8}
-\contentsline {subsection}{\numberline {1.3.4}Other Ideas on Musical Appropriation}{viii}{subsection.1.3.4}
-\contentsline {subsubsection}{Sound Transformations}{viii}{section*.9}
-\contentsline {subsubsection}{Micro and Macro Plundering}{viii}{section*.10}
-\contentsline {subsubsection}{Using Data and Mapping }{ix}{section*.11}
-\contentsline {subsubsection}{Sharing Code}{ix}{section*.12}
-\contentsline {subsubsection}{Real-Time Plunderphonics}{ix}{section*.13}
-\contentsline {paragraph}{}{x}{section*.14}
-\contentsline {paragraph}{}{x}{section*.15}
+\contentsline {section}{\numberline {1.1}Appropriation, Ideology and the Past}{iii}{section.1.1}
+\contentsline {section}{\numberline {1.2}Appropriation Art}{vi}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Readymades and D\'etournement}{vi}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Postproduction}{vi}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Appropriation in the Digital Age}{vii}{subsection.1.2.3}
+\contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{vii}{section*.3}
+\contentsline {subsubsection}{Liberal-communists}{vii}{section*.4}
+\contentsline {subsection}{\numberline {1.2.4}Postmodernism and Appropriation}{vii}{subsection.1.2.4}
+\contentsline {subsubsection}{Considerations}{viii}{section*.5}
+\contentsline {section}{\numberline {1.3}Musical Appropriation}{viii}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Postmodern Music}{viii}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Musica Derivata}{viii}{subsection.1.3.2}
+\contentsline {subsubsection}{Spectral Information}{ix}{section*.6}
+\contentsline {subsection}{\numberline {1.3.3}Plunderphonics}{ix}{subsection.1.3.3}
+\contentsline {subsubsection}{Copyrights}{ix}{section*.7}
+\contentsline {subsubsection}{Sampling Culture}{ix}{section*.8}
+\contentsline {subsection}{\numberline {1.3.4}Other Ideas on Musical Appropriation}{ix}{subsection.1.3.4}
+\contentsline {subsubsection}{Sound Transformations}{ix}{section*.9}
+\contentsline {subsubsection}{Micro and Macro Plundering}{x}{section*.10}
+\contentsline {subsubsection}{Using Data and Mapping }{x}{section*.11}
+\contentsline {subsubsection}{Sharing Code}{x}{section*.12}
+\contentsline {subsubsection}{Real-Time Plunderphonics}{x}{section*.13}
+\contentsline {paragraph}{}{xi}{section*.14}
+\contentsline {paragraph}{}{xi}{section*.15}
