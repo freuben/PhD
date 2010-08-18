@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  17 AUG 2010 19:42
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 AUG 2010 20:01
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -305,54 +305,54 @@ Chapter 1.
 
 {/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
  (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 ) [3]
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[6]
 Missing character: There is no É in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
- [6]
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
  [7]
 Missing character: There is no Õ in font cmr10!
-) [8] (./Thesis.aux (./Chapter5/Chapter5.aux)) ) 
+Missing character: There is no Ð in font cmr10!
+Missing character: There is no Ð in font cmr10!
+Missing character: There is no Ð in font cmr10!
+Missing character: There is no Ð in font cmr10!
+ [8]
+Missing character: There is no Õ in font cmr10!
+) [9] (./Thesis.aux (./Chapter5/Chapter5.aux)) ) 
 Here is how much of TeX's memory you used:
- 5019 strings out of 493876
- 72863 string characters out of 1150568
- 141328 words of memory out of 3000000
- 8167 multiletter control sequences out of 10000+50000
- 13572 words of font info for 51 fonts, out of 3000000 for 5000
+ 5024 strings out of 493876
+ 72915 string characters out of 1150568
+ 142329 words of memory out of 3000000
+ 8168 multiletter control sequences out of 10000+50000
+ 13917 words of font info for 52 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
  30i,8n,38p,3067b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{osw
@@ -376,16 +376,19 @@ placed by a fixed one
 pdfTeX warning (dest): name{zizektragedy} has been referenced but does not exis
 t, replaced by a fixed one
 
+pdfTeX warning (dest): name{multiculturalism} has been referenced but does not 
+exist, replaced by a fixed one
+
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
 e/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/tex
 mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
 ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
 uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
-ti10.pfb>
-Output written on Thesis.pdf (8 pages, 87512 bytes).
+ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
+Output written on Thesis.pdf (9 pages, 96228 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 131072)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 131072)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
