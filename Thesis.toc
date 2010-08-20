@@ -30,57 +30,57 @@
 \contentsline {section}{\numberline {4.4}Technology and New Practices in Composition}{54}{section.4.4}
 \contentsline {chapter}{\numberline {5}Appropriation as Strategy}{59}{chapter.5}
 \contentsline {section}{\numberline {5.1}Appropriation, Ideology and the Past}{59}{section.5.1}
-\contentsline {section}{\numberline {5.2}Appropriation Art}{62}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Readymades and D\'etournement}{62}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Postproduction}{63}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Appropriation in the Digital Age}{63}{subsection.5.2.3}
-\contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{63}{section*.7}
+\contentsline {section}{\numberline {5.2}Appropriation Art}{63}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Readymades and D\'etournement}{63}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Postproduction}{64}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Appropriation in the Digital Age}{64}{subsection.5.2.3}
+\contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{64}{section*.7}
 \contentsline {subsubsection}{Liberal-communists}{64}{section*.8}
-\contentsline {subsection}{\numberline {5.2.4}Postmodernism and Appropriation}{64}{subsection.5.2.4}
-\contentsline {subsubsection}{Considerations}{64}{section*.9}
-\contentsline {section}{\numberline {5.3}Musical Appropriation}{64}{section.5.3}
+\contentsline {subsection}{\numberline {5.2.4}Postmodernism and Appropriation}{65}{subsection.5.2.4}
+\contentsline {subsubsection}{Considerations}{65}{section*.9}
+\contentsline {section}{\numberline {5.3}Musical Appropriation}{65}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Postmodern Music}{65}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Musica Derivata}{65}{subsection.5.3.2}
-\contentsline {subsubsection}{Spectral Information}{65}{section*.10}
-\contentsline {subsection}{\numberline {5.3.3}Plunderphonics}{65}{subsection.5.3.3}
-\contentsline {subsubsection}{Copyrights}{66}{section*.11}
-\contentsline {subsubsection}{Sampling Culture}{66}{section*.12}
-\contentsline {subsection}{\numberline {5.3.4}Other Ideas on Musical Appropriation}{66}{subsection.5.3.4}
-\contentsline {subsubsection}{Sound Transformations}{66}{section*.13}
-\contentsline {subsubsection}{Micro and Macro Plundering}{66}{section*.14}
-\contentsline {subsubsection}{Using Data and Mapping }{66}{section*.15}
-\contentsline {subsubsection}{Sharing Code}{66}{section*.16}
-\contentsline {subsubsection}{Real-Time Plunderphonics}{66}{section*.17}
-\contentsline {chapter}{\numberline {6}Computer Applications}{68}{chapter.6}
-\contentsline {section}{\numberline {6.1}Spectral Tracking}{69}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{69}{subsection.6.1.1}
-\contentsline {subsubsection}{PartialTracker}{69}{section*.18}
-\contentsline {subsubsection}{FFTFilter}{70}{section*.19}
-\contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{72}{subsection.6.1.2}
-\contentsline {subsubsection}{SpearToSC}{72}{section*.20}
-\contentsline {subsubsection}{SpearToMIDI}{73}{section*.21}
-\contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{75}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{75}{subsection.6.2.1}
-\contentsline {subsubsection}{AlgorithmicScore}{75}{section*.22}
-\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{80}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{80}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{82}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Voice Leading}{84}{subsection.6.3.3}
-\contentsline {section}{\numberline {6.4}Live-electronics}{84}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{84}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{84}{subsection.6.4.2}
-\contentsline {chapter}{\numberline {7}Compositions}{85}{chapter.7}
-\contentsline {section}{\numberline {7.1}E-tudes}{85}{section.7.1}
-\contentsline {section}{\numberline {7.2}On Violence}{90}{section.7.2}
-\contentsline {section}{\numberline {7.3}Zizek?}{90}{section.7.3}
-\contentsline {section}{\numberline {7.4}FreuPinta}{90}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Simulation Series}{90}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Occupation Series}{90}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Transgression Series}{90}{subsection.7.4.3}
-\contentsline {section}{\numberline {7.5}Improvisations}{90}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}Horatio Oratorio}{90}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}Perro-chimp}{90}{subsection.7.5.2}
-\contentsline {subsection}{\numberline {7.5.3}Too Hot to Handel}{90}{subsection.7.5.3}
-\contentsline {subsection}{\numberline {7.5.4}Mowgli}{90}{subsection.7.5.4}
-\contentsline {paragraph}{}{91}{section*.23}
-\contentsline {paragraph}{}{91}{section*.24}
+\contentsline {subsection}{\numberline {5.3.2}Musica Derivata}{66}{subsection.5.3.2}
+\contentsline {subsubsection}{Spectral Information}{66}{section*.10}
+\contentsline {subsection}{\numberline {5.3.3}Plunderphonics}{66}{subsection.5.3.3}
+\contentsline {subsubsection}{Copyrights}{67}{section*.11}
+\contentsline {subsubsection}{Sampling Culture}{67}{section*.12}
+\contentsline {subsection}{\numberline {5.3.4}Other Ideas on Musical Appropriation}{67}{subsection.5.3.4}
+\contentsline {subsubsection}{Sound Transformations}{67}{section*.13}
+\contentsline {subsubsection}{Micro and Macro Plundering}{67}{section*.14}
+\contentsline {subsubsection}{Using Data and Mapping }{67}{section*.15}
+\contentsline {subsubsection}{Sharing Code}{67}{section*.16}
+\contentsline {subsubsection}{Real-Time Plunderphonics}{67}{section*.17}
+\contentsline {chapter}{\numberline {6}Computer Applications}{69}{chapter.6}
+\contentsline {section}{\numberline {6.1}Spectral Tracking}{70}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{70}{subsection.6.1.1}
+\contentsline {subsubsection}{PartialTracker}{70}{section*.18}
+\contentsline {subsubsection}{FFTFilter}{71}{section*.19}
+\contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{73}{subsection.6.1.2}
+\contentsline {subsubsection}{SpearToSC}{73}{section*.20}
+\contentsline {subsubsection}{SpearToMIDI}{74}{section*.21}
+\contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{76}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{76}{subsection.6.2.1}
+\contentsline {subsubsection}{AlgorithmicScore}{76}{section*.22}
+\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{81}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{81}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{83}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Voice Leading}{85}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Live-electronics}{85}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{85}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{85}{subsection.6.4.2}
+\contentsline {chapter}{\numberline {7}Compositions}{86}{chapter.7}
+\contentsline {section}{\numberline {7.1}E-tudes}{86}{section.7.1}
+\contentsline {section}{\numberline {7.2}On Violence}{91}{section.7.2}
+\contentsline {section}{\numberline {7.3}Zizek?}{91}{section.7.3}
+\contentsline {section}{\numberline {7.4}FreuPinta}{91}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Simulation Series}{91}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Occupation Series}{91}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Transgression Series}{91}{subsection.7.4.3}
+\contentsline {section}{\numberline {7.5}Improvisations}{91}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Horatio Oratorio}{91}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Perro-chimp}{91}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Too Hot to Handel}{91}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}Mowgli}{91}{subsection.7.5.4}
+\contentsline {paragraph}{}{92}{section*.23}
+\contentsline {paragraph}{}{92}{section*.24}
