@@ -35,11 +35,11 @@
 \contentsline {subsection}{\numberline {5.2.2}Postproduction}{64}{subsection.5.2.2}
 \contentsline {subsection}{\numberline {5.2.3}Appropriation in the Digital Age}{64}{subsection.5.2.3}
 \contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{64}{section*.7}
-\contentsline {subsubsection}{Liberal-communists}{64}{section*.8}
+\contentsline {subsubsection}{Liberal-communists}{65}{section*.8}
 \contentsline {subsection}{\numberline {5.2.4}Postmodernism and Appropriation}{65}{subsection.5.2.4}
 \contentsline {subsubsection}{Considerations}{65}{section*.9}
 \contentsline {section}{\numberline {5.3}Musical Appropriation}{65}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Postmodern Music}{65}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.1}Postmodern Music}{66}{subsection.5.3.1}
 \contentsline {subsection}{\numberline {5.3.2}Musica Derivata}{66}{subsection.5.3.2}
 \contentsline {subsubsection}{Spectral Information}{66}{section*.10}
 \contentsline {subsection}{\numberline {5.3.3}Plunderphonics}{66}{subsection.5.3.3}
