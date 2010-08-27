@@ -1,24 +1,25 @@
 \contentsline {chapter}{\numberline {1}Appropriation as Strategy}{iii}{chapter.1}
 \contentsline {section}{\numberline {1.1}Appropriation, Ideology and the Past}{iii}{section.1.1}
 \contentsline {section}{\numberline {1.2}Appropriation Art}{viii}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Postproduction}{x}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Appropriation in the Digital Age}{xi}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.1}Readymades and D\'etournement}{ix}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Postproduction}{xi}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Appropriation in the Digital Age}{xi}{subsection.1.2.3}
 \contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{xi}{section*.3}
-\contentsline {subsubsection}{Liberal-communists}{xi}{section*.4}
-\contentsline {subsection}{\numberline {1.2.3}Postmodernism and Appropriation}{xi}{subsection.1.2.3}
-\contentsline {subsubsection}{Considerations}{xi}{section*.5}
-\contentsline {section}{\numberline {1.3}Musical Appropriation}{xii}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Postmodern Music}{xii}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Musica Derivata}{xii}{subsection.1.3.2}
+\contentsline {subsubsection}{Liberal-communists}{xii}{section*.4}
+\contentsline {subsection}{\numberline {1.2.4}Postmodernism and Appropriation}{xii}{subsection.1.2.4}
+\contentsline {subsubsection}{Considerations}{xii}{section*.5}
+\contentsline {section}{\numberline {1.3}Musical Appropriation}{xiii}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Postmodern Music}{xiii}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Musica Derivata}{xiii}{subsection.1.3.2}
 \contentsline {subsubsection}{Spectral Information}{xiii}{section*.6}
 \contentsline {subsection}{\numberline {1.3.3}Plunderphonics}{xiii}{subsection.1.3.3}
-\contentsline {subsubsection}{Copyrights}{xiii}{section*.7}
-\contentsline {subsubsection}{Sampling Culture}{xiii}{section*.8}
-\contentsline {subsection}{\numberline {1.3.4}Other Ideas on Musical Appropriation}{xiii}{subsection.1.3.4}
-\contentsline {subsubsection}{Sound Transformations}{xiii}{section*.9}
-\contentsline {subsubsection}{Micro and Macro Plundering}{xiii}{section*.10}
+\contentsline {subsubsection}{Copyrights}{xiv}{section*.7}
+\contentsline {subsubsection}{Sampling Culture}{xiv}{section*.8}
+\contentsline {subsection}{\numberline {1.3.4}Other Ideas on Musical Appropriation}{xiv}{subsection.1.3.4}
+\contentsline {subsubsection}{Sound Transformations}{xiv}{section*.9}
+\contentsline {subsubsection}{Micro and Macro Plundering}{xiv}{section*.10}
 \contentsline {subsubsection}{Using Data and Mapping }{xiv}{section*.11}
 \contentsline {subsubsection}{Sharing Code}{xiv}{section*.12}
 \contentsline {subsubsection}{Real-Time Plunderphonics}{xiv}{section*.13}
-\contentsline {paragraph}{}{xv}{section*.14}
-\contentsline {paragraph}{}{xv}{section*.15}
+\contentsline {paragraph}{}{xvi}{section*.14}
+\contentsline {paragraph}{}{xvi}{section*.15}
