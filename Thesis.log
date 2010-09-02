@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  27 AUG 2010 11:30
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  2 SEP 2010 21:42
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -201,20 +201,20 @@ File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 (./Thesis.aux (./Chapter5/Chapter5.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -277,7 +277,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 26.
 
 (/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -287,8 +287,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count104
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
 
 (./Thesis.out) (./Thesis.out)
 \@outlinefile=\write3
@@ -314,28 +314,23 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 ) [3] [4]
-[5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+[5] [6] [7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 Missing character: There is no É in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
 [10]
 Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
  [11]
+Missing character: There is no Õ in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
@@ -343,13 +338,13 @@ Missing character: There is no Ð in font cmr10!
 Missing character: There is no Õ in font cmr10!
  [12]) [13] (./Thesis.aux (./Chapter5/Chapter5.aux)) ) 
 Here is how much of TeX's memory you used:
- 5045 strings out of 493876
- 73116 string characters out of 1150568
- 143332 words of memory out of 3000000
+ 5046 strings out of 493876
+ 73122 string characters out of 1150568
+ 144332 words of memory out of 3000000
  8169 multiletter control sequences out of 10000+50000
  13917 words of font info for 52 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 30i,8n,38p,3248b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,38p,3248b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): na
 me{oswald} has been referenced but does not exist, replaced by a fixed one
 
@@ -360,6 +355,9 @@ pdfTeX warning (dest): name{barlow} has been referenced but does not exist, rep
 laced by a fixed one
 
 pdfTeX warning (dest): name{metzer} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{debord} has been referenced but does not exist, rep
 laced by a fixed one
 
 pdfTeX warning (dest): name{debord2} has been referenced but does not exist, re
@@ -396,9 +394,9 @@ mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
 ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
 uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
 ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on Thesis.pdf (13 pages, 118778 bytes).
+Output written on Thesis.pdf (13 pages, 121702 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 131072)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 131072)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

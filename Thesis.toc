@@ -1,25 +1,73 @@
-\contentsline {chapter}{\numberline {1}Appropriation as Strategy}{iii}{chapter.1}
-\contentsline {section}{\numberline {1.1}Appropriation, Ideology and the Past}{iii}{section.1.1}
-\contentsline {section}{\numberline {1.2}Appropriation Art}{viii}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Readymades and D\'etournement}{ix}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Postproduction}{xi}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Appropriation in the Digital Age}{xi}{subsection.1.2.3}
-\contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{xi}{section*.3}
-\contentsline {subsubsection}{Liberal-communists}{xii}{section*.4}
-\contentsline {subsection}{\numberline {1.2.4}Postmodernism and Appropriation}{xii}{subsection.1.2.4}
-\contentsline {subsubsection}{Considerations}{xii}{section*.5}
-\contentsline {section}{\numberline {1.3}Musical Appropriation}{xiii}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Postmodern Music}{xiii}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Musica Derivata}{xiii}{subsection.1.3.2}
-\contentsline {subsubsection}{Spectral Information}{xiii}{section*.6}
-\contentsline {subsection}{\numberline {1.3.3}Plunderphonics}{xiii}{subsection.1.3.3}
-\contentsline {subsubsection}{Copyrights}{xiv}{section*.7}
-\contentsline {subsubsection}{Sampling Culture}{xiv}{section*.8}
-\contentsline {subsection}{\numberline {1.3.4}Other Ideas on Musical Appropriation}{xiv}{subsection.1.3.4}
-\contentsline {subsubsection}{Sound Transformations}{xiv}{section*.9}
-\contentsline {subsubsection}{Micro and Macro Plundering}{xiv}{section*.10}
-\contentsline {subsubsection}{Using Data and Mapping }{xiv}{section*.11}
-\contentsline {subsubsection}{Sharing Code}{xiv}{section*.12}
-\contentsline {subsubsection}{Real-Time Plunderphonics}{xiv}{section*.13}
-\contentsline {paragraph}{}{xvi}{section*.14}
-\contentsline {paragraph}{}{xvi}{section*.15}
+\contentsline {chapter}{\numberline {1}Preface}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}The Distribution of the Sensible}{4}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}The Regimes of Art}{6}{subsection.2.1.2}
+\contentsline {subsubsection}{The Ethical Regime of Images and the Poetic Regime of Art}{6}{section*.3}
+\contentsline {subsubsection}{The Aesthetic Regime of Art and the Shortcomings of the Notion of Modernity}{8}{section*.4}
+\contentsline {section}{\numberline {2.2}Modernity and Music: Misconceptions and Misunderstandings}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Anti-mimetic Tendencies and the Influence of Serialism}{12}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The Political Revolution and the Crisis of Modernism in Music}{14}{subsection.2.2.2}
+\contentsline {subsubsection}{The Fall of Communism and the Critique of Utopian Thinking}{17}{section*.5}
+\contentsline {section}{\numberline {2.3}Postmodern Music}{19}{section.2.3}
+\contentsline {chapter}{\numberline {3}Motivation}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Redefining the Musical Subject?}{24}{section.3.1}
+\contentsline {section}{\numberline {3.2}Rethinking the Avant-garde}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\emph {Strategic} and \emph {Aesthetic} Types of Avant-garde in Music}{27}{subsection.3.2.1}
+\contentsline {subsubsection}{\emph {Musicking}}{29}{section*.6}
+\contentsline {section}{\numberline {3.3}The Definition of Music and the \emph {Ethical Regime}}{31}{section.3.3}
+\contentsline {section}{\numberline {3.4}An Ethical Function within the \emph {Aesthetic Regime}?}{33}{section.3.4}
+\contentsline {section}{\numberline {3.5}Reworking Musical Strategies}{35}{section.3.5}
+\contentsline {chapter}{\numberline {4}Technology and Strategy}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Technological vs. Musical Innovation}{38}{section.4.1}
+\contentsline {section}{\numberline {4.2}Reshaping Relationships in Music Through Technology}{40}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}The Score in the Digital Age}{40}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Crossing Cultural Borders?}{43}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Live Electronic Music Performance}{45}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Interactivity or Interpassivity?}{47}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}New Relationships with the Audience}{51}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}New Ensemble Dynamics}{54}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Technology and New Practices in Composition}{54}{section.4.4}
+\contentsline {chapter}{\numberline {5}Appropriation as Strategy}{59}{chapter.5}
+\contentsline {section}{\numberline {5.1}Appropriation, Ideology and the Past}{59}{section.5.1}
+\contentsline {section}{\numberline {5.2}Appropriation Art}{64}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Readymades and D\'etournement}{65}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Postproduction}{67}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Appropriation in the Digital Age}{67}{subsection.5.2.3}
+\contentsline {subsubsection}{Copying and Sharing: Social (Re)appropriation}{68}{section*.7}
+\contentsline {subsubsection}{Liberal-communists}{68}{section*.8}
+\contentsline {subsection}{\numberline {5.2.4}Postmodernism and Appropriation}{68}{subsection.5.2.4}
+\contentsline {subsubsection}{Considerations}{68}{section*.9}
+\contentsline {section}{\numberline {5.3}Musical Appropriation}{69}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Postmodern Music}{69}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Musica Derivata}{69}{subsection.5.3.2}
+\contentsline {subsubsection}{Spectral Information}{69}{section*.10}
+\contentsline {subsection}{\numberline {5.3.3}Plunderphonics}{69}{subsection.5.3.3}
+\contentsline {subsubsection}{Copyrights}{70}{section*.11}
+\contentsline {subsubsection}{Sampling Culture}{70}{section*.12}
+\contentsline {subsection}{\numberline {5.3.4}Other Ideas on Musical Appropriation}{70}{subsection.5.3.4}
+\contentsline {subsubsection}{Sound Transformations}{70}{section*.13}
+\contentsline {subsubsection}{Micro and Macro Plundering}{70}{section*.14}
+\contentsline {subsubsection}{Using Data and Mapping }{70}{section*.15}
+\contentsline {subsubsection}{Sharing Code}{70}{section*.16}
+\contentsline {subsubsection}{Real-Time Plunderphonics}{71}{section*.17}
+\contentsline {chapter}{\numberline {6}Computer Applications}{72}{chapter.6}
+\contentsline {section}{\numberline {6.1}Spectral Tracking}{73}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{73}{subsection.6.1.1}
+\contentsline {subsubsection}{PartialTracker}{73}{section*.18}
+\contentsline {subsubsection}{FFTFilter}{74}{section*.19}
+\contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{76}{subsection.6.1.2}
+\contentsline {subsubsection}{SpearToSC}{76}{section*.20}
+\contentsline {subsubsection}{SpearToMIDI}{77}{section*.21}
+\contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{79}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{79}{subsection.6.2.1}
+\contentsline {subsubsection}{AlgorithmicScore}{79}{section*.22}
+\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{84}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{84}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{86}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Voice Leading}{88}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Live-electronics}{88}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{88}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{88}{subsection.6.4.2}
+\contentsline {paragraph}{}{89}{section*.23}
+\contentsline {paragraph}{}{89}{section*.24}
