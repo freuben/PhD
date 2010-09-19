@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  15 SEP 2010 16:50
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 SEP 2010 19:31
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -198,7 +198,9 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
-(./Thesis.aux (./Chapter5/Chapter5.aux))
+(./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)
+(./Bibliography/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -295,32 +297,107 @@ LaTeX Info: Redefining \pageref on input line 26.
 \openout3 = `Thesis.out'.
 
 \AtBeginShipoutBox=\box27
-\openout2 = `Chapter5/Chapter5.aux'.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 
- (./Chapter5/Chapter5.tex
-Chapter 1.
-[1
-
-
-
-{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
- (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
-) [3] [4]
-[5] [6] [7] [8] [9]
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Thesis.toc [1
+
+])
+\tf@toc=\write4
+\openout4 = `Thesis.toc'.
+
+ [2] (./Thesis.lof)
+\tf@lof=\write5
+\openout5 = `Thesis.lof'.
+
+ [3
+
+]
+\openout2 = `Chapter1/Chapter1.aux'.
+
+ (./Chapter1/Chapter1.tex
+Chapter 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 I
+      n \hyperlink{chapter5}{Chapter 5}---appropriation [1
+
+
+]) [2]
+\openout2 = `Chapter2/Chapter2.aux'.
+
+
+(./Chapter2/Chapter2.tex
+Chapter 2.
+[3
+
+
+
+] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (18.39134pt too wide) in paragraph at lines 89--90
+[]\OT1/cmr/m/n/10.95 It was through the de-vel-op-ment of se-ri-al-ism in the f
+ifties and sixties---led by Boulez and Stockhausen---
+ []
+
+[13] [14] [15]
+Overfull \hbox (11.06387pt too wide) in paragraph at lines 102--103
+\OT1/cmr/m/n/10.95 Rzewski, and their fol-low-ers, who were more frankly politi
+-cized than those in the []
+ []
+
+[16] [17] [18]
+Missing character: There is no Ž in font cmti10!
+ [19] [20] [21]) [22]
+\openout2 = `Chapter3/Chapter3.aux'.
+
+ (./Chapter3/Chapter3.tex
+Chapter 3.
+[23
+
+
+
+] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]) [37]
+\openout2 = `Chapter4/Chapter4.aux'.
+
+
+(./Chapter4/Chapter4.tex
+Chapter 4.
+[38
+
+
+
+] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52]
+[53] [54] [55] [56] [57] [58]) [59]
+\openout2 = `Chapter5/Chapter5.aux'.
+
+ (./Chapter5/Chapter5.tex
+Chapter 5.
+[60
+
+
+
+] [61] [62] [63] [64] [65] [66] [67] [68]
 Overfull \hbox (5.01091pt too wide) in paragraph at lines 48--49
 \OT1/cmr/m/n/10.95 During the eight-ies, the in-ter-est of de-lib-er-ately us-i
 ng ap-pro-pri-ated ma-te-rial as a cre-ative tool reemerged
  []
 
-[10] [11]
+[69] [70]
 Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
@@ -330,86 +407,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-[12] [13]
+[71] [72]
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Õ in font cmr10!
- [14]
+ [73]
 Missing character: There is no É in font cmr10!
- [15]
+ [74]
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
-) [16] (./Thesis.aux (./Chapter5/Chapter5.aux)) ) 
+) [75]
+No file Thesis.bbl.
+\openout2 = `Bibliography/Bibliography.aux'.
+
+(./Bibliography/Bibliography.tex [76
+
+
+] [77]
+Overfull \hbox (4.79317pt too wide) in paragraph at lines 149--150
+[]\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
+ Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
+][] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 193--46
+
+ []
+
+[78] [79] (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)
+(./Bibliography/Bibliography.aux)) ) 
 Here is how much of TeX's memory you used:
- 5053 strings out of 493876
- 73163 string characters out of 1150568
- 149328 words of memory out of 3000000
- 8167 multiletter control sequences out of 10000+50000
- 13917 words of font info for 52 fonts, out of 3000000 for 5000
- 714 hyphenation exceptions out of 8191
- 30i,8n,38p,5579b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{os
-wald} has been referenced but does not exist, replaced by a fixed one
+ 5422 strings out of 493876
+ 77509 string characters out of 1150568
+ 152028 words of memory out of 3000000
+ 8220 multiletter control sequences out of 10000+50000
+ 16875 words of font info for 63 fonts, out of 3000000 for 5000
+ 716 hyphenation exceptions out of 8191
+ 30i,8n,38p,5579b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter7} has b
+een referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{moholy} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{barlow} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{metzer} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{zizekuniv} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{debord3} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{debord} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{debord2} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{postproduction} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{mcdonough} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{ford} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{judovitz} has been referenced but does not exist, r
+pdfTeX warning (dest): name{chapter6} has been referenced but does not exist, r
 eplaced by a fixed one
-
-pdfTeX warning (dest): name{duchamp} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{evans} has been referenced but does not exist, repl
-aced by a fixed one
-
-pdfTeX warning (dest): name{zizektragedy} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{multiculturalism} has been referenced but does not 
-exist, replaced by a fixed one
 
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
-e/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/tex
-mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
-ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
-uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
-ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on Thesis.pdf (16 pages, 139256 bytes).
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/2008/
+texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist
+/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fonts/typ
+e1/bluesky/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
+/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.pf
+b></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/loc
+al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texliv
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/tex
+mf-dist/fonts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/f
+onts/type1/bluesky/cm/cmtt9.pfb>
+Output written on Thesis.pdf (83 pages, 471594 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 131072)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1126 PDF objects out of 1200 (max. 8388607)
+ 344 named destinations out of 1000 (max. 131072)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
