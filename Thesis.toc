@@ -35,40 +35,40 @@
 \contentsline {subsection}{\numberline {5.2.2}(Post)-postproduction in the Digital Age}{69}{subsection.5.2.2}
 \contentsline {section}{\numberline {5.3}Musical Appropriation}{73}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Appropriation and Postmodern Music}{73}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Musica Derivata}{73}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.2}Musica Derivata}{74}{subsection.5.3.2}
 \contentsline {subsubsection}{Spectral Information}{74}{section*.7}
 \contentsline {subsection}{\numberline {5.3.3}Plunderphonics}{74}{subsection.5.3.3}
-\contentsline {subsubsection}{Copyrights}{74}{section*.8}
-\contentsline {subsubsection}{Sampling Culture}{74}{section*.9}
-\contentsline {subsection}{\numberline {5.3.4}Other Ideas on Musical Appropriation}{74}{subsection.5.3.4}
-\contentsline {subsubsection}{The Impact of Sound Transformations}{74}{section*.10}
+\contentsline {subsubsection}{Copyrights}{75}{section*.8}
+\contentsline {subsubsection}{Sampling Culture}{75}{section*.9}
+\contentsline {subsection}{\numberline {5.3.4}Other Ideas on Musical Appropriation}{75}{subsection.5.3.4}
+\contentsline {subsubsection}{The Impact of Sound Transformations}{75}{section*.10}
 \contentsline {subsubsection}{Micro and Macro Plundering}{75}{section*.11}
 \contentsline {subsubsection}{Using Data and Mapping }{75}{section*.12}
-\contentsline {subsubsection}{Sharing Code}{75}{section*.13}
-\contentsline {subsubsection}{Real-Time Plunderphonics}{75}{section*.14}
+\contentsline {subsubsection}{Sharing Code}{76}{section*.13}
+\contentsline {subsubsection}{Real-Time Plunderphonics}{76}{section*.14}
 \contentsline {subsubsection}{Other considerations}{76}{section*.15}
-\contentsline {chapter}{\numberline {6}Computer Applications}{77}{chapter.6}
-\contentsline {section}{\numberline {6.1}Spectral Tracking}{78}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{78}{subsection.6.1.1}
-\contentsline {subsubsection}{PartialTracker}{78}{section*.16}
-\contentsline {subsubsection}{FFTFilter}{79}{section*.17}
-\contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{81}{subsection.6.1.2}
-\contentsline {subsubsection}{SpearToSC}{81}{section*.18}
-\contentsline {subsubsection}{SpearToMIDI}{82}{section*.19}
-\contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{84}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{84}{subsection.6.2.1}
-\contentsline {subsubsection}{AlgorithmicScore}{84}{section*.20}
-\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{89}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{89}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{91}{subsection.6.3.2}
-\contentsline {section}{\numberline {6.4}Live-electronics}{93}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{93}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{93}{subsection.6.4.2}
-\contentsline {chapter}{\numberline {7}Compositions}{94}{chapter.7}
-\contentsline {section}{\numberline {7.1}E-tudes}{94}{section.7.1}
-\contentsline {section}{\numberline {7.2}On Violence}{99}{section.7.2}
-\contentsline {section}{\numberline {7.3}Zizek?}{99}{section.7.3}
-\contentsline {section}{\numberline {7.4}FreuPinta}{100}{section.7.4}
-\contentsline {section}{\numberline {7.5}Improvisations}{100}{section.7.5}
-\contentsline {paragraph}{}{101}{section*.21}
-\contentsline {paragraph}{}{101}{section*.22}
+\contentsline {chapter}{\numberline {6}Computer Applications}{78}{chapter.6}
+\contentsline {section}{\numberline {6.1}Spectral Tracking}{79}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{79}{subsection.6.1.1}
+\contentsline {subsubsection}{PartialTracker}{79}{section*.16}
+\contentsline {subsubsection}{FFTFilter}{80}{section*.17}
+\contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{82}{subsection.6.1.2}
+\contentsline {subsubsection}{SpearToSC}{82}{section*.18}
+\contentsline {subsubsection}{SpearToMIDI}{83}{section*.19}
+\contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{85}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{85}{subsection.6.2.1}
+\contentsline {subsubsection}{AlgorithmicScore}{85}{section*.20}
+\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{90}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{90}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{92}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}Live-electronics}{94}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{94}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{94}{subsection.6.4.2}
+\contentsline {chapter}{\numberline {7}Compositions}{95}{chapter.7}
+\contentsline {section}{\numberline {7.1}E-tudes}{95}{section.7.1}
+\contentsline {section}{\numberline {7.2}On Violence}{100}{section.7.2}
+\contentsline {section}{\numberline {7.3}Zizek?}{100}{section.7.3}
+\contentsline {section}{\numberline {7.4}FreuPinta}{101}{section.7.4}
+\contentsline {section}{\numberline {7.5}Improvisations}{101}{section.7.5}
+\contentsline {paragraph}{}{102}{section*.21}
+\contentsline {paragraph}{}{102}{section*.22}
