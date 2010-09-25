@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  22 SEP 2010 18:16
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  24 SEP 2010 19:42
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -320,49 +320,49 @@ Overfull \hbox (5.01091pt too wide) in paragraph at lines 48--49
 ng ap-pro-pri-ated ma-te-rial as a cre-ative tool reemerged
  []
 
-[10] [11] [12] [13] [14]
+[10] [11] [12] [13] [14] [15] [16]
 Missing character: There is no Õ in font cmr10!
- [15]
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Õ in font cmr10!
- [16]
+ [17]
 Missing character: There is no É in font cmr10!
+ [18]
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
-) [17] [18]
+) [19]
 \openout2 = `Appendixes/Appendixes.aux'.
 
- (./Appendixes/Appendixes.tex
-<Appendixes/zizek_page1.png, id=237, 845.0772pt x 597.432pt>
+ (./Appendixes/Appendixes.tex <Appendixes/zizek_page1.png, id=248, 845.0772pt x
+ 597.432pt>
 File: Appendixes/zizek_page1.png Graphic file (type png)
 
 <use Appendixes/zizek_page1.png>
-<Appendixes/zizek_page2.png, id=238, 845.0772pt x 597.432pt>
+<Appendixes/zizek_page2.png, id=249, 845.0772pt x 597.432pt>
 File: Appendixes/zizek_page2.png Graphic file (type png)
 
 <use Appendixes/zizek_page2.png>
-<Appendixes/zizek_page3.png, id=239, 845.0772pt x 597.432pt>
+<Appendixes/zizek_page3.png, id=250, 845.0772pt x 597.432pt>
 File: Appendixes/zizek_page3.png Graphic file (type png)
 
-<use Appendixes/zizek_page3.png> [19
+<use Appendixes/zizek_page3.png> [20
 
 
  <./Appendixes/zizek_page1.png (PNG copy)> <./Appendixes/zizek_page2.png (PNG c
-opy)>]) [20 <./Appendixes/zizek_page3.png (PNG copy)>] (./Thesis.aux (./Chapter
+opy)>]) [21 <./Appendixes/zizek_page3.png (PNG copy)>] (./Thesis.aux (./Chapter
 5/Chapter5.aux)
 (./Appendixes/Appendixes.aux)) ) 
 Here is how much of TeX's memory you used:
- 5085 strings out of 493876
- 73845 string characters out of 1150568
+ 5089 strings out of 493876
+ 73888 string characters out of 1150568
  149626 words of memory out of 3000000
  8180 multiletter control sequences out of 10000+50000
  13917 words of font info for 52 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 30i,8n,38p,5566b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,38p,5566b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{oswald} has been re
 ferenced but does not exist, replaced by a fixed one
 
@@ -424,9 +424,9 @@ mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
 ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
 uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
 ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on Thesis.pdf (20 pages, 439851 bytes).
+Output written on Thesis.pdf (21 pages, 445623 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 131072)
+ 307 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 131072)
  108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
