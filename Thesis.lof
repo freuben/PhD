@@ -4,15 +4,15 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces FFTFilter: Spectral mapping of vocal contour.}}{85}{figure.6.1}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces FFTFilter: Noise filtered by vocal contour.}}{86}{figure.6.2}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces SPEAR graphical interface.}}{87}{figure.6.3}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces SpearToMIDI: Amplitude threshold selection.}}{87}{figure.6.4}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces SPEARToMIDI: Point selection through frequency modulation threshold.}}{88}{figure.6.5}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces SPEARToMIDI: Note representation.}}{89}{figure.6.6}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces AlgorithmicScore: Enharmonic mode.}}{91}{figure.6.7}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces AlgorithmicScore: Chromatic mode.}}{92}{figure.6.8}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces AlgorithmicScore: PartialTracker to Notes.}}{93}{figure.6.9}
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Visualization of Ockeghem's \emph {Missa Mi mi}.}}{96}{figure.6.10}
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Visualization of Gesualdo's \emph {Se la mia morte brami}.}}{97}{figure.6.11}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces FFTFilter: Spectral mapping of vocal contour.}}{86}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces FFTFilter: Noise filtered by vocal contour.}}{87}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces SPEAR graphical interface.}}{88}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces SpearToMIDI: Amplitude threshold selection.}}{88}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces SPEARToMIDI: Point selection through frequency modulation threshold.}}{89}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces SPEARToMIDI: Note representation.}}{90}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces AlgorithmicScore: Enharmonic mode.}}{92}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces AlgorithmicScore: Chromatic mode.}}{93}{figure.6.8}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces AlgorithmicScore: PartialTracker to Notes.}}{94}{figure.6.9}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Visualization of Ockeghem's \emph {Missa Mi mi}.}}{97}{figure.6.10}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Visualization of Gesualdo's \emph {Se la mia morte brami}.}}{98}{figure.6.11}
 \addvspace {10\p@ }
