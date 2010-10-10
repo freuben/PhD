@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  9 OCT 2010 22:36
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  10 OCT 2010 18:43
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -198,7 +198,41 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
-(./Thesis.aux (./Chapter5/Chapter5.aux) (./Bibliography/Bibliography.aux))
+(./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)
+(./Chapter6/Chapter6.aux
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+) (./Chapter7/Chapter7.aux) (./Bibliography/Bibliography.aux)
+(./Appendixes/Appendixes.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -299,98 +333,312 @@ LaTeX Info: Redefining \pageref on input line 26.
 
  (./Chapter5/Chapter5.tex
 Chapter 1.
-[1
-
-
-
-{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-LaTeX Font Info:    Try loading font information for U+msa on input line 14.
- (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 14.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
-) [3] [4]
-[5] [6] [7] [8] [9]
+) [1
+
+
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+ [4] [5]
+[6] [7] [8] [9] [10]
 Overfull \hbox (5.01091pt too wide) in paragraph at lines 51--52
 \OT1/cmr/m/n/10.95 During the eight-ies, the in-ter-est of de-lib-er-ately us-i
 ng ap-pro-pri-ated ma-te-rial as a cre-ative tool reemerged
  []
 
-[10] [11] [12] [13] [14] [15] [16] [17]
+[11] [12] [13] [14] [15] [16] [17] [18]
 Missing character: There is no Ž in font cmti10!
- [18] [19] [20] [21]
+ [19] [20] [21] [22]
 Overfull \hbox (1.36089pt too wide) in paragraph at lines 99--100
 \OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vises that re-pro-duce s
 ound can also be used as `mu-si-cal instruments'---
  []
 
 Missing character: There is no Õ in font cmr10!
-[22] [23] [24] [25] [26] [27]
+[23] [24] [25] [26] [27] [28]
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
- [28] [29] [30] [31] [32] [33]
-Missing character: There is no É in font cmr10!
- [34]
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
-) [35]
-\openout2 = `Bibliography/Bibliography.aux'.
+ [29] [30] [31] [32] [33] [34] [35]) [36]
+(./Thesis.aux (./Chapter5/Chapter5.aux))
 
+LaTeX Warning: There were multiply-defined labels.
 
-(./Bibliography/Bibliography.tex [36
-
-
-] [37]
-Overfull \hbox (5.40112pt too wide) in paragraph at lines 151--152
-[]\OT1/cmr/m/n/10.95 The Mu-seum of Broad-cast Com-mu-ni-ca-tions (MBC). URL: [
-][]\OT1/cmtt/m/n/10.95 http://www.museum.tv/eotvsection.[][] 
- []
-
-
-Overfull \hbox (4.79317pt too wide) in paragraph at lines 189--190
-[]\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
- Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
-][] 
- []
-
-[38]
-Overfull \hbox (6.83047pt too wide) in paragraph at lines 217--218
-[]\OT1/cmr/m/n/10.95 sound record-ings', in \OT1/cmr/m/it/10.95 Pro-ceed-ings o
-f CHARM\OT1/cmr/m/n/10.95 , Sym-po-sium 6, 2008, URL: [][]\OT1/cmtt/m/n/10.95 h
-ttp://images.cch.kcl.[][] 
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 251--46
-
- []
-
-[39] (./Thesis.aux (./Chapter5/Chapter5.aux) (./Bibliography/Bibliography.aux))
  ) 
 Here is how much of TeX's memory you used:
- 5198 strings out of 493876
- 74609 string characters out of 1150568
- 149621 words of memory out of 3000000
- 8177 multiletter control sequences out of 10000+50000
- 14252 words of font info for 54 fonts, out of 3000000 for 5000
+ 5280 strings out of 493876
+ 76090 string characters out of 1150568
+ 152182 words of memory out of 3000000
+ 8230 multiletter control sequences out of 10000+50000
+ 14084 words of font info for 53 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
  30i,8n,38p,5793b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist
+pdfTeX warning (dest): name{roads} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{wishart} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{sanjek} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{oswaldcd} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{paik} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{meidenkunst} has been referenced but does not exist
 , replaced by a fixed one
 
 pdfTeX warning (dest): name{liggett} has been referenced but does not exist, re
 placed by a fixed one
 
+pdfTeX warning (dest): name{cage} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{moholy} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{cutler} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{oswald} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{fox} has been referenced but does not exist, replac
+ed by a fixed one
+
+pdfTeX warning (dest): name{reuben} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{barlowspec} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{barlowpiano} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{barlowbob} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{barlowcd} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{metzer} has been referenced but does not exist, rep
+laced by a fixed one
+
 pdfTeX warning (dest): name{chapter2} has been referenced but does not exist, r
 eplaced by a fixed one
 
+pdfTeX warning (dest): name{zizekviolence} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{zizekuniv} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{debord3} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{debord} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{debord2} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{postproduction} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{mcdonough} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{ford} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{judovitz} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{duchamp} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{evans} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{zizektragedy} has been referenced but does not exis
+t, replaced by a fixed one
+
 pdfTeX warning (dest): name{multiculturalism} has been referenced but does not 
 exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{postmodernmusic} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.7} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.4.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.4.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.3.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.1.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.6} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.3.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.3.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.2.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.1.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.2} has been referenced but does not exist, 
+replaced by a fixed one
 
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
@@ -399,11 +647,10 @@ mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
 ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
 uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
 ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb><
-/usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb></usr/loca
-l/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (39 pages, 277409 bytes).
+/usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt9.pfb>
+Output written on Thesis.pdf (36 pages, 265927 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 206 named destinations out of 1000 (max. 131072)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 703 PDF objects out of 1000 (max. 8388607)
+ 212 named destinations out of 1000 (max. 131072)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
 
