@@ -31,7 +31,7 @@
 \contentsline {chapter}{\numberline {5}Appropriation as Strategy}{60}{chapter.5}
 \contentsline {section}{\numberline {5.1}Appropriation, Ideology and the Past}{61}{section.5.1}
 \contentsline {section}{\numberline {5.2}Appropriation Art}{66}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Readymades and D\'etournement}{67}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.1}Readymades and D\'etournement}{66}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}(Post)-postproduction in the Digital Age}{70}{subsection.5.2.2}
 \contentsline {section}{\numberline {5.3}Musical Appropriation}{74}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Appropriation and Postmodern Music}{74}{subsection.5.3.1}
@@ -39,7 +39,7 @@
 \contentsline {subsection}{\numberline {5.3.3}Plunderphonics}{81}{subsection.5.3.3}
 \contentsline {subsubsection}{Early plunderphonics}{83}{section*.7}
 \contentsline {subsubsection}{Oswald, Sampling and Copyrights}{86}{section*.8}
-\contentsline {subsection}{\numberline {5.3.4}Elaborations on Musical Appropriation}{89}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.4}Elaborations on Musical Strategies of Appropriation}{89}{subsection.5.3.4}
 \contentsline {chapter}{\numberline {6}Computer Applications}{96}{chapter.6}
 \contentsline {section}{\numberline {6.1}Spectral Tracking}{97}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Partial Tracking}{97}{subsection.6.1.1}
