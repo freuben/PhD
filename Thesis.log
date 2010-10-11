@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  11 OCT 2010 12:46
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  11 OCT 2010 21:37
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -231,8 +231,7 @@ LaTeX Warning: Label `fig:example' multiply defined.
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
-) (./Chapter7/Chapter7.aux) (./Bibliography/Bibliography.aux)
-(./Appendixes/Appendixes.aux))
+) (./Chapter7/Chapter7.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -431,7 +430,7 @@ ng ap-pro-pri-ated ma-te-rial as a cre-ative tool reemerged
 [69] [70] [71] [72] [73] [74] [75] [76] [77]
 Missing character: There is no Ž in font cmti10!
  [78] [79] [80] [81]
-Overfull \hbox (1.36089pt too wide) in paragraph at lines 99--100
+Overfull \hbox (1.36089pt too wide) in paragraph at lines 100--101
 \OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vises that re-pro-duce s
 ound can also be used as `mu-si-cal instruments'---
  []
@@ -450,26 +449,26 @@ Chapter 6.
 
 
 
-] [97]
-Overfull \hbox (16.38077pt too wide) in paragraph at lines 36--36
+] [97] [98]
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 29--29
 []\OT1/cmtt/m/n/10.95 [ 128.37791442871, 154.57292175293, 140.25003051758, 246.
 26268005371, 253.09353637695,[] 
  []
 
 
-Overfull \hbox (16.38077pt too wide) in paragraph at lines 36--36
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 29--29
 [] \OT1/cmtt/m/n/10.95 364.92492675781, 396.52267456055, 1035.068359375, 1037.1
 043701172, 1241.3063964844 ];[] 
  []
 
 
-Overfull \hbox (16.38077pt too wide) in paragraph at lines 36--36
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 29--29
 []\OT1/cmtt/m/n/10.95 [ 1.8754153251648, 4.5471153259277, 5.3137745857239, 2.61
 46886348724, 1.2295168638229,[] 
  []
 
 
-Overfull \hbox (22.12946pt too wide) in paragraph at lines 36--36
+Overfull \hbox (22.12946pt too wide) in paragraph at lines 29--29
 []  \OT1/cmtt/m/n/10.95 2.5435922145844, 3.215939283371, 2.0944044589996, 2.601
 4709472656, 2.0559096336365 ];[] 
  []
@@ -477,7 +476,7 @@ Overfull \hbox (22.12946pt too wide) in paragraph at lines 36--36
 system(convert Chapter6/spectovocal.tif `dirname Chapter6/spectovocal.tif`/`bas
 ename Chapter6/spectovocal.tif .tif`.png)...executed.
 
-<Chapter6/spectovocal.png, id=1361, 790.152pt x 496.9767pt>
+<Chapter6/spectovocal.png, id=1390, 790.152pt x 496.9767pt>
 File: Chapter6/spectovocal.png Graphic file (type png)
 
 <use Chapter6/spectovocal.png>
@@ -485,44 +484,44 @@ system(convert Chapter6/spectonoise.tif `dirname Chapter6/spectonoise.tif`/`bas
 ename Chapter6/spectonoise.tif .tif`.png)...executed.
 
 
-<Chapter6/spectonoise.png, id=1362, 794.97pt x 472.8867pt>
+<Chapter6/spectonoise.png, id=1391, 794.97pt x 472.8867pt>
 File: Chapter6/spectonoise.png Graphic file (type png)
 
-<use Chapter6/spectonoise.png> [98]
+<use Chapter6/spectonoise.png> [99] [100 <./Chapter6/spectovocal.png (PNG copy)
+>]
 system(convert Chapter6/Spear1.tif `dirname Chapter6/Spear1.tif`/`basename Chap
 ter6/Spear1.tif .tif`.png)...executed.
 
-
-<Chapter6/Spear1.png, id=1378, 1373.13pt x 749.80125pt>
+ <Chapter6/Spear1.png, id=1413, 1373.13pt x 749.80125pt>
 File: Chapter6/Spear1.png Graphic file (type png)
 
-<use Chapter6/Spear1.png> [99 <./Chapter6/spectovocal.png (PNG copy)>]
+<use Chapter6/Spear1.png> [101 <./Chapter6/spectonoise.png (PNG copy)>]
 system(convert Chapter6/Spear2.tif `dirname Chapter6/Spear2.tif`/`basename Chap
 ter6/Spear2.tif .tif`.png)...executed.
 
 
-<Chapter6/Spear2.png, id=1388, 338.4645pt x 211.992pt>
+<Chapter6/Spear2.png, id=1423, 338.4645pt x 211.992pt>
 File: Chapter6/Spear2.png Graphic file (type png)
 
-<use Chapter6/Spear2.png> [100 <./Chapter6/spectonoise.png (PNG copy)>]
+<use Chapter6/Spear2.png> [102 <./Chapter6/Spear1.png>]
 system(convert Chapter6/Spear3.tif `dirname Chapter6/Spear3.tif`/`basename Chap
 ter6/Spear3.tif .tif`.png)...executed.
 
 
-<Chapter6/Spear3.png, id=1402, 437.7153pt x 278.2395pt>
+<Chapter6/Spear3.png, id=1437, 437.7153pt x 278.2395pt>
 File: Chapter6/Spear3.png Graphic file (type png)
 
-<use Chapter6/Spear3.png> [101 <./Chapter6/Spear1.png> <./Chapter6/Spear2.png (
-PNG copy)>]
+<use Chapter6/Spear3.png>
 system(convert Chapter6/Spear4.tif `dirname Chapter6/Spear4.tif`/`basename Chap
 ter6/Spear4.tif .tif`.png)...executed.
 
- <Chapter6/Spear4.png, id=1408, 433.62pt x 278.2395pt>
+
+<Chapter6/Spear4.png, id=1438, 433.62pt x 278.2395pt>
 File: Chapter6/Spear4.png Graphic file (type png)
 
-<use Chapter6/Spear4.png> [102 <./Chapter6/Spear3.png (PNG copy)>] [103 <./Chap
-ter6/Spear4.png (PNG copy)>]
-Overfull \hbox (10.63208pt too wide) in paragraph at lines 126--126
+<use Chapter6/Spear4.png> [103 <./Chapter6/Spear2.png (PNG copy)>] [104 <./Chap
+ter6/Spear3.png (PNG copy)> <./Chapter6/Spear4.png (PNG copy)>] [105]
+Overfull \hbox (10.63208pt too wide) in paragraph at lines 122--122
 []\OT1/cmtt/m/n/10.95 a.text("Improvise with pitch material", "Helvetica", 30, 
 30, 200, color: Color.rand);[] 
  []
@@ -530,15 +529,15 @@ Overfull \hbox (10.63208pt too wide) in paragraph at lines 126--126
 system(convert Chapter6/algoscore1.tif `dirname Chapter6/algoscore1.tif`/`basen
 ame Chapter6/algoscore1.tif .tif`.png)...executed.
 
-<Chapter6/algoscore1.png, id=1429, 478.78876pt x 487.8225pt>
+<Chapter6/algoscore1.png, id=1467, 478.78876pt x 487.8225pt>
 File: Chapter6/algoscore1.png Graphic file (type png)
 
-<use Chapter6/algoscore1.png> [104] [105 <./Chapter6/algoscore1.png>]
+<use Chapter6/algoscore1.png> [106] [107 <./Chapter6/algoscore1.png>]
 system(convert Chapter6/algoscore2.tif `dirname Chapter6/algoscore2.tif`/`basen
 ame Chapter6/algoscore2.tif .tif`.png)...executed.
 
 
-<Chapter6/algoscore2.png, id=1442, 935.495pt x 360.34625pt>
+<Chapter6/algoscore2.png, id=1479, 935.495pt x 360.34625pt>
 File: Chapter6/algoscore2.png Graphic file (type png)
 
 <use Chapter6/algoscore2.png>
@@ -546,20 +545,20 @@ system(convert Chapter6/algoScore_partials.tif `dirname Chapter6/algoScore_part
 ials.tif`/`basename Chapter6/algoScore_partials.tif .tif`.png)...executed.
 
 
-<Chapter6/algoScore_partials.png, id=1445, 1133.23375pt x 339.2675pt>
+<Chapter6/algoScore_partials.png, id=1482, 1133.23375pt x 339.2675pt>
 File: Chapter6/algoScore_partials.png Graphic file (type png)
 
 <use Chapter6/algoScore_partials.png>
-Overfull \hbox (5.69046pt too wide) in paragraph at lines 156--157
+Overfull \hbox (5.69046pt too wide) in paragraph at lines 152--153
  [][] 
  []
 
-[106 <./Chapter6/algoscore2.png>] [107 <./Chapter6/algoScore_partials.png>]
-[108]
+[108 <./Chapter6/algoscore2.png>] [109 <./Chapter6/algoScore_partials.png>]
+[110] [111]
 system(convert Chapter6/midi_phrase.tif `dirname Chapter6/midi_phrase.tif`/`bas
 ename Chapter6/midi_phrase.tif .tif`.png)...executed.
 
- <Chapter6/midi_phrase.png, id=1487, 373.395pt x 372.39125pt>
+ <Chapter6/midi_phrase.png, id=1532, 373.395pt x 372.39125pt>
 File: Chapter6/midi_phrase.png Graphic file (type png)
 
 <use Chapter6/midi_phrase.png>
@@ -567,20 +566,20 @@ system(convert Chapter6/midi_gesualdo.tif `dirname Chapter6/midi_gesualdo.tif`/
 `basename Chapter6/midi_gesualdo.tif .tif`.png)...executed.
 
 
-<Chapter6/midi_gesualdo.png, id=1488, 1417.295pt x 836.12375pt>
+<Chapter6/midi_gesualdo.png, id=1533, 1417.295pt x 836.12375pt>
 File: Chapter6/midi_gesualdo.png Graphic file (type png)
 
-<use Chapter6/midi_gesualdo.png> [109] [110 <./Chapter6/midi_phrase.png>]
-[111 <./Chapter6/midi_gesualdo.png>]) [112]
+<use Chapter6/midi_gesualdo.png> [112 <./Chapter6/midi_phrase.png>] [113 <./Cha
+pter6/midi_gesualdo.png>]) [114]
 \openout2 = `Chapter7/Chapter7.aux'.
 
  (./Chapter7/Chapter7.tex
 Chapter 7.
-[113
+[115
 
 
 
-] [114] [115]
+] [116] [117]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -638,11 +637,11 @@ Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [116] [117]
+ [118] [119]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [118]
+ [120]
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
 Missing character: There is no Ð in font cmr10!
@@ -659,78 +658,235 @@ Overfull \hbox (87.2045pt too wide) in paragraph at lines 54--58
 rico Reuben  com-puter. www.myspace.com/freupinta 
  []
 
-) [119]
-No file Thesis.bbl.
-\openout2 = `Bibliography/Bibliography.aux'.
-
-(./Bibliography/Bibliography.tex [120
-
-
-] [121]
-Overfull \hbox (5.40112pt too wide) in paragraph at lines 151--152
-[]\OT1/cmr/m/n/10.95 The Mu-seum of Broad-cast Com-mu-ni-ca-tions (MBC). URL: [
-][]\OT1/cmtt/m/n/10.95 http://www.museum.tv/eotvsection.[][] 
- []
-
-
-Overfull \hbox (4.79317pt too wide) in paragraph at lines 189--190
-[]\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
- Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
-][] 
- []
-
-[122]
-Overfull \hbox (6.83047pt too wide) in paragraph at lines 217--218
-[]\OT1/cmr/m/n/10.95 sound record-ings', in \OT1/cmr/m/it/10.95 Pro-ceed-ings o
-f CHARM\OT1/cmr/m/n/10.95 , Sym-po-sium 6, 2008, URL: [][]\OT1/cmtt/m/n/10.95 h
-ttp://images.cch.kcl.[][] 
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 251--46
-
- []
-
-[123]
-\openout2 = `Appendixes/Appendixes.aux'.
-
- (./Appendixes/Appendixes.tex
-<Appendixes/zizek_page1.png, id=1591, 845.0772pt x 597.432pt>
-File: Appendixes/zizek_page1.png Graphic file (type png)
-
-<use Appendixes/zizek_page1.png>
-<Appendixes/zizek_page2.png, id=1592, 845.0772pt x 597.432pt>
-File: Appendixes/zizek_page2.png Graphic file (type png)
-
-<use Appendixes/zizek_page2.png>
-<Appendixes/zizek_page3.png, id=1593, 845.0772pt x 597.432pt>
-File: Appendixes/zizek_page3.png Graphic file (type png)
-
-<use Appendixes/zizek_page3.png> [124
-
-
- <./Appendixes/zizek_page1.png (PNG copy)> <./Appendixes/zizek_page2.png (PNG c
-opy)>]) [125 <./Appendixes/zizek_page3.png (PNG copy)>] (./Thesis.aux (./Chapte
-r1/Chapter1.aux) (./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter
-4/Chapter4.aux) (./Chapter5/Chapter5.aux)
-(./Chapter6/Chapter6.aux) (./Chapter7/Chapter7.aux)
-(./Bibliography/Bibliography.aux) (./Appendixes/Appendixes.aux))
+) [121] (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)
+(./Chapter6/Chapter6.aux) (./Chapter7/Chapter7.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5726 strings out of 493876
- 82109 string characters out of 1150568
- 156196 words of memory out of 3000000
- 8302 multiletter control sequences out of 10000+50000
+ 5695 strings out of 493876
+ 81348 string characters out of 1150568
+ 155596 words of memory out of 3000000
+ 8287 multiletter control sequences out of 10000+50000
  16875 words of font info for 63 fonts, out of 3000000 for 5000
  716 hyphenation exceptions out of 8191
  30i,8n,38p,5934b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist
+pdfTeX warning (dest): name{klingbeil} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{mccartney} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{roads} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{sanjek} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{oswaldcd} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{paik} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{meidenkunst} has been referenced but does not exist
 , replaced by a fixed one
 
 pdfTeX warning (dest): name{liggett} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{cage} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{moholy} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{cutler} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{oswald} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{fox} has been referenced but does not exist, replac
+ed by a fixed one
+
+pdfTeX warning (dest): name{reuben} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{barlowspec} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{barlowpiano} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{barlowbob} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{barlowcd} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{metzer} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{zizekviolence} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{debord3} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{debord2} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{postproduction} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{mcdonough} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{ford} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{judovitz} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{duchamp} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{evans} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{zizektragedy} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{xenakis} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{eno} has been referenced but does not exist, replac
+ed by a fixed one
+
+pdfTeX warning (dest): name{rowe} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{debord} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{barthes} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{ranspec} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{relational} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{stelarc} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{pfaller} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{emmersonliving} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{zizekuniv} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{ferneyhough} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{hamilton} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{wishart} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{emmersoncross} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{berio} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{adornoaesth} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{adornointro} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{musmind} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{plato} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{aristotle} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{mithen} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{pinker} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{small} has been referenced but does not exist, repl
+aced by a fixed one
+
+pdfTeX warning (dest): name{goer} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{zizekreader} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{ranaesth} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{infthought} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{hallward} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{lyotard} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{ranimg} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{ossmith} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{babbitt} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{said} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{taruskin} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{born} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{nono} has been referenced but does not exist, repla
+ced by a fixed one
+
+pdfTeX warning (dest): name{boulez} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{schoen} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{badioumus} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{badiouethics} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{ranpoli} has been referenced but does not exist, re
 placed by a fixed one
 
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
@@ -745,9 +901,9 @@ al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texliv
 e/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/tex
 mf-dist/fonts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/f
 onts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (129 pages, 2102086 bytes).
+Output written on Thesis.pdf (125 pages, 1802012 bytes).
 PDF statistics:
- 1756 PDF objects out of 2073 (max. 8388607)
- 526 named destinations out of 1000 (max. 131072)
- 515 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1748 PDF objects out of 2073 (max. 8388607)
+ 531 named destinations out of 1000 (max. 131072)
+ 500 words of extra memory for PDF output out of 10000 (max. 10000000)
 
