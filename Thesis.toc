@@ -47,19 +47,18 @@
 \contentsline {subsubsection}{FFTFilter}{100}{section*.10}
 \contentsline {subsection}{\numberline {6.1.2}Spectral Data Extraction and Reduction}{101}{subsection.6.1.2}
 \contentsline {subsubsection}{SpearToSC}{102}{section*.11}
-\contentsline {subsubsection}{SpearToMIDI}{102}{section*.12}
+\contentsline {subsubsection}{SpearToMIDI}{103}{section*.12}
 \contentsline {section}{\numberline {6.2}Computer-Mediated-Performance}{105}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}Real-Time Scoring}{105}{subsection.6.2.1}
-\contentsline {subsubsection}{AlgorithmicScore}{105}{section*.13}
-\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{110}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{110}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{113}{subsection.6.3.2}
-\contentsline {section}{\numberline {6.4}Live-electronics}{114}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Spectrum Driven Sampler}{114}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Improvisation Environment}{114}{subsection.6.4.2}
-\contentsline {chapter}{\numberline {7}Compositions}{115}{chapter.7}
-\contentsline {section}{\numberline {7.1}E-tudes}{115}{section.7.1}
-\contentsline {section}{\numberline {7.2}On Violence}{120}{section.7.2}
-\contentsline {section}{\numberline {7.3}Zizek?}{120}{section.7.3}
-\contentsline {section}{\numberline {7.4}FreuPinta}{121}{section.7.4}
-\contentsline {section}{\numberline {7.5}Improvisations}{121}{section.7.5}
+\contentsline {subsubsection}{AlgorithmicScore}{106}{section*.13}
+\contentsline {section}{\numberline {6.3}Computer-Aided-Composition Tools}{111}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Score Visualization}{111}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Midi Triggering}{114}{subsection.6.3.2}
+\contentsline {chapter}{\numberline {7}Compositions}{116}{chapter.7}
+\contentsline {section}{\numberline {7.1}E-tudes}{116}{section.7.1}
+\contentsline {section}{\numberline {7.2}On Violence}{121}{section.7.2}
+\contentsline {section}{\numberline {7.3}Zizek?}{121}{section.7.3}
+\contentsline {section}{\numberline {7.4}FreuPinta}{122}{section.7.4}
+\contentsline {section}{\numberline {7.5}Improvisations}{122}{section.7.5}
+\contentsline {paragraph}{}{123}{section*.14}
+\contentsline {paragraph}{}{123}{section*.15}
