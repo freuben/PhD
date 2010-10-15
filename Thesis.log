@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  14 OCT 2010 18:50
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  15 OCT 2010 17:07
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -199,7 +199,7 @@ File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
 (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
-(./Chapter3/Chapter3.aux))
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -347,13 +347,13 @@ Chapter 2.
 
 
 ] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-Overfull \hbox (18.39134pt too wide) in paragraph at lines 89--90
+Overfull \hbox (18.39134pt too wide) in paragraph at lines 90--91
 []\OT1/cmr/m/n/10.95 It was through the de-vel-op-ment of se-ri-al-ism in the f
 ifties and sixties---led by Boulez and Stockhausen---
  []
 
 [14] [15] [16]
-Overfull \hbox (11.06387pt too wide) in paragraph at lines 102--103
+Overfull \hbox (11.06387pt too wide) in paragraph at lines 103--104
 \OT1/cmr/m/n/10.95 Rzewski, and their fol-low-ers, who were more frankly politi
 -cized than those in the []
  []
@@ -389,17 +389,12 @@ Chapter 5.
 
 
 
-] [62] [63] [64] [65] [66] [67] [68] [69]
-Overfull \hbox (5.01091pt too wide) in paragraph at lines 51--52
-\OT1/cmr/m/n/10.95 During the eight-ies, the in-ter-est of de-lib-er-ately us-i
-ng ap-pro-pri-ated ma-te-rial as a cre-ative tool reemerged
- []
-
-[70] [71] [72] [73] [74] [75] [76] [77] [78]
+] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
+[76] [77] [78]
 Missing character: There is no Ž in font cmti10!
  [79] [80] [81] [82]
-Overfull \hbox (1.36089pt too wide) in paragraph at lines 100--101
-\OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vises that re-pro-duce s
+Overfull \hbox (1.90839pt too wide) in paragraph at lines 101--102
+\OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vices that re-pro-duce s
 ound can also be used as `mu-si-cal instruments'---
  []
 
@@ -409,21 +404,18 @@ Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
  [89] [90] [91] [92] [93] [94] [95]) [96]
 (./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
-(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)) 
+) 
 Here is how much of TeX's memory you used:
- 5498 strings out of 493876
- 78067 string characters out of 1150568
- 154008 words of memory out of 3000000
- 8196 multiletter control sequences out of 10000+50000
+ 5500 strings out of 493876
+ 78235 string characters out of 1150568
+ 154767 words of memory out of 3000000
+ 8218 multiletter control sequences out of 10000+50000
  16707 words of font info for 62 fonts, out of 3000000 for 5000
  716 hyphenation exceptions out of 8191
- 30i,8n,38p,5934b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{roads} has been referenced but does not exist, re
-placed by a fixed one
+ 30i,8n,38p,5918b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{roads} has been referenced but does not exist, rep
+laced by a fixed one
 
 pdfTeX warning (dest): name{sanjek} has been referenced but does not exist, rep
 laced by a fixed one
@@ -638,84 +630,6 @@ eplaced by a fixed one
 pdfTeX warning (dest): name{chapter6} has been referenced but does not exist, r
 eplaced by a fixed one
 
-pdfTeX warning (dest): name{figure.6.11} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.10} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.9} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.8} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.6} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.2} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.6.1} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.7.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.7} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.6.3.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.6.3.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.6.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.6.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.6.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.6.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.6.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.6.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.6} has been referenced but does not exist, 
-replaced by a fixed one
-
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
 e/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/2008/
@@ -727,9 +641,9 @@ b></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texliv
 e/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/tex
 mf-dist/fonts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (100 pages, 561822 bytes).
+Output written on Thesis.pdf (100 pages, 558531 bytes).
 PDF statistics:
- 1364 PDF objects out of 1440 (max. 8388607)
- 458 named destinations out of 1000 (max. 131072)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1372 PDF objects out of 1440 (max. 8388607)
+ 434 named destinations out of 1000 (max. 131072)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
