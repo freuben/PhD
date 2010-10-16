@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  15 OCT 2010 17:07
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  16 OCT 2010 02:00
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -198,8 +198,7 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
-(./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
-(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux))
+(./Thesis.aux (./Chapter1/Chapter1.aux) (./Bibliography/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -312,17 +311,17 @@ LaTeX Warning: No \author given.
 [1
 
 {/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Thesis.toc [1
-
-])
+(./Thesis.toc)
 \tf@toc=\write4
 \openout4 = `Thesis.toc'.
 
- [2] (./Thesis.lof)
+ [1
+
+] (./Thesis.lof)
 \tf@lof=\write5
 \openout5 = `Thesis.lof'.
 
- [3
+ [2
 
 ]
 \openout2 = `Chapter1/Chapter1.aux'.
@@ -333,317 +332,82 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.6 
-     [1
+l.11 
+      [1
 
 
 ] [2]) [3]
-\openout2 = `Chapter2/Chapter2.aux'.
+No file Thesis.bbl.
+\openout2 = `Bibliography/Bibliography.aux'.
 
- (./Chapter2/Chapter2.tex
-Chapter 2.
-[4
-
+(./Bibliography/Bibliography.tex [4
 
 
-] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-Overfull \hbox (18.39134pt too wide) in paragraph at lines 90--91
-[]\OT1/cmr/m/n/10.95 It was through the de-vel-op-ment of se-ri-al-ism in the f
-ifties and sixties---led by Boulez and Stockhausen---
+] [5]
+Overfull \hbox (5.40112pt too wide) in paragraph at lines 151--152
+[]\OT1/cmr/m/n/10.95 The Mu-seum of Broad-cast Com-mu-ni-ca-tions (MBC). URL: [
+][]\OT1/cmtt/m/n/10.95 http://www.museum.tv/eotvsection.[][] 
  []
 
-[14] [15] [16]
-Overfull \hbox (11.06387pt too wide) in paragraph at lines 103--104
-\OT1/cmr/m/n/10.95 Rzewski, and their fol-low-ers, who were more frankly politi
--cized than those in the []
+
+Overfull \hbox (4.79317pt too wide) in paragraph at lines 189--190
+[]\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
+ Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
+][] 
  []
 
-[17] [18] [19]
-Missing character: There is no Ž in font cmti10!
- [20] [21] [22]) [23]
-\openout2 = `Chapter3/Chapter3.aux'.
-
- (./Chapter3/Chapter3.tex
-Chapter 3.
-[24
-
-
-
-] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]) [38]
-\openout2 = `Chapter4/Chapter4.aux'.
-
-
-(./Chapter4/Chapter4.tex
-Chapter 4.
-[39
-
-
-
-] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
-[54] [55] [56] [57] [58] [59]) [60]
-\openout2 = `Chapter5/Chapter5.aux'.
-
- (./Chapter5/Chapter5.tex
-Chapter 5.
-[61
-
-
-
-] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
-[76] [77] [78]
-Missing character: There is no Ž in font cmti10!
- [79] [80] [81] [82]
-Overfull \hbox (1.90839pt too wide) in paragraph at lines 101--102
-\OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vices that re-pro-duce s
-ound can also be used as `mu-si-cal instruments'---
+[6]
+Overfull \hbox (6.83047pt too wide) in paragraph at lines 217--218
+[]\OT1/cmr/m/n/10.95 sound record-ings', in \OT1/cmr/m/it/10.95 Pro-ceed-ings o
+f CHARM\OT1/cmr/m/n/10.95 , Sym-po-sium 6, 2008, URL: [][]\OT1/cmtt/m/n/10.95 h
+ttp://images.cch.kcl.[][] 
  []
 
-Missing character: There is no Õ in font cmr10!
-[83] [84] [85] [86] [87] [88]
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
- [89] [90] [91] [92] [93] [94] [95]) [96]
-(./Thesis.aux (./Chapter1/Chapter1.aux) (./Chapter2/Chapter2.aux)
-(./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux)) 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 251--48
+
+ []
+
+[7] (./Thesis.aux (./Chapter1/Chapter1.aux) (./Bibliography/Bibliography.aux)) 
 ) 
 Here is how much of TeX's memory you used:
- 5500 strings out of 493876
- 78235 string characters out of 1150568
- 154767 words of memory out of 3000000
- 8218 multiletter control sequences out of 10000+50000
- 16707 words of font info for 62 fonts, out of 3000000 for 5000
- 716 hyphenation exceptions out of 8191
- 30i,8n,38p,5918b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{roads} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{sanjek} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{oswaldcd} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist, 
+ 5085 strings out of 493876
+ 73348 string characters out of 1150568
+ 142604 words of memory out of 3000000
+ 8170 multiletter control sequences out of 10000+50000
+ 14672 words of font info for 56 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 30i,8n,24p,2825b,297s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter7} has been referenced but does not exist, 
 replaced by a fixed one
-
-pdfTeX warning (dest): name{paik} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{meidenkunst} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{liggett} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{cage} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{moholy} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{cutler} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{oswald} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{fox} has been referenced but does not exist, replac
-ed by a fixed one
-
-pdfTeX warning (dest): name{reuben} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{barlowspec} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{barlowpiano} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{barlowbob} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{barlowcd} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{metzer} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{zizekviolence} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{debord3} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{debord2} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{postproduction} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{mcdonough} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{ford} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{judovitz} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{duchamp} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{evans} has been referenced but does not exist, repl
-aced by a fixed one
-
-pdfTeX warning (dest): name{zizektragedy} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{xenakis} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{eno} has been referenced but does not exist, replac
-ed by a fixed one
-
-pdfTeX warning (dest): name{rowe} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{debord} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{barthes} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{ranspec} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{relational} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{stelarc} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{pfaller} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{emmersonliving} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{zizekuniv} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{ferneyhough} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{hamilton} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{wishart} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{emmersoncross} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{berio} has been referenced but does not exist, repl
-aced by a fixed one
-
-pdfTeX warning (dest): name{adornoaesth} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{adornointro} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{musmind} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{plato} has been referenced but does not exist, repl
-aced by a fixed one
-
-pdfTeX warning (dest): name{aristotle} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{mithen} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{pinker} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{small} has been referenced but does not exist, repl
-aced by a fixed one
-
-pdfTeX warning (dest): name{goer} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{zizekreader} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{ranaesth} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{infthought} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{hallward} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{lyotard} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{ranimg} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{ossmith} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{babbitt} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{said} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{taruskin} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{born} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{nono} has been referenced but does not exist, repla
-ced by a fixed one
-
-pdfTeX warning (dest): name{boulez} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{schoen} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{badioumus} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{badiouethics} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{ranpoli} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{chapter7} has been referenced but does not exist, r
-eplaced by a fixed one
 
 pdfTeX warning (dest): name{chapter6} has been referenced but does not exist, r
 eplaced by a fixed one
 
+pdfTeX warning (dest): name{chapter5} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{chapter4} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{chapter3} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{chapter2} has been referenced but does not exist, r
+eplaced by a fixed one
+
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
-e/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/2008/
-texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist
-/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fonts/typ
-e1/bluesky/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
-/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.pf
-b></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/loc
-al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texliv
-e/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/tex
-mf-dist/fonts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (100 pages, 558531 bytes).
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/tex
+mf-dist/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fo
+nts/type1/bluesky/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/
+bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/
+cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></
+usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local
+/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt10.pfb>
+Output written on Thesis.pdf (10 pages, 117148 bytes).
 PDF statistics:
- 1372 PDF objects out of 1440 (max. 8388607)
- 434 named destinations out of 1000 (max. 131072)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 131072)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
