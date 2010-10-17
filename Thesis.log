@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  17 OCT 2010 03:11
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  17 OCT 2010 03:38
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -721,7 +721,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  5796 strings out of 493876
  82744 string characters out of 1150568
- 156588 words of memory out of 3000000
+ 155607 words of memory out of 3000000
  8308 multiletter control sequences out of 10000+50000
  16875 words of font info for 63 fonts, out of 3000000 for 5000
  716 hyphenation exceptions out of 8191
@@ -748,7 +748,7 @@ cal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive
 mf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/texmf-dist/fo
 nts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1
 /bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (134 pages, 1845774 bytes).
+Output written on Thesis.pdf (134 pages, 1846544 bytes).
 PDF statistics:
  1864 PDF objects out of 2073 (max. 8388607)
  583 named destinations out of 1000 (max. 131072)
