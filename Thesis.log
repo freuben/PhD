@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 OCT 2010 00:15
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 OCT 2010 15:05
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -232,7 +232,7 @@ LaTeX Warning: Label `fig:example' multiply defined.
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
-) (./Bibliography/Bibliography.aux))
+) (./Chapter6/Chapter6.aux) (./Bibliography/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -381,10 +381,10 @@ LaTeX Warning: No \author given.
 
 
 ]
-[10]
 \openout2 = `Chapter1/Chapter1.aux'.
 
- (./Chapter1/Chapter1.tex
+
+(./Chapter1/Chapter1.tex
 Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -451,7 +451,9 @@ Missing character: There is no Õ in font cmr10!
 [80] [81] [82] [83] [84] [85]
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
- [86] [87] [88] [89] [90] [91] [92]) [93]
+ [86] [87]
+Missing character: There is no Õ in font cmr9!
+ [88] [89] [90] [91] [92]) [93]
 \openout2 = `Chapter5/Chapter5.aux'.
 
 
@@ -488,7 +490,7 @@ Overfull \hbox (22.12946pt too wide) in paragraph at lines 29--29
 system(convert chapter5/spectovocal.tif `dirname chapter5/spectovocal.tif`/`bas
 ename chapter5/spectovocal.tif .tif`.png)...executed.
 
-<chapter5/spectovocal.png, id=1415, 790.152pt x 496.9767pt>
+<chapter5/spectovocal.png, id=1445, 790.152pt x 496.9767pt>
 File: chapter5/spectovocal.png Graphic file (type png)
 
 <use chapter5/spectovocal.png>
@@ -496,7 +498,7 @@ system(convert chapter5/spectonoise.tif `dirname chapter5/spectonoise.tif`/`bas
 ename chapter5/spectonoise.tif .tif`.png)...executed.
 
 
-<chapter5/spectonoise.png, id=1416, 794.97pt x 472.8867pt>
+<chapter5/spectonoise.png, id=1446, 794.97pt x 472.8867pt>
 File: chapter5/spectonoise.png Graphic file (type png)
 
 <use chapter5/spectonoise.png> [97] [98 <./chapter5/spectovocal.png (PNG copy)>
@@ -504,7 +506,7 @@ File: chapter5/spectonoise.png Graphic file (type png)
 system(convert chapter5/Spear1.tif `dirname chapter5/Spear1.tif`/`basename chap
 ter5/Spear1.tif .tif`.png)...executed.
 
- <chapter5/Spear1.png, id=1441, 1373.13pt x 749.80125pt>
+ <chapter5/Spear1.png, id=1470, 1373.13pt x 749.80125pt>
 File: chapter5/Spear1.png Graphic file (type png)
 
 <use chapter5/Spear1.png> [99 <./chapter5/spectonoise.png (PNG copy)>]
@@ -512,7 +514,7 @@ system(convert chapter5/Spear2.tif `dirname chapter5/Spear2.tif`/`basename chap
 ter5/Spear2.tif .tif`.png)...executed.
 
 
-<chapter5/Spear2.png, id=1452, 338.4645pt x 211.992pt>
+<chapter5/Spear2.png, id=1482, 338.4645pt x 211.992pt>
 File: chapter5/Spear2.png Graphic file (type png)
 
 <use chapter5/Spear2.png> [100 <./chapter5/Spear1.png>]
@@ -520,7 +522,7 @@ system(convert chapter5/Spear3.tif `dirname chapter5/Spear3.tif`/`basename chap
 ter5/Spear3.tif .tif`.png)...executed.
 
 
-<chapter5/Spear3.png, id=1466, 437.7153pt x 278.2395pt>
+<chapter5/Spear3.png, id=1496, 437.7153pt x 278.2395pt>
 File: chapter5/Spear3.png Graphic file (type png)
 
 <use chapter5/Spear3.png> [101 <./chapter5/Spear2.png (PNG copy)>]
@@ -528,7 +530,7 @@ system(convert chapter5/Spear4.tif `dirname chapter5/Spear4.tif`/`basename chap
 ter5/Spear4.tif .tif`.png)...executed.
 
 
-<chapter5/Spear4.png, id=1474, 433.62pt x 278.2395pt>
+<chapter5/Spear4.png, id=1504, 433.62pt x 278.2395pt>
 File: chapter5/Spear4.png Graphic file (type png)
 
 <use chapter5/Spear4.png> [102 <./chapter5/Spear3.png (PNG copy)> <./chapter5/S
@@ -541,7 +543,7 @@ Overfull \hbox (10.63208pt too wide) in paragraph at lines 119--119
 system(convert chapter5/algoscore1.tif `dirname chapter5/algoscore1.tif`/`basen
 ame chapter5/algoscore1.tif .tif`.png)...executed.
 
-<chapter5/algoscore1.png, id=1507, 478.78876pt x 487.8225pt>
+<chapter5/algoscore1.png, id=1536, 478.78876pt x 487.8225pt>
 File: chapter5/algoscore1.png Graphic file (type png)
 
 <use chapter5/algoscore1.png> [105]
@@ -549,7 +551,7 @@ system(convert chapter5/algoscore2.tif `dirname chapter5/algoscore2.tif`/`basen
 ame chapter5/algoscore2.tif .tif`.png)...executed.
 
 
-<chapter5/algoscore2.png, id=1513, 935.495pt x 360.34625pt>
+<chapter5/algoscore2.png, id=1543, 935.495pt x 360.34625pt>
 File: chapter5/algoscore2.png Graphic file (type png)
 
 <use chapter5/algoscore2.png> [106 <./chapter5/algoscore1.png>]
@@ -557,7 +559,7 @@ system(convert chapter5/algoScore_partials.tif `dirname chapter5/algoScore_part
 ials.tif`/`basename chapter5/algoScore_partials.tif .tif`.png)...executed.
 
 
-<chapter5/algoScore_partials.png, id=1522, 1133.23375pt x 339.2675pt>
+<chapter5/algoScore_partials.png, id=1552, 1133.23375pt x 339.2675pt>
 File: chapter5/algoScore_partials.png Graphic file (type png)
 
 <use chapter5/algoScore_partials.png>
@@ -578,7 +580,7 @@ system(convert chapter5/midi_phrase.tif `dirname chapter5/midi_phrase.tif`/`bas
 ename chapter5/midi_phrase.tif .tif`.png)...executed.
 
 
-<chapter5/midi_phrase.png, id=1566, 373.395pt x 372.39125pt>
+<chapter5/midi_phrase.png, id=1596, 373.395pt x 372.39125pt>
 File: chapter5/midi_phrase.png Graphic file (type png)
 
 <use chapter5/midi_phrase.png>
@@ -586,55 +588,64 @@ system(convert chapter5/midi_gesualdo.tif `dirname chapter5/midi_gesualdo.tif`/
 `basename chapter5/midi_gesualdo.tif .tif`.png)...executed.
 
 
-<chapter5/midi_gesualdo.png, id=1567, 1417.295pt x 836.12375pt>
+<chapter5/midi_gesualdo.png, id=1597, 1417.295pt x 836.12375pt>
 File: chapter5/midi_gesualdo.png Graphic file (type png)
 
 <use chapter5/midi_gesualdo.png> [110] [111 <./chapter5/midi_phrase.png>]
 [112 <./chapter5/midi_gesualdo.png>]) [113]
+\openout2 = `Chapter6/Chapter6.aux'.
+
+ (./Chapter6/Chapter6.tex
+Chapter 6.
+) [114
+
+
+
+]
 \openout2 = `Bibliography/Bibliography.aux'.
 
- (./Bibliography/Bibliography.tex
-[114
+ (./Bibliography/Bibliography.tex [115
 
 
-] [115]
-Overfull \hbox (5.40112pt too wide) in paragraph at lines 152--153
+] [116]
+Overfull \hbox (5.40112pt too wide) in paragraph at lines 160--161
 []\OT1/cmr/m/n/10.95 The Mu-seum of Broad-cast Com-mu-ni-ca-tions (MBC). URL: [
 ][]\OT1/cmtt/m/n/10.95 http://www.museum.tv/eotvsection.[][] 
  []
 
-
-Overfull \hbox (4.79317pt too wide) in paragraph at lines 190--191
+[117]
+Overfull \hbox (4.79317pt too wide) in paragraph at lines 198--199
 []\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
  Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
 ][] 
  []
 
-[116]
-Overfull \hbox (6.83047pt too wide) in paragraph at lines 218--219
+
+Overfull \hbox (6.83047pt too wide) in paragraph at lines 230--231
 []\OT1/cmr/m/n/10.95 sound record-ings', in \OT1/cmr/m/it/10.95 Pro-ceed-ings o
 f CHARM\OT1/cmr/m/n/10.95 , Sym-po-sium 6, 2008, URL: [][]\OT1/cmtt/m/n/10.95 h
 ttp://images.cch.kcl.[][] 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 252--49
+[118])
+Underfull \hbox (badness 10000) in paragraph at lines 264--49
 
  []
 
-[117] (./Thesis.aux (./Portfolio/Portfolio.aux) (./Preface/Preface.aux)
+[119] (./Thesis.aux (./Portfolio/Portfolio.aux) (./Preface/Preface.aux)
 (./Aknowledge/Aknowledge.aux) (./Chapter1/Chapter1.aux)
 (./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
-(./Chapter5/Chapter5.aux) (./Bibliography/Bibliography.aux))
+(./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux)
+(./Bibliography/Bibliography.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5762 strings out of 493876
- 82291 string characters out of 1150568
- 156249 words of memory out of 3000000
- 8300 multiletter control sequences out of 10000+50000
+ 5797 strings out of 493876
+ 82729 string characters out of 1150568
+ 156607 words of memory out of 3000000
+ 8309 multiletter control sequences out of 10000+50000
  16875 words of font info for 63 fonts, out of 3000000 for 5000
  716 hyphenation exceptions out of 8191
  30i,8n,38p,5918b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -660,9 +671,9 @@ cal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive
 mf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/texmf-dist/fo
 nts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1
 /bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (128 pages, 1823370 bytes).
+Output written on Thesis.pdf (129 pages, 1832411 bytes).
 PDF statistics:
- 1795 PDF objects out of 2073 (max. 8388607)
- 565 named destinations out of 1000 (max. 131072)
- 444 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1851 PDF objects out of 2073 (max. 8388607)
+ 583 named destinations out of 1000 (max. 131072)
+ 492 words of extra memory for PDF output out of 10000 (max. 10000000)
 
