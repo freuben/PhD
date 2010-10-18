@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 OCT 2010 15:05
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 OCT 2010 15:30
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -490,7 +490,7 @@ Overfull \hbox (22.12946pt too wide) in paragraph at lines 29--29
 system(convert chapter5/spectovocal.tif `dirname chapter5/spectovocal.tif`/`bas
 ename chapter5/spectovocal.tif .tif`.png)...executed.
 
-<chapter5/spectovocal.png, id=1445, 790.152pt x 496.9767pt>
+<chapter5/spectovocal.png, id=1449, 790.152pt x 496.9767pt>
 File: chapter5/spectovocal.png Graphic file (type png)
 
 <use chapter5/spectovocal.png>
@@ -498,7 +498,7 @@ system(convert chapter5/spectonoise.tif `dirname chapter5/spectonoise.tif`/`bas
 ename chapter5/spectonoise.tif .tif`.png)...executed.
 
 
-<chapter5/spectonoise.png, id=1446, 794.97pt x 472.8867pt>
+<chapter5/spectonoise.png, id=1450, 794.97pt x 472.8867pt>
 File: chapter5/spectonoise.png Graphic file (type png)
 
 <use chapter5/spectonoise.png> [97] [98 <./chapter5/spectovocal.png (PNG copy)>
@@ -506,7 +506,7 @@ File: chapter5/spectonoise.png Graphic file (type png)
 system(convert chapter5/Spear1.tif `dirname chapter5/Spear1.tif`/`basename chap
 ter5/Spear1.tif .tif`.png)...executed.
 
- <chapter5/Spear1.png, id=1470, 1373.13pt x 749.80125pt>
+ <chapter5/Spear1.png, id=1474, 1373.13pt x 749.80125pt>
 File: chapter5/Spear1.png Graphic file (type png)
 
 <use chapter5/Spear1.png> [99 <./chapter5/spectonoise.png (PNG copy)>]
@@ -514,7 +514,7 @@ system(convert chapter5/Spear2.tif `dirname chapter5/Spear2.tif`/`basename chap
 ter5/Spear2.tif .tif`.png)...executed.
 
 
-<chapter5/Spear2.png, id=1482, 338.4645pt x 211.992pt>
+<chapter5/Spear2.png, id=1486, 338.4645pt x 211.992pt>
 File: chapter5/Spear2.png Graphic file (type png)
 
 <use chapter5/Spear2.png> [100 <./chapter5/Spear1.png>]
@@ -522,7 +522,7 @@ system(convert chapter5/Spear3.tif `dirname chapter5/Spear3.tif`/`basename chap
 ter5/Spear3.tif .tif`.png)...executed.
 
 
-<chapter5/Spear3.png, id=1496, 437.7153pt x 278.2395pt>
+<chapter5/Spear3.png, id=1500, 437.7153pt x 278.2395pt>
 File: chapter5/Spear3.png Graphic file (type png)
 
 <use chapter5/Spear3.png> [101 <./chapter5/Spear2.png (PNG copy)>]
@@ -530,7 +530,7 @@ system(convert chapter5/Spear4.tif `dirname chapter5/Spear4.tif`/`basename chap
 ter5/Spear4.tif .tif`.png)...executed.
 
 
-<chapter5/Spear4.png, id=1504, 433.62pt x 278.2395pt>
+<chapter5/Spear4.png, id=1508, 433.62pt x 278.2395pt>
 File: chapter5/Spear4.png Graphic file (type png)
 
 <use chapter5/Spear4.png> [102 <./chapter5/Spear3.png (PNG copy)> <./chapter5/S
@@ -543,7 +543,7 @@ Overfull \hbox (10.63208pt too wide) in paragraph at lines 119--119
 system(convert chapter5/algoscore1.tif `dirname chapter5/algoscore1.tif`/`basen
 ame chapter5/algoscore1.tif .tif`.png)...executed.
 
-<chapter5/algoscore1.png, id=1536, 478.78876pt x 487.8225pt>
+<chapter5/algoscore1.png, id=1540, 478.78876pt x 487.8225pt>
 File: chapter5/algoscore1.png Graphic file (type png)
 
 <use chapter5/algoscore1.png> [105]
@@ -551,7 +551,7 @@ system(convert chapter5/algoscore2.tif `dirname chapter5/algoscore2.tif`/`basen
 ame chapter5/algoscore2.tif .tif`.png)...executed.
 
 
-<chapter5/algoscore2.png, id=1543, 935.495pt x 360.34625pt>
+<chapter5/algoscore2.png, id=1547, 935.495pt x 360.34625pt>
 File: chapter5/algoscore2.png Graphic file (type png)
 
 <use chapter5/algoscore2.png> [106 <./chapter5/algoscore1.png>]
@@ -559,7 +559,7 @@ system(convert chapter5/algoScore_partials.tif `dirname chapter5/algoScore_part
 ials.tif`/`basename chapter5/algoScore_partials.tif .tif`.png)...executed.
 
 
-<chapter5/algoScore_partials.png, id=1552, 1133.23375pt x 339.2675pt>
+<chapter5/algoScore_partials.png, id=1556, 1133.23375pt x 339.2675pt>
 File: chapter5/algoScore_partials.png Graphic file (type png)
 
 <use chapter5/algoScore_partials.png>
@@ -580,7 +580,7 @@ system(convert chapter5/midi_phrase.tif `dirname chapter5/midi_phrase.tif`/`bas
 ename chapter5/midi_phrase.tif .tif`.png)...executed.
 
 
-<chapter5/midi_phrase.png, id=1596, 373.395pt x 372.39125pt>
+<chapter5/midi_phrase.png, id=1600, 373.395pt x 372.39125pt>
 File: chapter5/midi_phrase.png Graphic file (type png)
 
 <use chapter5/midi_phrase.png>
@@ -588,7 +588,7 @@ system(convert chapter5/midi_gesualdo.tif `dirname chapter5/midi_gesualdo.tif`/
 `basename chapter5/midi_gesualdo.tif .tif`.png)...executed.
 
 
-<chapter5/midi_gesualdo.png, id=1597, 1417.295pt x 836.12375pt>
+<chapter5/midi_gesualdo.png, id=1601, 1417.295pt x 836.12375pt>
 File: chapter5/midi_gesualdo.png Graphic file (type png)
 
 <use chapter5/midi_gesualdo.png> [110] [111 <./chapter5/midi_phrase.png>]
@@ -642,8 +642,8 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5797 strings out of 493876
- 82729 string characters out of 1150568
+ 5798 strings out of 493876
+ 82742 string characters out of 1150568
  156607 words of memory out of 3000000
  8309 multiletter control sequences out of 10000+50000
  16875 words of font info for 63 fonts, out of 3000000 for 5000
@@ -671,9 +671,9 @@ cal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive
 mf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/texmf-dist/fo
 nts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1
 /bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (129 pages, 1832411 bytes).
+Output written on Thesis.pdf (129 pages, 1832997 bytes).
 PDF statistics:
- 1851 PDF objects out of 2073 (max. 8388607)
- 583 named destinations out of 1000 (max. 131072)
+ 1854 PDF objects out of 2073 (max. 8388607)
+ 584 named destinations out of 1000 (max. 131072)
  492 words of extra memory for PDF output out of 10000 (max. 10000000)
 
