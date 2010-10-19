@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  18 OCT 2010 19:41
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  19 OCT 2010 15:18
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -311,19 +311,29 @@ File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 
 
 
-{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) [3
-]
-(./Thesis.aux (./Chapter6/Chapter6.aux)) ) 
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+) [4]
+[5] (./Thesis.aux (./Chapter6/Chapter6.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4986 strings out of 493876
- 72463 string characters out of 1150568
- 142283 words of memory out of 3000000
- 8161 multiletter control sequences out of 10000+50000
- 13479 words of font info for 51 fonts, out of 3000000 for 5000
+ 4999 strings out of 493876
+ 72598 string characters out of 1150568
+ 146285 words of memory out of 3000000
+ 8163 multiletter control sequences out of 10000+50000
+ 14084 words of font info for 53 fonts, out of 3000000 for 5000
  714 hyphenation exceptions out of 8191
- 30i,8n,38p,2886b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{realtimep
-lunderfuck} has been referenced but does not exist, replaced by a fixed one
+ 30i,8n,38p,3162b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{macroplunder} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter5} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{realtimeplunderfuck} has been referenced but does n
+ot exist, replaced by a fixed one
 
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
@@ -333,9 +343,9 @@ ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
 uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
 ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb><
 /usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (3 pages, 72967 bytes).
+Output written on Thesis.pdf (5 pages, 82413 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 131072)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 131072)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
