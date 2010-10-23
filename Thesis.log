@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  21 OCT 2010 01:50
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  23 OCT 2010 02:12
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -198,7 +198,41 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
 \Fld@listcount=\count98
 )
-(./Thesis.aux (./Chapter6/Chapter6.aux))
+(./Thesis.aux (./Portfolio/Portfolio.aux) (./Preface/Preface.aux)
+(./Aknowledge/Aknowledge.aux) (./Chapter1/Chapter1.aux)
+(./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
+(./Chapter5/Chapter5.aux
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+) (./Chapter6/Chapter6.aux) (./Bibliography/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -295,72 +329,352 @@ LaTeX Info: Redefining \pageref on input line 26.
 \openout3 = `Thesis.out'.
 
 \AtBeginShipoutBox=\box27
-\openout2 = `Chapter6/Chapter6.aux'.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 
- (./Chapter6/Chapter6.tex
-Chapter 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 10.
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/local/texlive/2008/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
-) [1
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Thesis.toc [1
+
+])
+\tf@toc=\write4
+\openout4 = `Thesis.toc'.
+
+ [2]
+\openout2 = `Portfolio/Portfolio.aux'.
+
+ (./Portfolio/Portfolio.tex
+\c@qcounter=\count105
+ [3
+
+
+] [4]) [5] (./Thesis.lof)
+\tf@lof=\write5
+\openout5 = `Thesis.lof'.
+
+
+[6
+
+
+]
+\openout2 = `Preface/Preface.aux'.
+
+ (./Preface/Preface.tex [7
+
+
+] [8]) [9]
+\openout2 = `Aknowledge/Aknowledge.aux'.
+
+ (./Aknowledge/Aknowledge.tex) [10
 
 
 
-{/usr/local/texlive/2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4] [5])
-[6] (./Thesis.aux (./Chapter6/Chapter6.aux))
+]
+\openout2 = `Chapter1/Chapter1.aux'.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+(./Chapter1/Chapter1.tex
+Chapter 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 
+     [1
+
+
+
+] [2] [3] [4] [5] [6] [7] [8] [9] [10]
+Overfull \hbox (18.39134pt too wide) in paragraph at lines 90--91
+[]\OT1/cmr/m/n/10.95 It was through the de-vel-op-ment of se-ri-al-ism in the f
+ifties and sixties---led by Boulez and Stockhausen---
+ []
+
+[11] [12] [13]
+Overfull \hbox (11.06387pt too wide) in paragraph at lines 103--104
+\OT1/cmr/m/n/10.95 Rzewski, and their fol-low-ers, who were more frankly politi
+-cized than those in the []
+ []
+
+[14] [15] [16]
+Missing character: There is no Ž in font cmti10!
+ [17] [18] [19]) [20]
+\openout2 = `Chapter2/Chapter2.aux'.
+
+ (./Chapter2/Chapter2.tex
+Chapter 2.
+[21
+
+
+
+] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]) [35]
+\openout2 = `Chapter3/Chapter3.aux'.
+
+
+(./Chapter3/Chapter3.tex
+Chapter 3.
+[36
+
+
+
+] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+[51] [52] [53] [54] [55] [56]) [57]
+\openout2 = `Chapter4/Chapter4.aux'.
+
+ (./Chapter4/Chapter4.tex
+Chapter 4.
+[58
+
+
+
+] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72]
+[73] [74] [75]
+Missing character: There is no Ž in font cmti10!
+ [76] [77] [78] [79]
+Overfull \hbox (1.90839pt too wide) in paragraph at lines 101--102
+\OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vices that re-pro-duce s
+ound can also be used as `mu-si-cal instruments'---
+ []
+
+Missing character: There is no Õ in font cmr10!
+[80] [81] [82] [83] [84] [85]
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+ [86] [87]
+Missing character: There is no Õ in font cmr9!
+ [88] [89] [90] [91] [92]) [93]
+\openout2 = `Chapter5/Chapter5.aux'.
+
+
+(./Chapter5/Chapter5.tex
+Chapter 5.
+[94
+
+
+
+] [95] [96]
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 30--30
+[]\OT1/cmtt/m/n/10.95 [ 128.37791442871, 154.57292175293, 140.25003051758, 246.
+26268005371, 253.09353637695,[] 
+ []
+
+
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 30--30
+[] \OT1/cmtt/m/n/10.95 364.92492675781, 396.52267456055, 1035.068359375, 1037.1
+043701172, 1241.3063964844 ];[] 
+ []
+
+
+Overfull \hbox (16.38077pt too wide) in paragraph at lines 30--30
+[]\OT1/cmtt/m/n/10.95 [ 1.8754153251648, 4.5471153259277, 5.3137745857239, 2.61
+46886348724, 1.2295168638229,[] 
+ []
+
+
+Overfull \hbox (22.12946pt too wide) in paragraph at lines 30--30
+[]  \OT1/cmtt/m/n/10.95 2.5435922145844, 3.215939283371, 2.0944044589996, 2.601
+4709472656, 2.0559096336365 ];[] 
+ []
+
+system(convert chapter5/spectovocal.tif `dirname chapter5/spectovocal.tif`/`bas
+ename chapter5/spectovocal.tif .tif`.png)...executed.
+
+<chapter5/spectovocal.png, id=1472, 790.152pt x 496.9767pt>
+File: chapter5/spectovocal.png Graphic file (type png)
+
+<use chapter5/spectovocal.png>
+system(convert chapter5/spectonoise.tif `dirname chapter5/spectonoise.tif`/`bas
+ename chapter5/spectonoise.tif .tif`.png)...executed.
+
+
+<chapter5/spectonoise.png, id=1473, 794.97pt x 472.8867pt>
+File: chapter5/spectonoise.png Graphic file (type png)
+
+<use chapter5/spectonoise.png> [97] [98 <./chapter5/spectovocal.png (PNG copy)>
+]
+system(convert chapter5/Spear1.tif `dirname chapter5/Spear1.tif`/`basename chap
+ter5/Spear1.tif .tif`.png)...executed.
+
+ <chapter5/Spear1.png, id=1500, 1373.13pt x 749.80125pt>
+File: chapter5/Spear1.png Graphic file (type png)
+
+<use chapter5/Spear1.png> [99 <./chapter5/spectonoise.png (PNG copy)>]
+system(convert chapter5/Spear2.tif `dirname chapter5/Spear2.tif`/`basename chap
+ter5/Spear2.tif .tif`.png)...executed.
+
+
+<chapter5/Spear2.png, id=1510, 338.4645pt x 211.992pt>
+File: chapter5/Spear2.png Graphic file (type png)
+
+<use chapter5/Spear2.png> [100 <./chapter5/Spear1.png>]
+system(convert chapter5/Spear3.tif `dirname chapter5/Spear3.tif`/`basename chap
+ter5/Spear3.tif .tif`.png)...executed.
+
+
+<chapter5/Spear3.png, id=1525, 437.7153pt x 278.2395pt>
+File: chapter5/Spear3.png Graphic file (type png)
+
+<use chapter5/Spear3.png> [101 <./chapter5/Spear2.png (PNG copy)>]
+system(convert chapter5/Spear4.tif `dirname chapter5/Spear4.tif`/`basename chap
+ter5/Spear4.tif .tif`.png)...executed.
+
+
+<chapter5/Spear4.png, id=1534, 433.62pt x 278.2395pt>
+File: chapter5/Spear4.png Graphic file (type png)
+
+<use chapter5/Spear4.png> [102 <./chapter5/Spear3.png (PNG copy)> <./chapter5/S
+pear4.png (PNG copy)>] [103] [104]
+Overfull \hbox (10.63208pt too wide) in paragraph at lines 122--122
+[]\OT1/cmtt/m/n/10.95 a.text("Improvise with pitch material", "Helvetica", 30, 
+30, 200, color: Color.rand);[] 
+ []
+
+system(convert chapter5/algoscore1.tif `dirname chapter5/algoscore1.tif`/`basen
+ame chapter5/algoscore1.tif .tif`.png)...executed.
+
+<chapter5/algoscore1.png, id=1567, 478.78876pt x 487.8225pt>
+File: chapter5/algoscore1.png Graphic file (type png)
+
+<use chapter5/algoscore1.png> [105]
+system(convert chapter5/algoscore2.tif `dirname chapter5/algoscore2.tif`/`basen
+ame chapter5/algoscore2.tif .tif`.png)...executed.
+
+
+<chapter5/algoscore2.png, id=1573, 935.495pt x 360.34625pt>
+File: chapter5/algoscore2.png Graphic file (type png)
+
+<use chapter5/algoscore2.png> [106 <./chapter5/algoscore1.png>]
+system(convert chapter5/algoScore_partials.tif `dirname chapter5/algoScore_part
+ials.tif`/`basename chapter5/algoScore_partials.tif .tif`.png)...executed.
+
+
+<chapter5/algoScore_partials.png, id=1582, 1133.23375pt x 339.2675pt>
+File: chapter5/algoScore_partials.png Graphic file (type png)
+
+<use chapter5/algoScore_partials.png>
+Overfull \hbox (5.69046pt too wide) in paragraph at lines 152--153
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 157.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 157.
+ [107 <./chapter5/algoscore2.png> <./chapter5/algoScore_partials.png>] [108] [1
+09]
+system(convert chapter5/midi_phrase.tif `dirname chapter5/midi_phrase.tif`/`bas
+ename chapter5/midi_phrase.tif .tif`.png)...executed.
+
+
+<chapter5/midi_phrase.png, id=1627, 373.395pt x 372.39125pt>
+File: chapter5/midi_phrase.png Graphic file (type png)
+
+<use chapter5/midi_phrase.png>
+system(convert chapter5/midi_gesualdo.tif `dirname chapter5/midi_gesualdo.tif`/
+`basename chapter5/midi_gesualdo.tif .tif`.png)...executed.
+
+
+<chapter5/midi_gesualdo.png, id=1628, 1417.295pt x 836.12375pt>
+File: chapter5/midi_gesualdo.png Graphic file (type png)
+
+<use chapter5/midi_gesualdo.png> [110] [111 <./chapter5/midi_phrase.png>]
+[112 <./chapter5/midi_gesualdo.png>]) [113]
+\openout2 = `Chapter6/Chapter6.aux'.
+
+ (./Chapter6/Chapter6.tex
+Chapter 6.
+[114
+
+
+
+] [115] [116] [117] [118] [119] [120] [121]) [122]
+\openout2 = `Bibliography/Bibliography.aux'.
+
+
+(./Bibliography/Bibliography.tex [123
+
+
+] [124]
+Overfull \hbox (5.40112pt too wide) in paragraph at lines 160--161
+[]\OT1/cmr/m/n/10.95 The Mu-seum of Broad-cast Com-mu-ni-ca-tions (MBC). URL: [
+][]\OT1/cmtt/m/n/10.95 http://www.museum.tv/eotvsection.[][] 
+ []
+
+[125]
+Overfull \hbox (4.79317pt too wide) in paragraph at lines 200--201
+[]\OT1/cmr/m/it/10.95 Society Electro-Acoustic Con-fer-ence\OT1/cmr/m/n/10.95 ,
+ Toronto, 1985. URL: [][]\OT1/cmtt/m/n/10.95 http://www.plunderphonics.com/xht[
+][] 
+ []
+
+
+Overfull \hbox (6.83047pt too wide) in paragraph at lines 232--233
+[]\OT1/cmr/m/n/10.95 sound record-ings', in \OT1/cmr/m/it/10.95 Pro-ceed-ings o
+f CHARM\OT1/cmr/m/n/10.95 , Sym-po-sium 6, 2008, URL: [][]\OT1/cmtt/m/n/10.95 h
+ttp://images.cch.kcl.[][] 
+ []
+
+[126])
+Underfull \hbox (badness 10000) in paragraph at lines 274--49
+
+ []
+
+[127] (./Thesis.aux (./Portfolio/Portfolio.aux) (./Preface/Preface.aux)
+(./Aknowledge/Aknowledge.aux) (./Chapter1/Chapter1.aux)
+(./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux)
+(./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux)
+(./Bibliography/Bibliography.aux))
+
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5004 strings out of 493876
- 72642 string characters out of 1150568
- 145286 words of memory out of 3000000
- 8161 multiletter control sequences out of 10000+50000
- 13479 words of font info for 51 fonts, out of 3000000 for 5000
- 714 hyphenation exceptions out of 8191
- 30i,8n,38p,4960b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{scorevisual} has been referenced but does not exi
-st, replaced by a fixed one
+ 5860 strings out of 493876
+ 83355 string characters out of 1150568
+ 155608 words of memory out of 3000000
+ 8309 multiletter control sequences out of 10000+50000
+ 16875 words of font info for 63 fonts, out of 3000000 for 5000
+ 716 hyphenation exceptions out of 8191
+ 30i,8n,38p,5918b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist
+, replaced by a fixed one
 
-pdfTeX warning (dest): name{fftfilter} has been referenced but does not exist, 
-replaced by a fixed one
+pdfTeX warning (dest): name{liggett} has been referenced but does not exist, re
+placed by a fixed one
 
-pdfTeX warning (dest): name{landscape4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{macroplunder} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{miditrig} has been referenced but does not exist, r
+pdfTeX warning (dest): name{chapter6} has been referenced but does not exist, r
 eplaced by a fixed one
-
-pdfTeX warning (dest): name{chapter5} has been referenced but does not exist, r
-eplaced by a fixed one
-
-pdfTeX warning (dest): name{realtimeplunderfuck} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{portfolio} has been referenced but does not exist, 
-replaced by a fixed one
 
 </usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx10.pfb></usr/loc
 al/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb></usr/local/texliv
-e/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/tex
-mf-dist/fonts/type1/bluesky/cm/cmr6.pfb></usr/local/texlive/2008/texmf-dist/fon
-ts/type1/bluesky/cm/cmr8.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bl
-uesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
-ti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmti9.pfb><
-/usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (6 pages, 95759 bytes).
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmbxti10.pfb></usr/local/texlive/2008/
+texmf-dist/fonts/type1/bluesky/cm/cmmi6.pfb></usr/local/texlive/2008/texmf-dist
+/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texlive/2008/texmf-dist/fonts/typ
+e1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky
+/cm/cmr17.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr6.p
+fb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr8.pfb></usr/lo
+cal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive
+/2008/texmf-dist/fonts/type1/bluesky/cm/cmti10.pfb></usr/local/texlive/2008/tex
+mf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/texmf-dist/fo
+nts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1
+/bluesky/cm/cmtt9.pfb>
+Output written on Thesis.pdf (138 pages, 1878879 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 131072)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2001 PDF objects out of 2073 (max. 8388607)
+ 646 named destinations out of 1000 (max. 131072)
+ 492 words of extra memory for PDF output out of 10000 (max. 10000000)
 
