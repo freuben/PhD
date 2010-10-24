@@ -59,6 +59,9 @@
 \contentsline {chapter}{\numberline {6}Compositions}{114}{chapter.6}
 \contentsline {section}{\numberline {6.1}E-tudes}{114}{section.6.1}
 \contentsline {section}{\numberline {6.2}On Violence}{122}{section.6.2}
-\contentsline {section}{\numberline {6.3}\v {Z}i\v {z}ek!?}{123}{section.6.3}
-\contentsline {section}{\numberline {6.4}FreuPinta}{123}{section.6.4}
-\contentsline {section}{\numberline {6.5}Improvisations}{123}{section.6.5}
+\contentsline {section}{\numberline {6.3}\v {Z}i\v {z}ek!?}{125}{section.6.3}
+\contentsline {section}{\numberline {6.4}FreuPinta}{127}{section.6.4}
+\contentsline {section}{\numberline {6.5}Improvisations}{127}{section.6.5}
+\contentsline {paragraph}{}{128}{section*.26}
+\contentsline {paragraph}{}{128}{section*.27}
+\contentsline {chapter}{Bibliography}{128}{section*.27}
