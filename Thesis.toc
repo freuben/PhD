@@ -1,7 +1,7 @@
 \contentsline {chapter}{Contents of Portfolio}{iii}{chapter*.2}
 \contentsline {chapter}{List of Figures}{vi}{chapter*.10}
 \contentsline {chapter}{Preface}{vii}{chapter*.11}
-\contentsline {chapter}{Aknowledgements}{x}{chapter*.12}
+\contentsline {chapter}{Acknowledgements}{x}{chapter*.12}
 \contentsline {chapter}{\numberline {1}Background}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Ranci\`{e}re and the Re-evaluation of the Notion of Modernity}{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}The Distribution of the Sensible}{2}{subsection.1.1.1}
@@ -57,8 +57,11 @@
 \contentsline {subsection}{\numberline {5.3.1}Score Visualization}{109}{subsection.5.3.1}
 \contentsline {subsection}{\numberline {5.3.2}Midi Triggering}{112}{subsection.5.3.2}
 \contentsline {chapter}{\numberline {6}Compositions}{114}{chapter.6}
-\contentsline {section}{\numberline {6.1}E-tudes}{114}{section.6.1}
-\contentsline {section}{\numberline {6.2}On Violence}{122}{section.6.2}
-\contentsline {section}{\numberline {6.3}\v {Z}i\v {z}ek!?}{125}{section.6.3}
+\contentsline {section}{\numberline {6.1}E-tudes}{115}{section.6.1}
+\contentsline {section}{\numberline {6.2}On Violence}{123}{section.6.2}
+\contentsline {section}{\numberline {6.3}\v {Z}i\v {z}ek!?}{126}{section.6.3}
 \contentsline {section}{\numberline {6.4}FreuPinta}{129}{section.6.4}
 \contentsline {section}{\numberline {6.5}Improvisations}{131}{section.6.5}
+\contentsline {paragraph}{}{134}{section*.26}
+\contentsline {paragraph}{}{134}{section*.27}
+\contentsline {chapter}{Bibliography}{134}{section*.27}
