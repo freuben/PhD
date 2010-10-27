@@ -81,7 +81,7 @@ The second stage reduces data with a frequency modulation threshold. Each group 
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=10cm]{chapter5/Spear3.tif} %change centimeters for resizeing
-   \caption{SPEARToMIDI: Point selection through frequency modulation threshold.}
+   \caption{SpearToMIDI: Point selection through frequency modulation threshold.}
    \label{fig:example}
 \end{figure}\
 If the interval is of one semitone then the frequencies are averaged to the closest chromatic note. It is possible to make microtonal divisions of the equal-tempered scale by using floating point values for the modulation threshold. The magnitude, frequency and time values of each point are stored as a collection of data. This collection can then be accessed and used to control synthesis definitions externally by generating envelopes, which gradually change frequency to produce glissandos and amplitude for gradual volume change. After these first two stages, the original data from Spear is reduced considerably by disregarding details that are not vital for the given purpose. 
@@ -90,7 +90,7 @@ The third stage, takes the points of the lines that were obtained in the previou
 \begin{figure}[htbp] %  figure placement: here, top, bottom, or page
    \centering
    \includegraphics[width=10cm]{chapter5/Spear4.tif} %change centimeters for resizeing
-   \caption{SPEARToMIDI: Note representation.}
+   \caption{SpearToMIDI: Note representation.}
    \label{fig:example}
 \end{figure}\
 shows the note representation derived from Figure 5.5, where the notes are seen as green lines, the note-on messages as blue points and the note off messages as green points.\hypertarget{wlib}{} The results of this stage can be used to generate a Midi file\footnote{Using the SimpleMIDIFile class that is part of wslib by \href{http://www.woutersnoei.nl/}{Wouter Snoei}, which is can be obtained as a Quark.} with the intention of either using it to trigger a sampler or to import it into a notation software to create a written score. The user can input the time signature and tempo for the Midi file as well as an interval value that divides the Midi note range into different Midi tracks. By doing this, the notes are separated into different tracks depending on their value in relationship to each other with the purpose of not having too many notes in the same track. Furthermore, these results can be used to create a list of Open Sound Control (OSC) commands that can be sent to the SuperCollider server for Real-Time-Synthesis and Non-Real-Time-Synthesis. Extra arguments can also be added to control other values in the synthesis definition, which can be set individually by using a function to be evaluated for each instance of the definition.
