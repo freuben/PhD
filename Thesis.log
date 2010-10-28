@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  27 OCT 2010 23:12
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2009.6.28)  28 OCT 2010 11:16
 entering extended mode
 \write18 enabled.
  %&-line parsing enabled.
@@ -439,21 +439,14 @@ Chapter 4.
 
 
 ] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72]
-[73] [74] [75]
-Missing character: There is no Ž in font cmti10!
- [76] [77] [78] [79]
+[73] [74] [75] [76] [77] [78] [79]
 Overfull \hbox (1.90839pt too wide) in paragraph at lines 101--102
 \OT1/cmr/m/n/10.95 Oswald's po-si-tion here is that de-vices that re-pro-duce s
 ound can also be used as `mu-si-cal instruments'---
  []
 
 Missing character: There is no Õ in font cmr10!
-[80] [81] [82] [83] [84] [85]
-Missing character: There is no Õ in font cmr10!
-Missing character: There is no Õ in font cmr10!
- [86] [87]
-Missing character: There is no Õ in font cmr9!
- [88] [89] [90] [91] [92]) [93]
+[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92]) [93]
 \openout2 = `Chapter5/Chapter5.aux'.
 
 
@@ -646,11 +639,11 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  5933 strings out of 493876
  84152 string characters out of 1150568
- 156604 words of memory out of 3000000
+ 155604 words of memory out of 3000000
  8309 multiletter control sequences out of 10000+50000
  16875 words of font info for 63 fonts, out of 3000000 for 5000
  716 hyphenation exceptions out of 8191
- 30i,8n,38p,5855b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,38p,5835b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{UNDEFINED} has been referenced but does not exist
 , replaced by a fixed one
 
@@ -673,7 +666,7 @@ cal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive
 mf-dist/fonts/type1/bluesky/cm/cmti9.pfb></usr/local/texlive/2008/texmf-dist/fo
 nts/type1/bluesky/cm/cmtt10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1
 /bluesky/cm/cmtt9.pfb>
-Output written on Thesis.pdf (149 pages, 1938827 bytes).
+Output written on Thesis.pdf (149 pages, 1937849 bytes).
 PDF statistics:
  2191 PDF objects out of 2487 (max. 8388607)
  719 named destinations out of 1000 (max. 131072)
